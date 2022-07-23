@@ -1,0 +1,5 @@
+phonotactics-y stuff:
+    - word-final stress
+    - strict CV(C) syllable structure. no consonant gemination; the same consonant can't be the coda of a syllable and the onset of the next syllable
+    - V(ː)ɦVː gets reduced to Vː
+

@@ -1,0 +1,87 @@
+vowel harmony:
+    recap on the vowels:
+
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   e         ø         ɨ         ʉ
+         OPEN   a         ə¹        ə²        u
+        
+      long:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   eː        øː                  uː
+         OPEN   aː        əː                  oː
+    
+    vowel harmony applies to grammatical prefixes and suffixes
+    for prefixes, all the vowels of the prefix all harmonize with the following vowel after the prefix
+    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
+    if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
+    
+    in this section we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
+    
+    there are 2 forms of vowel harmony: the close/open system and the front/back system.
+    - in the close/open system, the vowel agrees with the vowel it's harmonizing with (the "target vowel") in rounding and in backness, and is either close (denoted C) or open (denoted O). (there are some exceptions when it comes to long vowels due to the defective long back vowels)
+        in effect:
+        
+            target vowel | C vowel
+            ----------------------
+                    none | i
+                       i | i
+                       ü | ü
+                       ı | ı, iǧ
+                       u | u
+                       e | i
+                      a¹ | ü
+                      a² | ı
+                       o | u
+                     
+            target vowel | O vowel
+            ----------------------
+                    none | a²
+                       i | e
+                       ü | a¹
+                       ı | a²
+                       u | o
+                       e | e
+                      a¹ | a¹
+                      a² | a²
+                       o | o
+         
+        example: the infinitive suffix -cO:
+            suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
+            ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
+            ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/
+    
+    - in the front/back system, the vowel agrees with the target vowel in rounding and in openness, and is either front (denoted F) or back (denoted B). (again there are some exceptions when it comes to long vowels due to the defective long back vowels)
+        in effect:
+        
+            target vowel | F vowel
+            ----------------------
+                    none | a¹
+                       i | i
+                       ü | ü
+                       ı | i
+                       u | ü
+                       e | e
+                      a¹ | a¹
+                      a² | e
+                       o | a¹
+                     
+            target vowel | B vowel
+            ----------------------
+                    none | a², uǧ
+                       i | ı, iǧ
+                       ü | u
+                       ı | ı
+                       u | u
+                       e | a², eǧ
+                      a¹ | o
+                      a² | a², oǧ
+                       o | o
+            
+        thus, the suffix -BǧnBk looks like this:
+            ca²pçı /dʒə²ptʃɨ/ + -dFn + -BǧnBk => ca²pçıdiniǧnık /dʒə²ptʃɨdiniːnɨx/
+            zie /zeɦa/ + -BǧnBk => *zieeǧna²k => zieǧna²k /zeɦaːnə²x/
+            *ç + -BǧnBk => çuǧnuk /tʃuːnʉx/
+            *ç + -Os + -BǧnBk => ça²soǧnok /tʃə²soːnux/
+

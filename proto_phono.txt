@@ -1,0 +1,16 @@
+proto phonology:
+    consonants:
+        m       n               ŋ¹
+        p/b     t/d     tʃ/dʒ   k/g     q
+        f/v     s/z             x       χ/ʁ     h
+                l       j
+                ɾ
+        
+    ¹: [ŋ] can also be found as an assimilatory allophone of /n/ before velars (/k/, /g/, /x/)
+
+    vowels:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         y         ɯ         u
+         OPEN   e         ø         ɑ         o
+

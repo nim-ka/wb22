@@ -1,0 +1,28 @@
+phonology:
+    consonants:
+        m       n               ŋ
+        p/b     t/d     tʃ/dʒ   k/g
+                s/z     ʃ/ʒ     x       h/ɦ
+                l       j
+                ɾ
+    
+    n, t, d, l, and ɾ are denti-alveolar
+
+    vowels:
+      short:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   e         ø         ɨ         ʉ
+         OPEN   a         ə¹        ə²        u
+        
+      long (long vowels come from historical /Vɰ/ => /Vː/):
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   eː        øː                  uː
+         OPEN   aː        əː                  oː
+        
+    /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
+    they are both /ə/ but pattern differently for vowel harmony purposes
+        
+    /a/ and /aː/ are phonetically front
+

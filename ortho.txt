@@ -1,0 +1,35 @@
+orthography:
+    consonants:
+        m       n               ň,nh¹
+        p/b     t/d     ç/c     (k,q²)/g
+                s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
+                l       y
+                r
+
+    ¹: <nh> represents /ŋ/ where it was formed from the assimilation of /n/ and disappearance of /x/ in the cluster /nx/. in all other situations <ň> is used. <ň> used to not be used for /ŋ/ arising from assimilations (e.g. you would write <ng> for /ŋg/ instead of <ňg>), but this since changed. note the distinction between <nh> /ŋ/ and <ňh> /ŋh/.
+    ²: <q> is still written for historical /q/
+    
+    ³: taken from the section on phonological changes:
+    - one of the sound changes from the proto-language is that /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
+    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most grammatical suffixes that end in s or z remain written with s and z for two reasons:
+    --- 1. they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the suffix generates a front vowel before the s/z
+    --- 2. they are not pronounced /ʃ/ and /ʒ/ when followed by another suffix if that causes the s/z to no longer be in coda position (note: a ş/ž in a *root* does not stop being /ʃ/ or /ʒ/ when proceeded by a suffix that causes it to no longer be in coda position. this rule only affects suffixes)
+    -- so the shift to /ʃ/ and /ʒ/ can be looked at in two parts, one in roots and one in grammatical suffixes, the latter of which is less of a phonemic distinction and more of an alternation and thus goes unwritten.
+    
+    ⁴: <ř> for /ʒ/ reflects historical word-initial /ɾ/. never found outside of root-initial position
+    ⁵: <ǧ> reflects historical /ɰ/, which has disappeared (except in syllable onset where it is /ɦ/) but has left effects on the vowels.
+        for <ı>, <u>, <a>, and <o>, <ǧ> reflects not just the vowel being long but also a different vowel quality.
+
+    vowels:
+      short:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         ü         ı         u
+         OPEN   e         a         a         o
+        
+      long:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   iǧ        üǧ                  ıǧ/uǧ
+         OPEN   eǧ        aǧ                  aǧ/oǧ
+

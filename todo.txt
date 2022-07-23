@@ -1,0 +1,7 @@
+⁰¹²³⁴⁵⁶⁷⁸⁹
+
+TODO:
+- more phonetics quirks. consonant voicing assimilations
+- prepositions including lative and ablative
+- consonant mutations from those prepositions
+

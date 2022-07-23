@@ -1,0 +1,252 @@
+⁰¹²³⁴⁵⁶⁷⁸⁹
+
+TODO:
+- more phonetics quirks. consonant voicing assimilations
+- prepositions including lative and ablative
+- consonant mutations from those prepositions
+
+proto phonology:
+    consonants:
+        m       n               ŋ¹
+        p/b     t/d     tʃ/dʒ   k/g     q
+        f/v     s/z             x       χ/ʁ     h
+                l       j
+                ɾ
+        
+    ¹: [ŋ] can also be found as an assimilatory allophone of /n/ before velars (/k/, /g/, /x/)
+
+    vowels:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         y         ɯ         u
+         OPEN   e         ø         ɑ         o
+
+proto orthography:
+    consonants:
+        m       n               ň
+        p/b     t/d     ç/c     k/g     q
+        f/v     s/z             h       ħ/ǧ     (unwritten)
+                l       y
+                r
+
+    vowels:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         ü         ı         u
+         OPEN   e         ö         a         o
+
+several phonological changes then take place:
+    - /f/ and /v/ are lost and merge with /p/ and /b/ (and stop being written separately)
+    - /q/ and /k/ merge
+    - guttural/glottal fricative chain shift:
+    -- /h/ voices to /ɦ/
+    -- /x/ softens/debuccalizes to /h/ (and disappears after /n/ [ŋ], shifting /nx/ to /ŋ/)
+    -- /χ/ and /ʁ/ soften to /x/ and /ɰ/
+    --- similar to istanbul turkish, /ɰ/ starts to fade and takes on more of a vowel-lengthening/-strengthening role
+    - /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
+    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most grammatical suffixes that end in s or z remain written with s and z for two reasons:
+    --- 1. they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the suffix generates a front vowel before the s/z
+    --- 2. they are not pronounced /ʃ/ and /ʒ/ when followed by another suffix if that causes the s/z to no longer be in coda position (note: a ş/ž in a *root* does not stop being /ʃ/ or /ʒ/ when proceeded by a suffix that causes it to no longer be in coda position. this rule only affects suffixes)
+    -- so the shift to /ʃ/ and /ʒ/ can be looked at in two parts, one in roots and one in grammatical suffixes, the latter of which is less of a phonemic distinction and more of an alternation and thus goes unwritten.
+    - a significant vowel shift occurs:
+    -- the back vowels get fronted and /ɑ/ and /o/ raise: /ɯ/ /u/ /ɑ/ /o/ => /ɨ/ /ʉ/ /ə²/ /u/
+    -- before /ɰ/, the prior change does not happen and the back vowels instead merge in roundedness: /ɯ/ /u/ /ɑ/ /o/ => /u/ /u/ /o/ /o/
+    -- the front vowels get lowered: /i/ /y/ /e/ /ø/ => /e/ /ø/ /a/ /ə¹/ (proto /ø/ and /ɑ/ merge to schwa but retain separate function in the vowel harmony system)
+    - historical /ɰ/ disappears:
+    -- in syllable onset /ɰ/ becomes /ɦ/, + length on the preceding vowel (minus the previously given effects on the vowel shift)
+    -- elsewhere it disappears entirely except for the vowel length effect
+    -- in summary, /ɰV/ => /ɦV/, /V¹ɰV²/ => /V¹ːɦV²/, /VɰC/ => /VːC/
+    - word-initial /ɾ/ ends up merging with /ʒ/ (cf. behavior of turkish /ɾ/ word-initially and utterance-finally)
+    - word-final plosives devoice
+    - coda velar plosives become realized as /x/
+
+then some changes happen to the spelling:
+    - since <ö> and <a> have merged (transcribed as /ə¹/ and /ə²/ respectively; phonetically interchangeable but function differently for vowel harmony), people stop writing <ö> and start using <a> instead for /ə/ in all circumstances.
+    -- for long /əː/ <öǧ> from historical /øɰ/, this starts being written as <aǧ>, which conflicts with long /oː/ from historical /ɑɰ/ or /oɰ/ which is written either <aǧ> or <oǧ>. so now you have /əː/ <aǧ>, /oː/ <aǧ>, and /oː/ <oǧ>
+    - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originated from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
+
+phonology:
+    consonants:
+        m       n               ŋ
+        p/b     t/d     tʃ/dʒ   k/g
+                s/z     ʃ/ʒ     x       h/ɦ
+                l       j
+                ɾ
+    
+    n, t, d, l, and ɾ are denti-alveolar
+
+    vowels:
+      short:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   e         ø         ɨ         ʉ
+         OPEN   a         ə¹        ə²        u
+        
+      long (long vowels come from historical /Vɰ/ => /Vː/):
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   eː        øː                  uː
+         OPEN   aː        əː                  oː
+        
+    /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
+    they are both /ə/ but pattern differently for vowel harmony purposes
+        
+    /a/ and /aː/ are phonetically front
+
+phonotactics-y stuff:
+    - word-final stress
+    - strict CV(C) syllable structure. no consonant gemination; the same consonant can't be the coda of a syllable and the onset of the next syllable
+    - V(ː)ɦVː gets reduced to Vː
+
+orthography:
+    consonants:
+        m       n               ň,nh¹
+        p/b     t/d     ç/c     (k,q²)/g
+                s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
+                l       y
+                r
+
+    ¹: <nh> represents /ŋ/ where it was formed from the assimilation of /n/ and disappearance of /x/ in the cluster /nx/. in all other situations <ň> is used. <ň> used to not be used for /ŋ/ arising from assimilations (e.g. you would write <ng> for /ŋg/ instead of <ňg>), but this since changed. note the distinction between <nh> /ŋ/ and <ňh> /ŋh/.
+    ²: <q> is still written for historical /q/
+    
+    ³: taken from the section on phonological changes:
+    - one of the sound changes from the proto-language is that /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
+    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most grammatical suffixes that end in s or z remain written with s and z for two reasons:
+    --- 1. they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the suffix generates a front vowel before the s/z
+    --- 2. they are not pronounced /ʃ/ and /ʒ/ when followed by another suffix if that causes the s/z to no longer be in coda position (note: a ş/ž in a *root* does not stop being /ʃ/ or /ʒ/ when proceeded by a suffix that causes it to no longer be in coda position. this rule only affects suffixes)
+    -- so the shift to /ʃ/ and /ʒ/ can be looked at in two parts, one in roots and one in grammatical suffixes, the latter of which is less of a phonemic distinction and more of an alternation and thus goes unwritten.
+    
+    ⁴: <ř> for /ʒ/ reflects historical word-initial /ɾ/. never found outside of root-initial position
+    ⁵: <ǧ> reflects historical /ɰ/, which has disappeared (except in syllable onset where it is /ɦ/) but has left effects on the vowels.
+        for <ı>, <u>, <a>, and <o>, <ǧ> reflects not just the vowel being long but also a different vowel quality.
+
+    vowels:
+      short:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         ü         ı         u
+         OPEN   e         a         a         o
+        
+      long:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   iǧ        üǧ                  ıǧ/uǧ
+         OPEN   eǧ        aǧ                  aǧ/oǧ
+
+vowel harmony:
+    recap on the vowels:
+
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   e         ø         ɨ         ʉ
+         OPEN   a         ə¹        ə²        u
+        
+      long:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   eː        øː                  uː
+         OPEN   aː        əː                  oː
+    
+    vowel harmony applies to grammatical prefixes and suffixes
+    for prefixes, all the vowels of the prefix all harmonize with the following vowel after the prefix
+    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
+    if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
+    
+    in this section we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
+    
+    there are 2 forms of vowel harmony: the close/open system and the front/back system.
+    - in the close/open system, the vowel agrees with the vowel it's harmonizing with (the "target vowel") in rounding and in backness, and is either close (denoted C) or open (denoted O). (there are some exceptions when it comes to long vowels due to the defective long back vowels)
+        in effect:
+        
+            target vowel | C vowel
+            ----------------------
+                    none | i
+                       i | i
+                       ü | ü
+                       ı | ı, iǧ
+                       u | u
+                       e | i
+                      a¹ | ü
+                      a² | ı
+                       o | u
+                     
+            target vowel | O vowel
+            ----------------------
+                    none | a²
+                       i | e
+                       ü | a¹
+                       ı | a²
+                       u | o
+                       e | e
+                      a¹ | a¹
+                      a² | a²
+                       o | o
+         
+        example: the infinitive suffix -cO:
+            suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
+            ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
+            ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/
+    
+    - in the front/back system, the vowel agrees with the target vowel in rounding and in openness, and is either front (denoted F) or back (denoted B). (again there are some exceptions when it comes to long vowels due to the defective long back vowels)
+        in effect:
+        
+            target vowel | F vowel
+            ----------------------
+                    none | a¹
+                       i | i
+                       ü | ü
+                       ı | i
+                       u | ü
+                       e | e
+                      a¹ | a¹
+                      a² | e
+                       o | a¹
+                     
+            target vowel | B vowel
+            ----------------------
+                    none | a², uǧ
+                       i | ı, iǧ
+                       ü | u
+                       ı | ı
+                       u | u
+                       e | a², eǧ
+                      a¹ | o
+                      a² | a², oǧ
+                       o | o
+            
+        thus, the suffix -BǧnBk looks like this:
+            ca²pçı /dʒə²ptʃɨ/ + -dFn + -BǧnBk => ca²pçıdiniǧnık /dʒə²ptʃɨdiniːnɨx/
+            zie /zeɦa/ + -BǧnBk => *zieeǧna²k => zieǧna²k /zeɦaːnə²x/
+            *ç + -BǧnBk => çuǧnuk /tʃuːnʉx/
+            *ç + -Os + -BǧnBk => ça²soǧnok /tʃə²soːnux/
+
+morphology:
+    nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
+    the affixes are as follows:
+    
+         case    |    affix    | example declension of a²nha²q "enemy"
+    ------------------------------------------------------------------
+      nominative | noun-Ø      | a²nha²q "the enemy"
+      accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
+        genitive | noun-pF     | a²nha²qpe "the enemy's"
+          dative | noun-Bd     | a²nha²qa²d "to the enemy"
+        locative | noun-(s)OyF | a²nha²qa²ye "at the enemy"
+    instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+
+       suzies | /sʉ.ze.ˈɦaʃ/
+        masee | /mə.sa.ˈɦa/
+         umħa | /ɦʉm.ˈxə/
+        oespe | /ɦu.ɦas.ˈpa/
+    ħantunçir | /xə²n.tʉn.ˈtʃer/
+       řoohus | /ʒu.ɦu.ˈhʉs/
+        aǧçir | /ɦəː.ˈtʃer/
+           oo | /ɦu.ˈɦoː/ (irregular spelling)
+       capças | /dʒə²p.ˈtʃə²s/
+    manarnate | /mə.nər.nə.ˈta/
+       caňgir | /dʒə²ŋ.ˈger/
+     ganhabod | /gə².ŋə¹.ˈbud/
+       hazhod | /hə¹z.ˈhud/
+          žar | /ˈʒə²r/
+  canatonçies | /dʒə².nə².tun.tʃe.ˈɦaʃ/
+
+PHRASE: "Caňgir žar manarnate."

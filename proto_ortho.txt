@@ -1,0 +1,14 @@
+proto orthography:
+    consonants:
+        m       n               ň
+        p/b     t/d     ç/c     k/g     q
+        f/v     s/z             h       ħ/ǧ     (unwritten)
+                l       y
+                r
+
+    vowels:
+                      FRONT               BACK
+                UNROUNDED ROUNDED   UNROUNDED ROUNDED
+        CLOSE   i         ü         ı         u
+         OPEN   e         ö         a         o
+
