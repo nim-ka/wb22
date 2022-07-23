@@ -1,0 +1,27 @@
+-cO: infinitive suffix
+-C: intransitive verb marker suffix
+-Os: causative verb suffix maybe? overrides final vowel if any
+-BǧnBk: haven't determined meaning yet, maybe something derived from the instrumental
+-(B)r: accusative suffix
+-pE: genitive suffix
+-(h)Bd: dative suffix
+-(s)AyF: locative suffix
+-OǧFnCk: instrumental suffix
+mB-: some verb suffix, haven't determined meaning yet
+can-
+
+suzies: su- + zi + -Os (verb)
+ma²see: mB- + see (verb)
+umħa: umħa (root)
+oespe: oes + -pE (noun)
+ħantunçir: ħantunçi + -(B)r (noun)
+řoohus: řoohus (root)
+a¹ǧçir: a¹ǧçi + -(B)r (noun)
+oo: oo (interjection; phonetic respelling ooǧ)
+ca²pça²s: ca²pçı + -Os (verb)
+ma²na²rnate: mB- + na²rnate (verb)
+caňgir: can- + gi + -(B)r (noun)
+ganha¹bod: *- + can- + ha¹b + -(h)Bd (noun)
+ha¹zhod: ha¹z + -(h)Bd (noun)
+žar: ža² + -r (noun)
+canatonçies: can- + atonçi + -Os (verb)

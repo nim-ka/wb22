@@ -6,8 +6,8 @@ morphology:
     ------------------------------------------------------------------
       nominative | noun-Ø      | a²nha²q "the enemy"
       accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-        genitive | noun-pF     | a²nha²qpe "the enemy's"
+        genitive | noun-pE     | a²nha²qpe "the enemy's"
           dative | noun-Bd     | a²nha²qa²d "to the enemy"
-        locative | noun-(s)OyF | a²nha²qa²ye "at the enemy"
+        locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
     instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
 

@@ -154,9 +154,9 @@ vowel harmony:
     
     in this section we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
     
-    there are 2 forms of vowel harmony: the close/open system and the front/back system.
-    - in the close/open system, the vowel agrees with the vowel it's harmonizing with (the "target vowel") in rounding and in backness, and is either close (denoted C) or open (denoted O). (there are some exceptions when it comes to long vowels due to the defective long back vowels)
-        in effect:
+    there are 2 forms of vowel harmony: the four-fold system and the two-fold system
+    
+    in the four-fold system, the vowel agrees with the vowel it's harmonizing with (the "target vowel") in rounding and in either backness (for the close/open vowel class, denoted C and O) or openness (for the front/back vowel class, denoted F and B). this results in 4 possible resulting vowels, hence "four-fold". there are some exceptions when it comes to long vowels due to the long back vowels being defective in roundedness. these exceptions increase the number to 6 possible realizations for the B vowel.
         
             target vowel | C vowel
             ----------------------
@@ -186,9 +186,6 @@ vowel harmony:
             suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
             ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
             ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/
-    
-    - in the front/back system, the vowel agrees with the target vowel in rounding and in openness, and is either front (denoted F) or back (denoted B). (again there are some exceptions when it comes to long vowels due to the defective long back vowels)
-        in effect:
         
             target vowel | F vowel
             ----------------------
@@ -214,11 +211,58 @@ vowel harmony:
                       a² | a², oǧ
                        o | o
             
-        thus, the suffix -BǧnBk looks like this:
+        example: the suffix -BǧnBk:
             ca²pçı /dʒə²ptʃɨ/ + -dFn + -BǧnBk => ca²pçıdiniǧnık /dʒə²ptʃɨdiniːnɨx/
             zie /zeɦa/ + -BǧnBk => *zieeǧna²k => zieǧna²k /zeɦaːnə²x/
             *ç + -BǧnBk => çuǧnuk /tʃuːnʉx/
             *ç + -Os + -BǧnBk => ça²soǧnok /tʃə²soːnux/
+
+    the full four-fold system table therefore looks like this:
+    
+      target vowel |   C   |   O   |   F   |   B
+    ------------------------------------------------
+              none |   i   |   a²  |   a¹  | a²/uǧ
+                 i |   i   |   e   |   i   |  ı/iǧ
+                 ü |   ü   |   a¹  |   ü   |   u
+                 ı |  ı/iǧ |   a²  |   i   |   ı
+                 u |   u   |   o   |   ü   |   u
+                 e |   i   |   e   |   e   | a²/eǧ
+                a¹ |   ü   |   a¹  |   a¹  |   o
+                a² |   ı   |   a²  |   e   | a²/oǧ
+                 o |   u   |   o   |   a¹  |   o
+
+    the two-fold system is rare and is the result of short vowels having dropped out of formerly multi-syllable affixes.
+    for example, the suffix -pE used to be -OpF, but over time the O vowel dropped out, except for its influence on the F vowel.
+    these two-fold systems only exist in a handful of common affixes. their names come from their default realizations.
+    
+    here is how the E vowel came to be from O+F in the suffix -OpF => -pE:
+    
+      target vowel |   O ==F=> E
+    --------------------------------
+              none |   a²  |   e
+                 i |   e   |   e
+                 ü |   a¹  |   a¹
+                 ı |   a²  |   e
+                 u |   o   |   a¹
+                 e |   e   |   e
+                a¹ |   a¹  |   a¹
+                a² |   a²  |   e
+                 o |   o   |   a¹
+    
+    here is how the A vowel came to be from B+O in the suffix -BsOyF => -(s)AyF:
+    (note that this does not include the long vowel exceptions to the B vowel because in the suffix it's short)
+    
+      target vowel |   B ==O=> A
+    --------------------------------
+              none |   a²  |   a²
+                 i |   ı   |   a²
+                 ü |   u   |   o
+                 ı |   ı   |   a²
+                 u |   u   |   o
+                 e |   a²  |   a²
+                a¹ |   o   |   o
+                a² |   a²  |   a²
+                 o |   o   |   o
 
 morphology:
     nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
@@ -228,9 +272,9 @@ morphology:
     ------------------------------------------------------------------
       nominative | noun-Ø      | a²nha²q "the enemy"
       accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-        genitive | noun-pF     | a²nha²qpe "the enemy's"
+        genitive | noun-pE     | a²nha²qpe "the enemy's"
           dative | noun-Bd     | a²nha²qa²d "to the enemy"
-        locative | noun-(s)OyF | a²nha²qa²ye "at the enemy"
+        locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
     instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
 
        suzies | /sʉ.ze.ˈɦaʃ/
