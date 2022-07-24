@@ -6,7 +6,8 @@ phonology:
                 l       j
                 ɾ
     
-    n, t, d, l, and ɾ are denti-alveolar
+    /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
+    word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
 
     vowels:
       short:

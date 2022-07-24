@@ -1,13 +1,77 @@
 morphology:
-    nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
-    the affixes are as follows:
-    
-         case    |    affix    | example declension of a²nha²q "enemy"
-    ------------------------------------------------------------------
-      nominative | noun-Ø      | a²nha²q "the enemy"
-      accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-        genitive | noun-pE     | a²nha²qpe "the enemy's"
-          dative | noun-Bd     | a²nha²qa²d "to the enemy"
-        locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
-    instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+    nouns:
+        nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
+        the suffixes are as follows:
+        
+             case    |   suffix    | example declension of a²nha²q "enemy"
+        ------------------------------------------------------------------
+          nominative | noun-Ø      | a²nha²q "the enemy"
+          accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
+            genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
+              dative | noun-Bd     | a²nha²qa²d "to the enemy"
+            locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
+        instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
 
+        nouns mark number with the plural suffix -gI
+        
+        indefiniteness can be marked with the indefinite marker "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
+            ga²ǧa² /goːɦə/ "[the] night"
+            a² ca²ǧa² /ə² dʒoːɦə/ "a night"
+        
+        possession is indicated by the "possessed" suffix -nC. the possessor being in genitive case in this situation implies inalienable possession. example:
+            ža²         ga²ǧa²-pe
+            life        night-GEN
+            "the life of the night"
+           
+            ža²-nı      ga²ǧa²
+            life-POSSD  night
+            "the night's life [alienable]"
+           
+            ža²-nı      ga²ǧa²-pe
+            life-POSSD  night-GEN
+            "the night's life [inalienable]"
+        
+        ezafe
+        
+        there are a few prefixes that can go on nouns:
+             name    |   prefix    | example declension of a²nha²q "enemy"
+        ------------------------------------------------------------------
+            emphatic |  bC(b)-noun |   bıba²nha²q "the enemy (emphatic)"
+           privative |     kC-noun |    kıa²nha²q "the not-enemy"
+            "maker"? |     şC-noun |    şıa²nha²q "the enemy-maker"
+    
+    pronouns:
+        some pronouns decline for the lative and ablative cases in addition to the other cases regular nouns decline for.
+    
+        table of personal pronouns:
+        
+                     |       1P        |       2P        |       3P
+                     |   sg   |   pl   |   sg   |   pl   |   sg   |   pl
+        -------------------------------------------------------------------
+          nominative | sa²    | za²    | uǧ     | ugo    | e      | igi
+        -------------------------------------------------------------------
+          accusative | soǧ    | zuǧ    | da²n   | da²na² | er     | igir
+        -------------------------------------------------------------------
+            genitive | su     | zu     | oǧ     | ogo    | ea²    | igı
+        -------------------------------------------------------------------
+              dative | şi     | ži     | uos             | ea²s   | igıs
+        -------------------------------------------------------------------
+            locative | sa²y   | zıy    | uy              | eney   | igye
+        -------------------------------------------------------------------
+              lative | ıs     | ız     | dıǧ    | dog    | te
+        -------------------------------------------------------------------
+            ablative | a¹ş    | uz     | duǧ    | dogda¹ | kie
+        -------------------------------------------------------------------
+        instrumental | sıa²   | ženi   | deni   | degin  | eǧnik  | iǧnik
+        
+        the 3P pronouns can be made to reflect proximity by adding the following suffixes:
+            meaning  |   suffix    | examples
+        ------------------------------------------------------------------
+            proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
+              distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
+    
+    prepositions:
+        lative preposition: lı
+        ablative preposition: loda¹
+    
+    tilni a silezirpe

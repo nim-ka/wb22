@@ -1,27 +1,34 @@
 -cO: infinitive suffix
 -C: intransitive verb marker suffix
--Os: causative verb suffix maybe? overrides final vowel if any
+-Os: causative verb suffix (overrides final vowel)
 -BǧnBk: haven't determined meaning yet, maybe something derived from the instrumental
 -(B)r: accusative suffix
 -pE: genitive suffix
--(h)Bd: dative suffix
+-Bd: dative suffix (overrides final vowel)
 -(s)AyF: locative suffix
 -OǧFnCk: instrumental suffix
-mB-: some verb suffix, haven't determined meaning yet
-can-
+-gI: plural suffix
+-tF: some verb suffix, haven't determined meaning yet
 
-suzies: su- + zi + -Os (verb)
-ma²see: mB- + see (verb)
+su: some verb prefix-y word, haven't determined meaning yet
+mB(s)-: some verb prefix, haven't determined meaning yet (mB- when followed by a consonant that isn't /ɦ/)
+
+-tBnçi: verbifier. turns nouns into verbs that mean "to be <noun>"
+-(F)r: agentive suffix
+-Oz: creative suffix. turns nouns into verbs that mean "to create <noun>"
+
+suzies: su | z + -C + -Os (verb)
+ma²see: mB(s)- + ee (verb)
 umħa: umħa (root)
 oespe: oes + -pE (noun)
-ħantunçir: ħantunçi + -(B)r (noun)
+ħa¹ntunçir: ħa¹nü + -tBnçi + -(F)r (noun)
 řoohus: řoohus (root)
 a¹ǧçir: a¹ǧçi + -(B)r (noun)
 oo: oo (interjection; phonetic respelling ooǧ)
 ca²pça²s: ca²pçı + -Os (verb)
-ma²na²rnate: mB- + na²rnate (verb)
-caňgir: can- + gi + -(B)r (noun)
-ganha¹bod: *- + can- + ha¹b + -(h)Bd (noun)
-ha¹zhod: ha¹z + -(h)Bd (noun)
-žar: ža² + -r (noun)
-canatonçies: can- + atonçi + -Os (verb)
+ma²na²rnate: mB(s)- + na²rna² + -tF (verb)
+ca²ňgir: *- + ga²n + -gI + -(B)r (noun)
+ga²nha¹bod: [ga²n + ha¹b] + -Bd (noun)
+ha¹zhod: ha¹zha¹ + -Bd (noun)
+ža²r: ža² + -r (noun)
+ca²na¹tonçies: *- + ga²n + a¹ + -tBnçi + -Os (verb)

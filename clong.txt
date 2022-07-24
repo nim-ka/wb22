@@ -1,10 +1,5 @@
 ⁰¹²³⁴⁵⁶⁷⁸⁹
 
-TODO:
-- more phonetics quirks. consonant voicing assimilations
-- prepositions including lative and ablative
-- consonant mutations from those prepositions
-
 proto phonology:
     consonants:
         m       n               ŋ¹
@@ -44,10 +39,11 @@ several phonological changes then take place:
     -- /χ/ and /ʁ/ soften to /x/ and /ɰ/
     --- similar to istanbul turkish, /ɰ/ starts to fade and takes on more of a vowel-lengthening/-strengthening role
     - /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
-    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most grammatical suffixes that end in s or z remain written with s and z for two reasons:
-    --- 1. they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the suffix generates a front vowel before the s/z
-    --- 2. they are not pronounced /ʃ/ and /ʒ/ when followed by another suffix if that causes the s/z to no longer be in coda position (note: a ş/ž in a *root* does not stop being /ʃ/ or /ʒ/ when proceeded by a suffix that causes it to no longer be in coda position. this rule only affects suffixes)
-    -- so the shift to /ʃ/ and /ʒ/ can be looked at in two parts, one in roots and one in grammatical suffixes, the latter of which is less of a phonemic distinction and more of an alternation and thus goes unwritten.
+    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most roots and grammatical affixes that end in s or z remain written with s and z for two reasons:
+    --- 1. they are not pronounced /ʃ/ and /ʒ/ when followed by something else if that causes the s/z to no longer be in coda position
+    --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before the s/z
+    - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect as described in the lenition section (resulting in the genesis of /ɲ/)
+    - /ɲ/ gets lost in favor of /niɦ/
     - a significant vowel shift occurs:
     -- the back vowels get fronted and /ɑ/ and /o/ raise: /ɯ/ /u/ /ɑ/ /o/ => /ɨ/ /ʉ/ /ə²/ /u/
     -- before /ɰ/, the prior change does not happen and the back vowels instead merge in roundedness: /ɯ/ /u/ /ɑ/ /o/ => /u/ /u/ /o/ /o/
@@ -57,13 +53,37 @@ several phonological changes then take place:
     -- elsewhere it disappears entirely except for the vowel length effect
     -- in summary, /ɰV/ => /ɦV/, /V¹ɰV²/ => /V¹ːɦV²/, /VɰC/ => /VːC/
     - word-initial /ɾ/ ends up merging with /ʒ/ (cf. behavior of turkish /ɾ/ word-initially and utterance-finally)
-    - word-final plosives devoice
-    - coda velar plosives become realized as /x/
+    - word-final plosives devoice and coda position velar plosives lenite to /x/. both these changes result in (unwritten) consonant alternation effects
 
 then some changes happen to the spelling:
+    - the word-initial consonant changes from consonant mutation and /ɾ/ => /ʒ/ get mildly reformed in the orthography. consonant mutation is spelled phonetically and /ʒ/ from initial /ɾ/ gets written with ř
     - since <ö> and <a> have merged (transcribed as /ə¹/ and /ə²/ respectively; phonetically interchangeable but function differently for vowel harmony), people stop writing <ö> and start using <a> instead for /ə/ in all circumstances.
     -- for long /əː/ <öǧ> from historical /øɰ/, this starts being written as <aǧ>, which conflicts with long /oː/ from historical /ɑɰ/ or /oɰ/ which is written either <aǧ> or <oǧ>. so now you have /əː/ <aǧ>, /oː/ <aǧ>, and /oː/ <oǧ>
     - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originated from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
+
+lenition:
+    the word for 1, "ay" /ɦɑj/, when used as an indefinite marker before nouns begins to cause lenition on following consonants, as so:
+        ɦɑj m* "ay m*" ==>  ɦɑ m* "a m*"
+        ɦɑj n* "ay n*" ==>  ɦɑ ɲ* ==> ɦɑ niɦ* "a ni*"
+        ɦɑj ŋ* "ay ň*" ==>  ɦɑ n* "a n*"
+        ɦɑj p* "ay p*" ==>  ɦɑ b* "a b*"
+        ɦɑj b* "ay b*" ==>  ɦɑ b* "a b*"
+        ɦɑj t* "ay t*" ==>  ɦɑ s* "a s*"
+        ɦɑj d* "ay d*" ==>  ɦɑ z* "a z*"
+       ɦɑj tʃ* "ay ç*" ==>  ɦɑ ʃ* "a ş*"
+       ɦɑj dʒ* "ay c*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj k* "ay k*" ==> ɦɑ tʃ* "a ç*"
+        ɦɑj g* "ay g*" ==> ɦɑ dʒ* "a c*"
+        ɦɑj s* "ay s*" ==>  ɦɑ ʃ* "a ş*"
+        ɦɑj z* "ay z*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj ʃ* "ay ş*" ==>  ɦɑ ʃ* "a ş*"
+        ɦɑj ʒ* "ay ž*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
+        ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
+        ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
+        ɦɑj l* "ay l*" ==>  ɦɑ j* "a y*"
+        ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
+        ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
 
 phonology:
     consonants:
@@ -73,7 +93,8 @@ phonology:
                 l       j
                 ɾ
     
-    n, t, d, l, and ɾ are denti-alveolar
+    /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
+    word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
 
     vowels:
       short:
@@ -233,9 +254,9 @@ vowel harmony:
 
     the two-fold system is rare and is the result of short vowels having dropped out of formerly multi-syllable affixes.
     for example, the suffix -pE used to be -OpF, but over time the O vowel dropped out, except for its influence on the F vowel.
-    these two-fold systems only exist in a handful of common affixes. their names come from their default realizations.
+    these two-fold systems only exist in a handful of common affixes. their names come from their default realizations
     
-    here is how the E vowel came to be from O+F in the suffix -OpF => -pE:
+    here is how the E vowel came to be from O+F in the suffix *-OpF => -pE:
     
       target vowel |   O ==F=> E
     --------------------------------
@@ -249,7 +270,7 @@ vowel harmony:
                 a² |   a²  |   e
                  o |   o   |   a¹
     
-    here is how the A vowel came to be from B+O in the suffix -BsOyF => -(s)AyF:
+    here is how the A vowel came to be from B+O in the suffix *-BsOyF => -(s)AyF:
     (note that this does not include the long vowel exceptions to the B vowel because in the suffix it's short)
     
       target vowel |   B ==O=> A
@@ -264,20 +285,125 @@ vowel harmony:
                 a² |   a²  |   a²
                  o |   o   |   o
 
-morphology:
-    nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
-    the affixes are as follows:
+    here is how the Y vowel came to be from C+F in the suffix *-CgF => -gI:
     
-         case    |    affix    | example declension of a²nha²q "enemy"
-    ------------------------------------------------------------------
-      nominative | noun-Ø      | a²nha²q "the enemy"
-      accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-        genitive | noun-pE     | a²nha²qpe "the enemy's"
-          dative | noun-Bd     | a²nha²qa²d "to the enemy"
-        locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
-    instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+      target vowel |   C ==F=> I
+    --------------------------------
+              none |   i   |   i
+                 i |   i   |   i
+                 ü |   ü   |   ü
+                 ı |   ı   |   i
+                 u |   u   |   ü
+                 e |   i   |   i
+                a¹ |   ü   |   ü
+                a² |   ı   |   i
+                 o |   u   |   ü
+    
+    the full two-fold system table therefore looks like this:
+    
+      target vowel |   E   |   A   |   I
+    ----------------------------------------
+              none |   e   |   a²  |   i
+                 i |   e   |   a²  |   i
+                 ü |   a¹  |   o   |   ü
+                 ı |   e   |   a²  |   i
+                 u |   a¹  |   o   |   ü
+                 e |   e   |   a²  |   i
+                a¹ |   a¹  |   o   |   ü
+                a² |   e   |   a²  |   i
+                 o |   a¹  |   o   |   ü
 
-       suzies | /sʉ.ze.ˈɦaʃ/
+    the full vowel harmony table:
+
+      target vowel |   C   |   O   |   F   |   B   |   E   |   A   |   I
+    ------------------------------------------------------------------------
+              none |   i   |   a²  |   a¹  | a²/uǧ |   e   |   a²  |   i
+                 i |   i   |   e   |   i   |  ı/iǧ |   e   |   a²  |   i
+                 ü |   ü   |   a¹  |   ü   |   u   |   a¹  |   o   |   ü
+                 ı |  ı/iǧ |   a²  |   i   |   ı   |   e   |   a²  |   i
+                 u |   u   |   o   |   ü   |   u   |   a¹  |   o   |   ü
+                 e |   i   |   e   |   e   | a²/eǧ |   e   |   a²  |   i
+                a¹ |   ü   |   a¹  |   a¹  |   o   |   a¹  |   o   |   ü
+                a² |   ı   |   a²  |   e   | a²/oǧ |   e   |   a²  |   i
+                 o |   u   |   o   |   a¹  |   o   |   a¹  |   o   |   ü
+
+morphology:
+    nouns:
+        nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
+        the suffixes are as follows:
+        
+             case    |   suffix    | example declension of a²nha²q "enemy"
+        ------------------------------------------------------------------
+          nominative | noun-Ø      | a²nha²q "the enemy"
+          accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
+            genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
+              dative | noun-Bd     | a²nha²qa²d "to the enemy"
+            locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
+        instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+
+        nouns mark number with the plural suffix -gI
+        
+        indefiniteness can be marked with the indefinite marker "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
+            ga²ǧa² /goːɦə/ "[the] night"
+            a² ca²ǧa² /ə² dʒoːɦə/ "a night"
+        
+        possession is indicated by the "possessed" suffix -nC. the possessor being in genitive case in this situation implies inalienable possession. example:
+            ža²         ga²ǧa²-pe
+            life        night-GEN
+            "the life of the night"
+           
+            ža²-nı      ga²ǧa²
+            life-POSSD  night
+            "the night's life [alienable]"
+           
+            ža²-nı      ga²ǧa²-pe
+            life-POSSD  night-GEN
+            "the night's life [inalienable]"
+        
+        ezafe
+        
+        there are a few prefixes that can go on nouns:
+             name    |   prefix    | example declension of a²nha²q "enemy"
+        ------------------------------------------------------------------
+            emphatic |  bC(b)-noun |   bıba²nha²q "the enemy (emphatic)"
+           privative |     kC-noun |    kıa²nha²q "the not-enemy"
+            "maker"? |     şC-noun |    şıa²nha²q "the enemy-maker"
+    
+    pronouns:
+        some pronouns decline for the lative and ablative cases in addition to the other cases regular nouns decline for.
+    
+        table of personal pronouns:
+        
+                     |       1P        |       2P        |       3P
+                     |   sg   |   pl   |   sg   |   pl   |   sg   |   pl
+        -------------------------------------------------------------------
+          nominative | sa²    | za²    | uǧ     | ugo    | e      | igi
+        -------------------------------------------------------------------
+          accusative | soǧ    | zuǧ    | da²n   | da²na² | er     | igir
+        -------------------------------------------------------------------
+            genitive | su     | zu     | oǧ     | ogo    | ea²    | igı
+        -------------------------------------------------------------------
+              dative | şi     | ži     | uos             | ea²s   | igıs
+        -------------------------------------------------------------------
+            locative | sa²y   | zıy    | uy              | eney   | igye
+        -------------------------------------------------------------------
+              lative | ıs     | ız     | dıǧ    | dog    | te
+        -------------------------------------------------------------------
+            ablative | a¹ş    | uz     | duǧ    | dogda¹ | kie
+        -------------------------------------------------------------------
+        instrumental | sıa²   | ženi   | deni   | degin  | eǧnik  | iǧnik
+        
+        the 3P pronouns can be made to reflect proximity by adding the following suffixes:
+            meaning  |   suffix    | examples
+        ------------------------------------------------------------------
+            proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
+              distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
+    
+    prepositions:
+        lative preposition: lı
+        ablative preposition: loda¹
+    
+    tilni a silezirpe       suzies | /sʉ.ze.ˈɦaʃ/
         masee | /mə.sa.ˈɦa/
          umħa | /ɦʉm.ˈxə/
         oespe | /ɦu.ɦas.ˈpa/
@@ -291,6 +417,6 @@ morphology:
      ganhabod | /gə².ŋə¹.ˈbud/
        hazhod | /hə¹z.ˈhud/
           žar | /ˈʒə²r/
-  canatonçies | /dʒə².nə².tun.tʃe.ˈɦaʃ/
+  canatonçies | /dʒə².nə¹.tun.tʃe.ˈɦaʃ/
 
 PHRASE: "Caňgir žar manarnate."

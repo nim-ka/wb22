@@ -98,9 +98,9 @@ vowel harmony:
 
     the two-fold system is rare and is the result of short vowels having dropped out of formerly multi-syllable affixes.
     for example, the suffix -pE used to be -OpF, but over time the O vowel dropped out, except for its influence on the F vowel.
-    these two-fold systems only exist in a handful of common affixes. their names come from their default realizations.
+    these two-fold systems only exist in a handful of common affixes. their names come from their default realizations
     
-    here is how the E vowel came to be from O+F in the suffix -OpF => -pE:
+    here is how the E vowel came to be from O+F in the suffix *-OpF => -pE:
     
       target vowel |   O ==F=> E
     --------------------------------
@@ -114,7 +114,7 @@ vowel harmony:
                 a² |   a²  |   e
                  o |   o   |   a¹
     
-    here is how the A vowel came to be from B+O in the suffix -BsOyF => -(s)AyF:
+    here is how the A vowel came to be from B+O in the suffix *-BsOyF => -(s)AyF:
     (note that this does not include the long vowel exceptions to the B vowel because in the suffix it's short)
     
       target vowel |   B ==O=> A
@@ -128,4 +128,46 @@ vowel harmony:
                 a¹ |   o   |   o
                 a² |   a²  |   a²
                  o |   o   |   o
+
+    here is how the Y vowel came to be from C+F in the suffix *-CgF => -gI:
+    
+      target vowel |   C ==F=> I
+    --------------------------------
+              none |   i   |   i
+                 i |   i   |   i
+                 ü |   ü   |   ü
+                 ı |   ı   |   i
+                 u |   u   |   ü
+                 e |   i   |   i
+                a¹ |   ü   |   ü
+                a² |   ı   |   i
+                 o |   u   |   ü
+    
+    the full two-fold system table therefore looks like this:
+    
+      target vowel |   E   |   A   |   I
+    ----------------------------------------
+              none |   e   |   a²  |   i
+                 i |   e   |   a²  |   i
+                 ü |   a¹  |   o   |   ü
+                 ı |   e   |   a²  |   i
+                 u |   a¹  |   o   |   ü
+                 e |   e   |   a²  |   i
+                a¹ |   a¹  |   o   |   ü
+                a² |   e   |   a²  |   i
+                 o |   a¹  |   o   |   ü
+
+    the full vowel harmony table:
+
+      target vowel |   C   |   O   |   F   |   B   |   E   |   A   |   I
+    ------------------------------------------------------------------------
+              none |   i   |   a²  |   a¹  | a²/uǧ |   e   |   a²  |   i
+                 i |   i   |   e   |   i   |  ı/iǧ |   e   |   a²  |   i
+                 ü |   ü   |   a¹  |   ü   |   u   |   a¹  |   o   |   ü
+                 ı |  ı/iǧ |   a²  |   i   |   ı   |   e   |   a²  |   i
+                 u |   u   |   o   |   ü   |   u   |   a¹  |   o   |   ü
+                 e |   i   |   e   |   e   | a²/eǧ |   e   |   a²  |   i
+                a¹ |   ü   |   a¹  |   a¹  |   o   |   a¹  |   o   |   ü
+                a² |   ı   |   a²  |   e   | a²/oǧ |   e   |   a²  |   i
+                 o |   u   |   o   |   a¹  |   o   |   a¹  |   o   |   ü
 
