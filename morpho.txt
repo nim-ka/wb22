@@ -31,14 +31,22 @@ morphology:
             life-POSSD  night-GEN
             "the night's life [inalienable]"
         
-        ezafe
+        there is also an ezafe-like construction used in more formal registers which can be used to join nouns with other nouns or adjectives.
+        it uses the prefix F- on the modifying noun or adjective:
+            ža²       e-ga²ǧa²
+            life      EZ-night
+            "the life of the night" / "the life which is of the night"
+            
+            ža²       e-ga²n
+            life      EZ-good
+            "the life of good" / "the life which is good"
         
         there are a few prefixes that can go on nouns:
              name    |   prefix    | example declension of a²nha²q "enemy"
         ------------------------------------------------------------------
             emphatic |  bC(b)-noun |   bıba²nha²q "the enemy (emphatic)"
            privative |     kC-noun |    kıa²nha²q "the not-enemy"
-            "maker"? |     şC-noun |    şıa²nha²q "the enemy-maker"
+            "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
     
     pronouns:
         some pronouns decline for the lative and ablative cases in addition to the other cases regular nouns decline for.
@@ -69,6 +77,13 @@ morphology:
         ------------------------------------------------------------------
             proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
               distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
+    
+        most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
+            sa² "I"
+            büba¹-sa² "I (emphatic)"
+        the ezafe construct and the "maker" prefix require the genitive case:
+            ža² a¹-ħa¹-su "the life that is mine"
+            şa¹ħa¹-su "that which makes me"
     
     prepositions:
         lative preposition: lı
