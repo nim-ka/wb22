@@ -26,4 +26,6 @@ phonology:
     they are both /ə/ but pattern differently for vowel harmony purposes
         
     /a/ and /aː/ are phonetically front
+    
+    phrase-final vowels are often devoiced
 
