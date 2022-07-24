@@ -85,7 +85,7 @@ morphology:
             büb(ħ)a¹-sa² "I (emphatic)"
         when preceded by a consonant, the ħ can be elided via contraction
         the ezafe construct and the "maker" prefix require the genitive case:
-            ža² a¹-ħa¹-su "the life that is mine"
+            ža² a¹-ħa¹-su "the life which is mine"
             şa¹ħa¹-su "that which makes me"
     
     prepositions:
