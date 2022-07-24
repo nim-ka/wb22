@@ -49,7 +49,7 @@ morphology:
             "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
     
     pronouns:
-        some pronouns decline for the lative and ablative cases in addition to the other cases regular nouns decline for.
+        some pronouns have lative and ablative forms in addition to the forms for the other cases regular nouns decline for.
     
         table of personal pronouns:
         
@@ -80,7 +80,8 @@ morphology:
     
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
-            büba¹-sa² "I (emphatic)"
+            büb(ħ)a¹-sa² "I (emphatic)"
+        when preceded by a consonant, the ħ can be elided via contraction
         the ezafe construct and the "maker" prefix require the genitive case:
             ža² a¹-ħa¹-su "the life that is mine"
             şa¹ħa¹-su "that which makes me"
