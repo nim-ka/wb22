@@ -77,7 +77,9 @@ morphology:
         ------------------------------------------------------------------
             proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
               distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
-    
+              medial | noun-(ğ)Cy  | eğiy, eriy, ea²ğıy, eğnikiy
+        the medial marks proximity to a known 3rd person, not proximity to the listener.
+        
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
             büb(ħ)a¹-sa² "I (emphatic)"
