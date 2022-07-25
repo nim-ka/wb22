@@ -9,5 +9,5 @@ cat todo.txt \
 	phonotactics.txt \
 	ortho.txt \
 	vowel_harmony.txt \
-	morpho.txt \
+	grammar.txt \
 	given_words.txt > clong.txt

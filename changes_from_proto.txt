@@ -7,9 +7,9 @@ several phonological changes then take place:
     -- /χ/ and /ʁ/ soften to /x/ and /ɰ/
     --- similar to istanbul turkish, /ɰ/ starts to fade and takes on more of a vowel-lengthening/-strengthening role
     - /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
-    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most roots and grammatical affixes that end in s or z remain written with s and z for two reasons:
+    -- this change is reflected in the orthography with ş and ž for /ʃ/ and /ʒ/, but most roots that end in s or z and most grammatical affixes that contain s or z remain written with s and z for two reasons:
     --- 1. they are not pronounced /ʃ/ and /ʒ/ when followed by something else if that causes the s/z to no longer be in coda position
-    --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before the s/z
+    --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before/after the s/z. this doesn't apply to F vowels
     - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect as described in the lenition section (resulting in the genesis of /ɲ/)
     - /ɲ/ gets lost in favor of /niɦ/
     - a significant vowel shift occurs:

@@ -1,5 +1,8 @@
 ⁰¹²³⁴⁵⁶⁷⁸⁹
 
+todo:
+    more postpositions idk
+
 proto phonology:
     consonants:
         m       n               ŋ¹
@@ -39,9 +42,9 @@ several phonological changes then take place:
     -- /χ/ and /ʁ/ soften to /x/ and /ɰ/
     --- similar to istanbul turkish, /ɰ/ starts to fade and takes on more of a vowel-lengthening/-strengthening role
     - /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
-    -- this change is reflected in the orthography with ş and ž for ʃ and ʒ, but most roots and grammatical affixes that end in s or z remain written with s and z for two reasons:
+    -- this change is reflected in the orthography with ş and ž for /ʃ/ and /ʒ/, but most roots that end in s or z and most grammatical affixes that contain s or z remain written with s and z for two reasons:
     --- 1. they are not pronounced /ʃ/ and /ʒ/ when followed by something else if that causes the s/z to no longer be in coda position
-    --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before the s/z
+    --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before/after the s/z. this doesn't apply to F vowels
     - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect as described in the lenition section (resulting in the genesis of /ɲ/)
     - /ɲ/ gets lost in favor of /niɦ/
     - a significant vowel shift occurs:
@@ -81,7 +84,8 @@ lenition:
         ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
         ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
         ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
-        ɦɑj l* "ay l*" ==>  ɦɑ j* "a y*"
+        ɦɑj l* "ay l*" ==> before front vowels: ɦɑ j* "a y*"
+                           before back vowels:  ɦɑ ɰ* "a ǧ*" ==> ɦɑ ɦ* "a ǧ*"
         ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
         ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
 
@@ -95,6 +99,8 @@ phonology:
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
     word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
+    /l/ is realized as [ɫ] before back vowels except /ə²/
+    /ɦ/ is a very weak glottal transition and is on the verge of disappearing
 
     vowels:
       short:
@@ -111,8 +117,10 @@ phonology:
         
     /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
     they are both /ə/ but pattern differently for vowel harmony purposes
-        
+    
     /a/ and /aː/ are phonetically front
+    
+    phrase-final vowels are often devoiced
 
 phonotactics-y stuff:
     - word-final stress
@@ -285,7 +293,7 @@ vowel harmony:
                 a² |   a²  |   a²
                  o |   o   |   o
 
-    here is how the Y vowel came to be from C+F in the suffix *-CgF => -gI:
+    here is how the I vowel came to be from C+F in the suffix *-CgF => -gI:
     
       target vowel |   C ==F=> I
     --------------------------------
@@ -327,41 +335,51 @@ vowel harmony:
                 a² |   ı   |   a²  |   e   | a²/oǧ |   e   |   a²  |   i
                  o |   u   |   o   |   a¹  |   o   |   a¹  |   o   |   ü
 
-morphology:
+vowel harmony in practice:
+    most native roots follow C, O, F, or B harmony left-to-right through the root
+    compound words can break harmony, as commonly do loan words, and as do some affixes.
+    vowel harmony can also be broken in rare cases in verbs by the reduplication imposed by the frequentative aspect.
+
+grammar:
+    the language is primarily head-final and has SOV word order by default, though free word order is possible.
+    it is primarily head-marking. it is synthetic and highly pro-drop, with verbs taking on much of the work in the sentence.
+
     nouns:
-        nouns decline for the nominative, accusative, genitive, dative, locative, and instrumental cases.
+        nouns decline for the nominative, accusative, oblique, genitive, dative, locative, and instrumental cases.
         the suffixes are as follows:
         
              case    |   suffix    | example declension of a²nha²q "enemy"
         ------------------------------------------------------------------
           nominative | noun-Ø      | a²nha²q "the enemy"
           accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
+             oblique | noun-mB     | a²nha²qma² "the enemy" (oblique)
             genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
               dative | noun-Bd     | a²nha²qa²d "to the enemy"
             locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
         instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
 
-        nouns mark number with the plural suffix -gI
+        nouns can mark number with the plural suffix -gI
         
         indefiniteness can be marked with the indefinite marker "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
             ga²ǧa² /goːɦə/ "[the] night"
             a² ca²ǧa² /ə² dʒoːɦə/ "a night"
+        the indefinite marker may be elided in poetic registers, leaving just the lenition.
         
         possession is indicated by the "possessed" suffix -nC. the possessor being in genitive case in this situation implies inalienable possession. example:
-            ža²         ga²ǧa²-pe
-            life        night-GEN
+            ga²ǧa²-pe   ža²
+            night-GEN   life
             "the life of the night"
            
-            ža²-nı      ga²ǧa²
-            life-POSSD  night
+            ga²ǧa²      ža²-nı
+            night       life-POSSD
             "the night's life [alienable]"
            
-            ža²-nı      ga²ǧa²-pe
-            life-POSSD  night-GEN
+            ga²ǧa²-pe   ža²-nı
+            night-GEN   life-POSSD
             "the night's life [inalienable]"
         
-        there is also an ezafe-like construction used in more formal registers which can be used to join nouns with other nouns or adjectives.
-        it uses the prefix F- on the modifying noun or adjective:
+        there is also an ezafe-like construction used in more formal or poetic registers which can be used to join nouns with other nouns or adjectives.
+        it uses the prefix F- on the dependent noun or adjective:
             ža²       e-ga²ǧa²
             life      EZ-night
             "the life of the night" / "the life which is of the night"
@@ -378,7 +396,7 @@ morphology:
             "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
     
     pronouns:
-        some pronouns decline for the lative and ablative cases in addition to the other cases regular nouns decline for.
+        some pronouns have lative and ablative forms in addition to the forms for the other cases regular nouns decline for.
     
         table of personal pronouns:
         
@@ -401,24 +419,81 @@ morphology:
         -------------------------------------------------------------------
         instrumental | sıa²   | ženi   | deni   | degin  | eǧnik  | iǧnik
         
+        the 2PL forms are used as formal 2SG pronouns.
+        
+        there are special inclusive 1PL forms that are formed by adding the prefix dB- (the regular 1PL forms do not specify clusivity):
+            za²      "we (incl.)" or "we (excl.)"
+            da²za²   "we (incl.)" (etymologically: "you-I")
+            zuǧ      "us (incl.)" or "us (excl.)"
+            duzuǧ    "us (incl.)" (etymologically: "you-me")
+        
         the 3P pronouns can be made to reflect proximity by adding the following suffixes:
             meaning  |   suffix    | examples
         ------------------------------------------------------------------
             proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
               distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
-    
+              medial | noun-(ğ)Cy  | eğiy, eriy, ea²ğıy, eğnikiy
+        the medial marks proximity to the listener or to a known 3rd person, but not the speaker.
+        
+        reflexive pronouns are formed using reduplication:
+            sa²         "I"
+            sa²sa²      "myself"
+            dogda¹      "from you (PL)"
+            dodogda¹    "from yourselves"
+            ea²s        "for it"
+            eea²s       "for itself"
+        
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
-            büba¹-sa² "I (emphatic)"
+            büb(ħ)a¹-sa² "I (emphatic)"
+        when preceded by a consonant, the ħ may be elided via contraction
         the ezafe construct and the "maker" prefix require the genitive case:
-            ža² a¹-ħa¹-su "the life that is mine"
+            ža² a¹-ħa¹-su "the life which is mine"
             şa¹ħa¹-su "that which makes me"
     
-    prepositions:
-        lative preposition: lı
-        ablative preposition: loda¹
+    postpositions:
+        lative postposition: lı
+        ablative postposition: loda¹
+        
+        
     
-    tilni a silezirpe       suzies | /sʉ.ze.ˈɦaʃ/
+    adjectives:
+        adjectives follow the nouns they modify. they are unmarked except for agreeing in number with the noun using the plural suffix -gI.
+    
+    verbs:
+        verbs can be conjugated for person (of both subject and object), number (of subject), tense, voice, aspect, etc.
+        there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, mood, directionality, etc.
+        
+        all intransitive verb roots end in -C, a sort of intransitive-marking "suffix". an example is the verb zi, which can be thought of a phonotactically invalid root *z + -C
+        
+        the personal prefixes are sO- for 1P, dO- for 2P, and (h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in these cases the causee is put in the nominative and the causer is put in the oblique case.
+        the 3P prefix is Ø- usually but h- when in the position of subject and the object is 1P or 2P. thus, from the root "zie":
+            ziece       "to win"
+            sezie       "I win"
+            dezie       "you win"
+            zie         "it wins"
+            ziesce      "to make win"
+            desezies    "I make you win"
+            sezies      "I make it win"
+            sedezies    "you make me win"
+            sehzies     "it makes me win"
+        
+        verbs agree in number with the subject (or causee in causativized verbs). they use the same plural suffix -gI
+        
+        the tenses are:
+        - past: marked with -tF
+        - present: unmarked
+        - future: marked with -hF
+        aspects are marked separate and are more diverse, including:
+        - perfective: marked with -(F)t
+        - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
+        - habitual: marked with -lO
+        - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
+        - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
+        
+        verbs also conjugate for mood:
+
+       suzies | /sʉ.ze.ˈɦaʃ/
         masee | /mə.sa.ˈɦa/
          umħa | /ɦʉm.ˈxə/
         oespe | /ɦu.ɦas.ˈpa/

@@ -18,7 +18,8 @@ lenition:
         ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
         ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
         ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
-        ɦɑj l* "ay l*" ==>  ɦɑ j* "a y*"
+        ɦɑj l* "ay l*" ==> before front vowels: ɦɑ j* "a y*"
+                           before back vowels:  ɦɑ ɰ* "a ǧ*" ==> ɦɑ ɦ* "a ǧ*"
         ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
         ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
 

@@ -8,6 +8,8 @@ phonology:
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
     word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
+    /l/ is realized as [ɫ] before back vowels except /ə²/
+    /ɦ/ is a very weak glottal transition and is on the verge of disappearing
 
     vowels:
       short:
@@ -24,7 +26,7 @@ phonology:
         
     /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
     they are both /ə/ but pattern differently for vowel harmony purposes
-        
+    
     /a/ and /aː/ are phonetically front
     
     phrase-final vowels are often devoiced

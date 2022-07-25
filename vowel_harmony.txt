@@ -129,7 +129,7 @@ vowel harmony:
                 a² |   a²  |   a²
                  o |   o   |   o
 
-    here is how the Y vowel came to be from C+F in the suffix *-CgF => -gI:
+    here is how the I vowel came to be from C+F in the suffix *-CgF => -gI:
     
       target vowel |   C ==F=> I
     --------------------------------
@@ -170,4 +170,9 @@ vowel harmony:
                 a¹ |   ü   |   a¹  |   a¹  |   o   |   a¹  |   o   |   ü
                 a² |   ı   |   a²  |   e   | a²/oǧ |   e   |   a²  |   i
                  o |   u   |   o   |   a¹  |   o   |   a¹  |   o   |   ü
+
+vowel harmony in practice:
+    most native roots follow C, O, F, or B harmony left-to-right through the root
+    compound words can break harmony, as commonly do loan words, and as do some affixes.
+    vowel harmony can also be broken in rare cases in verbs by the reduplication imposed by the frequentative aspect.
 
