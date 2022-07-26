@@ -34,7 +34,7 @@ proto orthography:
          OPEN   e         ö         a         o
 
 several phonological changes then take place:
-    - /f/ and /v/ are lost and merge with /p/ and /b/ (and stop being written separately)
+    - /f/ is lost and merges with /p/
     - /q/ and /k/ merge
     - guttural/glottal fricative chain shift:
     -- /h/ voices to /ɦ/
@@ -77,6 +77,7 @@ lenition:
        ɦɑj dʒ* "ay c*" ==>  ɦɑ ʒ* "a ž*"
         ɦɑj k* "ay k*" ==> ɦɑ tʃ* "a ç*"
         ɦɑj g* "ay g*" ==> ɦɑ dʒ* "a c*"
+        ɦɑj v* "ay v*" ==>  ɦɑ v* "a v*"
         ɦɑj s* "ay s*" ==>  ɦɑ ʃ* "a ş*"
         ɦɑj z* "ay z*" ==>  ɦɑ ʒ* "a ž*"
         ɦɑj ʃ* "ay ş*" ==>  ɦɑ ʃ* "a ş*"
@@ -93,14 +94,14 @@ phonology:
     consonants:
         m       n               ŋ
         p/b     t/d     tʃ/dʒ   k/g
-                s/z     ʃ/ʒ     x       h/ɦ
+        v       s/z     ʃ/ʒ     x       h/ɦ
                 l       j
                 ɾ
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
     word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
-    /l/ is realized as [ɫ] before back vowels except /ə²/
-    /ɦ/ is a very weak glottal transition and is on the verge of disappearing
+    /l/ is realized as [ɫ] before back vowels and both /ə/s, and after those vowels in coda position
+    /ɦ/ is a very weak glottal transition
 
     vowels:
       short:
@@ -132,7 +133,7 @@ orthography:
     consonants:
         m       n               ň,nh¹
         p/b     t/d     ç/c     (k,q²)/g
-                s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
+        v       s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
                 l       y
                 r
 
@@ -342,9 +343,6 @@ vowel harmony in practice:
     vowel harmony can also be broken in rare cases in verbs by the reduplication imposed by the frequentative aspect.
 
 grammar:
-    the language is primarily head-final and has SOV word order by default, though free word order is possible.
-    it is primarily head-marking. it is synthetic and highly pro-drop, with verbs taking on much of the work in the sentence.
-
     nouns:
         nouns decline for the nominative, accusative, oblique, genitive, dative, locative, and instrumental cases.
         the suffixes are as follows:
@@ -357,13 +355,13 @@ grammar:
             genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
               dative | noun-Bd     | a²nha²qa²d "to/for the enemy"
             locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
-        instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+        instrumental | noun-OǧFnCk | a²nha²qa²ǧenik "with the enemy"
         
         in the poetic register nouns can be declined for the lative and ablative cases:
              case    |   suffix    | example declension of a²nha²q "enemy"
         ------------------------------------------------------------------
-              lative | noun-tF     | a²nha²q "to the enemy"
-            ablative | noun-(O)r   | a²nha²q "from the enemy"
+              lative | noun-tF     | a²nha²qte "to the enemy"
+            ablative | noun-(O)r   | a²nha²qa²r "from the enemy"
 
         nouns can mark number with the plural suffix -gI
         
@@ -436,12 +434,12 @@ grammar:
             zuǧ      "us (incl.)" or "us (excl.)"
             duzuǧ    "us (incl.)" (etymologically: "you-me")
         
-        the 3P pronouns can be made to reflect proximity by adding the following suffixes:
+        the 3P pronouns can be made into demonstrative pronouns by adding the following suffixes:
             meaning  |   suffix    | examples
         ------------------------------------------------------------------
             proximal | noun-(ǧ)Bm  | eǧa²m, era²m, ea²ǧa²m, eǧnikım
-              distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
               medial | noun-(ğ)Cy  | eğiy, eriy, ea²ğıy, eğnikiy
+              distal | noun-(ǧ)Fǧ  | *eǧeǧ => eǧ, ereǧ, ea²ǧeǧ, eǧnikiǧ
         the medial marks proximity to the listener or to a known 3rd person, but not the speaker.
         
         reflexive pronouns are formed using reduplication:
@@ -451,6 +449,35 @@ grammar:
             dodogda¹    "from yourselves"
             ea²s        "for it"
             eea²s       "for itself"
+        
+        the relative pronouns are reduced forms of the proximal demonstrative pronouns:
+                 case    | proximal dem. | relative pronoun
+            ------------------------------------------------------------------
+              nominative | eǧ            | e
+              accusative | ereǧ          | ere
+                 oblique | ea²eǧ         | a²e
+                genitive | eneyeǧ        | ene
+                  dative | teǧ           | te
+                locative | kieǧ          | ke
+            instrumental | eǧnikiǧ       | eňki
+        
+        these relative pronouns don't mark relative clauses, but instead are used for the antecedent in the main clause. some examples of sentences with relative clauses:
+            sa        loǧor        sanala            e         na    ve     a      canar      al
+            sa²       loǧ-(B)r     Ø-sO-na²-lB       e         na²   ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            1SG.NOM   person-ACC   3-1-see-IND.PST   3SG.REL   see   -ADV   NDEF   *-good-ACC   3-3-be.IND.PST
+            "I saw a person who looked good" (lit. "I a person them-I-saw they seeing-ly good it-they-were")
+            
+            loǧor        sanala            na    ve     a      canar        al
+            loǧ-(B)r     Ø-sO-na²-lB       na²   ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            person-ACC   3-1-see-IND.PST   see   -ADV   NDEF   *-good-ACC   3-3-be.IND.PST
+            "I saw a person who looked good"
+            
+            sanala            a      canar        al
+            Ø-sO-na²-lB       a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            3-1-see-IND.PST   NDEF   *-good-ACC   3-3-be.IND.PST
+            "I saw something that was good" (lit. "them-I-saw good it-they-were")
+        
+        interrogative pronouns
         
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
@@ -463,11 +490,12 @@ grammar:
     postpositions:
         lative postposition: lı
         ablative postposition: loda¹
-        
+        adverbial postposition: ve
         
     
     adjectives:
-        adjectives follow the nouns they modify. they are unmarked except for agreeing in number with the noun using the plural suffix -gI.
+        attributive adjectives are unmarked except for agreeing in number with the noun they modify using the plural suffix -gI.
+        predicative adjectives take all the same case endings as nouns
     
     verbs:
         verbs can be conjugated for person (of both subject and object), number (of subject), tense, aspect, mood, etc.
@@ -475,8 +503,8 @@ grammar:
         
         all intransitive verb roots end in -C, a sort of intransitive-marking "suffix". an example is the verb zi, which can be thought of a phonotactically invalid root *z + -C
         
-        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and (h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in these cases the causee is put in the nominative and the causer is put in the oblique case.
-        the 3P prefix is Ø- usually but h- when in the position of subject/causer and the object/causee is 1P or 2P. thus, from the root "zie":
+        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb root]-Os.
+        the 3P prefix is Ø- usually but h- when in the position of subject (causer if causativized) and the object (causee if causativized) is 1P, 2SG, or 2PL. thus, from the root "zie":
             ziece       "to win"
             sezie       "I win"
             dezie       "you win"
@@ -505,7 +533,7 @@ grammar:
                       |    past    |  present   |   future
         ------------------------------------------------------
            indicative | -lB        | -Ø         | -hF
-        ----------------------------            --------------
+        ---------------------------|            |-------------
           categorical | -tF        |            | -nBs
         ------------------------------------------------------
            imperative | N/A        | -yO        | -yOs
@@ -527,15 +555,57 @@ grammar:
             - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
             - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
         
-        verbal affixes:
+        verbal affixes, in order of application from left to right:
+            - interest: kC- (denotes the speaker [and potentially also the listener] holding an interest or stake in the action)
             - reflexive: zBl- (denotes an action done to oneself; valency-decreasing)
             - reciprocal: zO- (denotes an action done between a group)
-            - causative: -Os
             - speaker-facing: gC- (denotes movement towards the speaker or towards both the speaker and the listener)
             - listener-facing: dCg- (denotes movement towards the listener but not towards the speaker)
-            - interest: kC- (denotes the speaker holding an interest or stake in the action)
-            - passive voice: nB-
+            - passive voice: nB- (valency-decreasing)
+            - negative: mC-
+            - negative (imperative): çOk-
+            - emphatic: -ħBl
+            - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - infinitive: -cO
+            - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
+        
+        the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
+        
+                      |    past    |  present   |   future
+        ------------------------------------------------------
+           indicative | a¹l        | Ø          | a¹h
+        ---------------------------|            |-------------
+          categorical | a¹ta¹      |            | a¹nos
+        ------------------------------------------------------
+           imperative | N/A        | a¹ya¹      | a¹ya¹s
+        ------------------------------------------------------
+          subjunctive | a¹rü
+        ------------------------------------------------------
+        interrogative | a¹ħa¹l     | a¹ħa¹      | a¹sa¹
+        ------------------------------------------------------
+             optative | a¹la¹n     | a¹na¹
+        ------------------------------------------------------
+        contrafactual | a¹ta¹                   | ta¹no
+        ------------------------------------------------------
+          conditional | a¹l                     | a¹h
+    
+    syntax:
+        the language is primarily head-final and has free word order (though SOV is the default).
+        it is primarily head-marking and highly pro-drop
+        
+        subjects are put in the nominative, and objects are put in the accusative. verbs mark for person of the subject and the object.
+        in causativized sentences, the causee is put in the nominative and the causer is put in the oblique case. the default word for these is first the causee in the nominative, then the object in the accusative, then the causer in the oblique (and then the verb).
+        
+        multiple subjects or objects can be specified by simply placing multiple subjects/objects in the sentence, all in the nominative/accusative case. there is no need for a conjunction in these cases. however there is a conjunction "i" which can be used between subjects or between objects to denote that the subject/object is to be treated as one whole (i.e. for "He married Jane and married Lily.", you wouldn't use the conjunction particle, but for "He married Jane and Lily.", you would)
+        
+        multiple verbs can be specified using the conjunction suffix -C. each verb in the sentence must carry the suffix.
+        
+        adjectives can go either before or after the noun they modify, however after is the default.
+        
+        nouns and adjectives can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
+        verbs can also modify other verbs using "ve". in this case the verb root is not conjugated at all; this is more of a non-finite construction.
+        
+        the copula is null in the present indicative/categorical
 
        suzies | /sʉ.ze.ˈɦaʃ/
         masee | /mə.sa.ˈɦa/

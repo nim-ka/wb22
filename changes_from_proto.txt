@@ -1,5 +1,5 @@
 several phonological changes then take place:
-    - /f/ and /v/ are lost and merge with /p/ and /b/ (and stop being written separately)
+    - /f/ is lost and merges with /p/
     - /q/ and /k/ merge
     - guttural/glottal fricative chain shift:
     -- /h/ voices to /ɦ/

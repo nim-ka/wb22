@@ -2,7 +2,7 @@ orthography:
     consonants:
         m       n               ň,nh¹
         p/b     t/d     ç/c     (k,q²)/g
-                s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
+        v       s/z     ş/ž³/ř⁴ ħ       h/(unwritten, ǧ⁵)
                 l       y
                 r
 
