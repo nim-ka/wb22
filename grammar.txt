@@ -131,7 +131,7 @@ grammar:
             sanala            a      canar        al
             Ø-sO-na²-lB       a²     *-ga²n-(B)r  Ø-Ø-a¹l
             3-1-see-IND.PST   NDEF   *-good-ACC   3-3-be.IND.PST
-            "I saw something that was good" (lit. "them-I-saw good it-they-were")
+            "I saw something that was good" (lit. "them-I-saw a good it-they-were")
         
         interrogative pronouns
         
