@@ -373,25 +373,25 @@ grammar:
         the indefinite marker may be elided in poetic registers, leaving just the lenition.
         
         possession is indicated by the "possessed" suffix -nC. the possessor being in genitive case in this situation implies inalienable possession. example:
-            ga²ǧa²-pe   ža²
+            ga²ǧa²-pe   ža¹
             night-GEN   life
             "the life of the night"
            
-            ga²ǧa²      ža²-nı
+            ga²ǧa²      ža¹-nı
             night       life-POSSD
             "the night's life [alienable]"
            
-            ga²ǧa²-pe   ža²-nı
+            ga²ǧa²-pe   ža¹-nı
             night-GEN   life-POSSD
             "the night's life [inalienable]"
         
         there is also an ezafe-like construction used in more formal or poetic registers which can be used to join nouns with other nouns or adjectives.
         it uses the prefix F- on the dependent noun or adjective:
-            ža²       e-ga²ǧa²
+            ža¹-      e-ga²ǧa²
             life      EZ-night
             "the life of the night" / "the life which is of the night"
             
-            ža²       e-ga²n
+            ža¹-      e-ga²n
             life      EZ-good
             "the life of good" / "the life which is good"
         
@@ -457,7 +457,7 @@ grammar:
             büb(ħ)a¹-sa² "I (emphatic)"
         when preceded by a consonant, the ħ may be elided via contraction
         the ezafe construct and the "maker" prefix require the genitive case:
-            ža² a¹-ħa¹-su "the life which is mine"
+            ža¹-a¹-ħa¹-su "the life which is mine"
             şa¹ħa¹-su "that which makes me"
     
     postpositions:
@@ -550,7 +550,7 @@ grammar:
        caňgir | /dʒə²ŋ.ˈger/
      ganhabod | /gə².ŋə¹.ˈbud/
        hazhod | /hə¹z.ˈhud/
-          žar | /ˈʒə²r/
+          žar | /ˈʒə¹r/
   canatonçies | /dʒə².nə¹.tun.tʃe.ˈɦaʃ/
 
 PHRASE: "Caňgir žar manarnate."
