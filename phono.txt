@@ -27,7 +27,8 @@ phonology:
     /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
     they are both /ə/ but pattern differently for vowel harmony purposes
     
-    /a/ and /aː/ are phonetically front
+    /e/, /ø/, /ɨ/, /ʉ/, /a/, and /oː/ are near cardinal
+    /u/ (and /uː/) are back and slightly lower than cardinal; [u̞]
     
     phrase-final vowels are often devoiced
 

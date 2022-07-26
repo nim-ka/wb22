@@ -118,7 +118,8 @@ phonology:
     /ə¹/ and /ə²/ are a situation similar to azeri but, like, worse.
     they are both /ə/ but pattern differently for vowel harmony purposes
     
-    /a/ and /aː/ are phonetically front
+    /e/, /ø/, /ɨ/, /ʉ/, /a/, and /oː/ are near cardinal
+    /u/ (and /uː/) are back and slightly lower than cardinal; [u̞]
     
     phrase-final vowels are often devoiced
 
@@ -136,7 +137,7 @@ orthography:
                 r
 
     ¹: <nh> represents /ŋ/ where it was formed from the assimilation of /n/ and disappearance of /x/ in the cluster /nx/. in all other situations <ň> is used. <ň> used to not be used for /ŋ/ arising from assimilations (e.g. you would write <ng> for /ŋg/ instead of <ňg>), but this since changed. note the distinction between <nh> /ŋ/ and <ňh> /ŋh/.
-    ²: <q> is still written for historical /q/
+    ²: <q> is used for loan words that originally contained a /q/
     
     ³: taken from the section on phonological changes:
     - one of the sound changes from the proto-language is that /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
@@ -354,13 +355,19 @@ grammar:
           accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
              oblique | noun-mB     | a²nha²qma² "the enemy" (oblique)
             genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
-              dative | noun-Bd     | a²nha²qa²d "to the enemy"
+              dative | noun-Bd     | a²nha²qa²d "to/for the enemy"
             locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
         instrumental | noun-OǧFnCk | a²nha²qoǧa¹nük "with the enemy"
+        
+        in the poetic register nouns can be declined for the lative and ablative cases:
+             case    |   suffix    | example declension of a²nha²q "enemy"
+        ------------------------------------------------------------------
+              lative | noun-tF     | a²nha²q "to the enemy"
+            ablative | noun-(O)r   | a²nha²q "from the enemy"
 
         nouns can mark number with the plural suffix -gI
         
-        indefiniteness can be marked with the indefinite marker "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
+        indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
             ga²ǧa² /goːɦə/ "[the] night"
             a² ca²ǧa² /ə² dʒoːɦə/ "a night"
         the indefinite marker may be elided in poetic registers, leaving just the lenition.
@@ -394,6 +401,8 @@ grammar:
             emphatic |  bC(b)-noun |   bıba²nha²q "the enemy (emphatic)"
            privative |     kC-noun |    kıa²nha²q "the not-enemy"
             "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
+        
+        nouns can be turned into verbs that mean "to create [noun]" using the creative suffix -Oz
     
     pronouns:
         some pronouns have lative and ablative forms in addition to the forms for the other cases regular nouns decline for.
@@ -461,13 +470,13 @@ grammar:
         adjectives follow the nouns they modify. they are unmarked except for agreeing in number with the noun using the plural suffix -gI.
     
     verbs:
-        verbs can be conjugated for person (of both subject and object), number (of subject), tense, voice, aspect, etc.
-        there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, mood, directionality, etc.
+        verbs can be conjugated for person (of both subject and object), number (of subject), tense, aspect, mood, etc.
+        there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, directionality, passive voice, etc.
         
         all intransitive verb roots end in -C, a sort of intransitive-marking "suffix". an example is the verb zi, which can be thought of a phonotactically invalid root *z + -C
         
-        the personal prefixes are sO- for 1P, dO- for 2P, and (h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in these cases the causee is put in the nominative and the causer is put in the oblique case.
-        the 3P prefix is Ø- usually but h- when in the position of subject and the object is 1P or 2P. thus, from the root "zie":
+        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and (h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in these cases the causee is put in the nominative and the causer is put in the oblique case.
+        the 3P prefix is Ø- usually but h- when in the position of subject/causer and the object/causee is 1P or 2P. thus, from the root "zie":
             ziece       "to win"
             sezie       "I win"
             dezie       "you win"
@@ -478,20 +487,55 @@ grammar:
             sedezies    "you make me win"
             sehzies     "it makes me win"
         
-        verbs agree in number with the subject (or causee in causativized verbs). they use the same plural suffix -gI
+        when not already marked using the 2SG/2PL personal distinction, verbs agree in number with the subject (or causee in causativized verbs) using the same plural suffix -gI
         
-        the tenses are:
-        - past: marked with -tF
-        - present: unmarked
-        - future: marked with -hF
+        negation on verbs is marked directly after the root with the suffix -Bl
+        
+        the tenses are past, present, and future.
+        verbs conjugate for tense and mood. moods:
+            indicative - the speaker is stating a fact
+            categorical - the speaker is confident that the event has happened/is happening/will happen
+            imperative - the speaker is ordering that the event happens
+            subjunctive - used in relative clauses for actions that are not factual
+            interrogative - the speaker is asking whether the event has happened/is happening/will happen
+            optative - the speaker is expressing a wish that the event happen/for the event to happen
+            contrafactual - for the condition of a conditional sentence
+            conditional - for the dependent clause of a conditional sentence
+        
+                      |    past    |  present   |   future
+        ------------------------------------------------------
+           indicative | -lB        | -Ø         | -hF
+        ----------------------------            --------------
+          categorical | -tF        |            | -nBs
+        ------------------------------------------------------
+           imperative | N/A        | -yO        | -yOs
+        ------------------------------------------------------
+          subjunctive | -rC
+        ------------------------------------------------------
+        interrogative | -(O)ħOl    | -(O)ħO     | -(O)sO
+        ------------------------------------------------------
+             optative | -(F)lFn    | -(F)nF
+        ------------------------------------------------------
+        contrafactual | -tF                     | -tFnB
+        ------------------------------------------------------
+          conditional | -Ol                     | -hO
+        
         aspects are marked separate and are more diverse, including:
-        - perfective: marked with -(F)t
-        - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
-        - habitual: marked with -lO
-        - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
-        - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
+            - perfective: marked with -(F)t
+            - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
+            - habitual: marked with -lO
+            - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
+            - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
         
-        verbs also conjugate for mood:
+        verbal affixes:
+            - reflexive: zBl- (denotes an action done to oneself; valency-decreasing)
+            - reciprocal: zO- (denotes an action done between a group)
+            - causative: -Os
+            - speaker-facing: gC- (denotes movement towards the speaker or towards both the speaker and the listener)
+            - listener-facing: dCg- (denotes movement towards the listener but not towards the speaker)
+            - interest: kC- (denotes the speaker holding an interest or stake in the action)
+            - passive voice: nB-
+            - infinitive: -cO
 
        suzies | /sʉ.ze.ˈɦaʃ/
         masee | /mə.sa.ˈɦa/

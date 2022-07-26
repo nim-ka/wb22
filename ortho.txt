@@ -7,7 +7,7 @@ orthography:
                 r
 
     ¹: <nh> represents /ŋ/ where it was formed from the assimilation of /n/ and disappearance of /x/ in the cluster /nx/. in all other situations <ň> is used. <ň> used to not be used for /ŋ/ arising from assimilations (e.g. you would write <ng> for /ŋg/ instead of <ňg>), but this since changed. note the distinction between <nh> /ŋ/ and <ňh> /ŋh/.
-    ²: <q> is still written for historical /q/
+    ²: <q> is used for loan words that originally contained a /q/
     
     ³: taken from the section on phonological changes:
     - one of the sound changes from the proto-language is that /s/ and /z/ palatalize to [ʃ] and [ʒ] before front vowels and in coda position after front vowels. this becomes phonemic after the vowel shift
