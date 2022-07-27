@@ -47,7 +47,7 @@ vowel harmony:
                       a² | a²
                        o | o
          
-        example: the infinitive suffix -cO:
+        example: the non-finite suffix -cO:
             suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
             ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
             ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/

@@ -118,20 +118,26 @@ grammar:
             instrumental | eǧnikiǧ       | eňki
         
         these relative pronouns don't mark relative clauses, but instead are used for the antecedent in the main clause. some examples of sentences with relative clauses:
-            sa        loǧor        sanala            e         na    ve     a      canar      al
-            sa²       loǧ-(B)r     Ø-sO-na²-lB       e         na²   ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
-            1SG.NOM   person-ACC   3-1-see-IND.PST   3SG.REL   see   -ADV   NDEF   *-good-ACC   3-3-be.IND.PST
-            "I saw a person who looked good" (lit. "I a person them-I-saw they seeing-ly good it-they-were")
+            sa        loǧor        sanala            e         naca       ve     a      canar        al
+           /sə²       loːɦuɾ       sə²nə²lə²         ɦa        nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
+           [ˈsə       loːˈɦuɾ      sənəˈlə           ˈɦa       nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
+            sa²       loǧ-(B)r     Ø-sO-na²-lB       e         na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            1SG.NOM   person-ACC   3-1-see-IND.PST   3SG.REL   see-NFIN   ADV    NDEF   *-good-ACC   3-3-be.IND.PST
+            "I saw a person who looked good" (lit. "I a person them-I-saw they seeing-ly a good it-they-were")
             
-            loǧor        sanala            na    ve     a      canar        al
-            loǧ-(B)r     Ø-sO-na²-lB       na²   ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
-            person-ACC   3-1-see-IND.PST   see   -ADV   NDEF   *-good-ACC   3-3-be.IND.PST
-            "I saw a person who looked good"
+            loǧor        sanala            naca       ve     a      canar        al
+           /loːɦuɾ       sə²nə²lə²         nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
+           [loːˈɦuɾ      sənəˈlə           nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
+            loǧ-(B)r     Ø-sO-na²-lB       na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            person-ACC   3-1-see-IND.PST   see-NFIN   ADV    NDEF   *-good-ACC   3-3-be.IND.PST
+            "I saw a person who looked good" (lit. "a person them-I-saw seeing-ly a good it-they-were")
             
             sanala            a      canar        al
+           /sə²nə²lə²         ɦə²    dʒə²nə²ɾ     ɦə¹l/
+           [sənəˈlə           ɦə     dʒəˈnəɾ      ˈɦəl]
             Ø-sO-na²-lB       a²     *-ga²n-(B)r  Ø-Ø-a¹l
             3-1-see-IND.PST   NDEF   *-good-ACC   3-3-be.IND.PST
-            "I saw something that was good" (lit. "them-I-saw good it-they-were")
+            "I saw something that was good" (lit. "them-I-saw a good it-they-were")
         
         interrogative pronouns
         
@@ -146,7 +152,7 @@ grammar:
     postpositions:
         lative postposition: lı
         ablative postposition: loda¹
-        adverbial postposition: ve
+        adverbial postposition: ve (usually unstressed)
         
     
     adjectives:
@@ -157,23 +163,36 @@ grammar:
         verbs can be conjugated for person (of both subject and object), number (of subject), tense, aspect, mood, etc.
         there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, directionality, passive voice, etc.
         
-        all intransitive verb roots end in -C, a sort of intransitive-marking "suffix". an example is the verb zi, which can be thought of a phonotactically invalid root *z + -C
+        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb]-Os.
+        the 3P prefix is Ø- usually but h- when in the position of subject (causer if causativized) and the object (causee if causativized) is 1P, 2SG, or 2PL.
+        additionally, the 2nd non-zero personal prefix in the verb drops its vowel (unless succeeded by the 3P as h-).
         
-        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb root], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb root]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb root]-Os.
-        the 3P prefix is Ø- usually but h- when in the position of subject (causer if causativized) and the object (causee if causativized) is 1P, 2SG, or 2PL. thus, from the root "zie":
+        so, from the root "zie":
             ziece       "to win"
             sezie       "I win"
             dezie       "you win"
             zie         "it wins"
             ziesce      "to make win"
-            desezies    "I make you win"
+            deszies     "I make you win"
             sezies      "I make it win"
-            sedezies    "you make me win"
+            sedzies     "you make me win"
             sehzies     "it makes me win"
         
-        when not already marked using the 2SG/2PL personal distinction, verbs agree in number with the subject (or causee in causativized verbs) using the same plural suffix -gI
+        from the root "na²":
+            na²ca²          "to see"
+            sa²na²ca²       "for me to see"
+            na²             "it sees it"
+            sa²na²          "I see it"
+            da²na²          "you see it"
+            da²sna²         "I see you"
+            sa²dna²         "you see me"
+            sa²hna²         "it sees me"
+            da²hna²         "it sees you"
+            na²sca²         "to make win"
+            da²sda²na²s     "you make me see you"
+            da²sa²hna²s     "it makes me see you"
         
-        negation on verbs is marked directly after the root with the suffix -Bl
+        when not already marked using the 2SG/2PL personal distinction, verbs agree in number with the subject (or causee in causativized verbs) using the same plural suffix -gI
         
         the tenses are past, present, and future.
         verbs conjugate for tense and mood. moods:
@@ -202,10 +221,10 @@ grammar:
         ------------------------------------------------------
         contrafactual | -tF                     | -tFnB
         ------------------------------------------------------
-          conditional | -Ol                     | -hO
+          conditional | -(O)l                   | -hO
         
         aspects are marked separate and are more diverse, including:
-            - perfective: marked with -(F)t
+            - perfective: unmarked
             - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
             - habitual: marked with -lO
             - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
@@ -213,16 +232,20 @@ grammar:
         
         verbal affixes, in order of application from left to right:
             - interest: kC- (denotes the speaker [and potentially also the listener] holding an interest or stake in the action)
+            - aforementioned personal affixes
             - reflexive: zBl- (denotes an action done to oneself; valency-decreasing)
             - reciprocal: zO- (denotes an action done between a group)
+            - speaker-away: yC- (denotes movement away from the speaker)
             - speaker-facing: gC- (denotes movement towards the speaker or towards both the speaker and the listener)
             - listener-facing: dCg- (denotes movement towards the listener but not towards the speaker)
             - passive voice: nB- (valency-decreasing)
             - negative: mC-
             - negative (imperative): çOk-
-            - emphatic: -ħBl
+            - aforementioned tense/mood markers
+            - aforementioned aspect markers
+            - emphatic: -(B)ħ
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
-            - infinitive: -cO
+            - non-finite: -cO
             - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
         
         the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
@@ -252,14 +275,19 @@ grammar:
         subjects are put in the nominative, and objects are put in the accusative. verbs mark for person of the subject and the object.
         in causativized sentences, the causee is put in the nominative and the causer is put in the oblique case. the default word for these is first the causee in the nominative, then the object in the accusative, then the causer in the oblique (and then the verb).
         
-        multiple subjects or objects can be specified by simply placing multiple subjects/objects in the sentence, all in the nominative/accusative case. there is no need for a conjunction in these cases. however there is a conjunction "i" which can be used between subjects or between objects to denote that the subject/object is to be treated as one whole (i.e. for "He married Jane and married Lily.", you wouldn't use the conjunction particle, but for "He married Jane and Lily.", you would)
+        multiple subjects or objects can be specified by simply placing multiple subjects/objects in the sentence, all in the nominative/accusative case. there is no need for a conjunction in these cases. however there is a conjunction particle "i" which can be used between subjects or between objects to denote that the subject/object is to be treated as one whole (i.e. for "He married Jane and married Lily.", you wouldn't use the conjunction particle, but for "He married Jane and Lily.", you would)
         
         multiple verbs can be specified using the conjunction suffix -C. each verb in the sentence must carry the suffix.
         
         adjectives can go either before or after the noun they modify, however after is the default.
         
-        nouns and adjectives can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
-        verbs can also modify other verbs using "ve". in this case the verb root is not conjugated at all; this is more of a non-finite construction.
+        nouns, adjectives, and non-finite verbs can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
         
         the copula is null in the present indicative/categorical
+        
+        conditional sentences use the conjunction "to", e.g.:
+            sanatı             to     sayadagkoloħ
+            Ø-sO-na²-tF        to     sO-yF-dFg-ko-(O)l-(B)ħ
+            3-1-see-PST.CNTF   then   1-away-to_you-go-PST.COND-EMPH
+            "if I saw it then I would've ran to you" (the emphatic particle turns the verb from having a sense of "coming" to having a sense of "running" or "coming strongly")
 
