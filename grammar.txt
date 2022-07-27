@@ -241,8 +241,8 @@ grammar:
             - passive voice: nB- (valency-decreasing)
             - negative: mC-
             - negative (imperative): çOk-
-            - aforementioned tense/mood markers
-            - aforementioned aspect markers
+            - aforementioned tense/mood suffixes
+            - aforementioned aspect suffixes
             - emphatic: -(B)ħ
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - non-finite: -cO
@@ -286,8 +286,8 @@ grammar:
         the copula is null in the present indicative/categorical
         
         conditional sentences use the conjunction "to", e.g.:
-            sanatı             to     sayadagkoloħ
-            Ø-sO-na²-tF        to     sO-yF-dFg-ko-(O)l-(B)ħ
-            3-1-see-PST.CNTF   then   1-away-to_you-go-PST.COND-EMPH
+            sanatı             to     sadagkoloħ
+            Ø-sO-na²-tF        to     sO-dFg-ko-(O)l-(B)ħ
+            3-1-see-PST.CNTF   then   1-to_you-go-PST.COND-EMPH
             "if I saw it then I would've ran to you" (the emphatic particle turns the verb from having a sense of "coming" to having a sense of "running" or "coming strongly")
 
