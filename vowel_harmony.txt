@@ -17,7 +17,7 @@ vowel harmony:
     for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
     if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
     
-    in this section we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
+    in this document we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
     
     there are 2 forms of vowel harmony: the four-fold system and the two-fold system
     
@@ -48,9 +48,9 @@ vowel harmony:
                        o | o
          
         example: the non-finite suffix -cO:
-            suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
+            suzi /sʉzeɦ/ + -cO => suzice /sʉzeɦdʒa/
             ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
-            ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/
+            ca²na¹tonçi /dʒə²nə²tuntʃe/ + -cO => ca²na¹tonçice /dʒə²nə²tuntʃedʒa/
         
             target vowel | F vowel
             ----------------------
@@ -75,12 +75,6 @@ vowel harmony:
                       a¹ | o
                       a² | a², oǧ
                        o | o
-            
-        example: the suffix -BǧnBk:
-            ca²pçı /dʒə²ptʃɨ/ + -dFn + -BǧnBk => ca²pçıdiniǧnık /dʒə²ptʃɨdiniːnɨx/
-            zie /zeɦa/ + -BǧnBk => *zieeǧna²k => zieǧna²k /zeɦaːnə²x/
-            *ç + -BǧnBk => çuǧnuk /tʃuːnʉx/
-            *ç + -Os + -BǧnBk => ça²soǧnok /tʃə²soːnux/
 
     the full four-fold system table therefore looks like this:
     

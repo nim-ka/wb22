@@ -7,9 +7,9 @@ phonology:
                 ɾ
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
-    word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
+    word-final plosives/affricates are devoiced. /k/ and /g/ are lenited to /x/ in coda position
     /l/ is realized as [ɫ] before back vowels and both /ə/s, and after those vowels in coda position
-    /ɦ/ is a very weak glottal transition
+    /ɦ/ is a weak glottal transition
 
     vowels:
       short:

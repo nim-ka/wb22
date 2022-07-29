@@ -1,17 +1,80 @@
-       suzies | /sʉ.ze.ˈɦaʃ/
-        masee | /mə.sa.ˈɦa/
-         umħa | /ɦʉm.ˈxə/
-        oespe | /ɦu.ɦas.ˈpa/
-    ħantunçir | /xə²n.tʉn.ˈtʃer/
-       řoohus | /ʒu.ɦu.ˈhʉs/
-        aǧçir | /ɦəː.ˈtʃer/
-           oo | /ɦu.ˈɦoː/ (irregular spelling)
-       capças | /dʒə²p.ˈtʃə²s/
-    manarnate | /mə.nər.nə.ˈta/
-       caňgir | /dʒə²ŋ.ˈger/
-     ganhabod | /gə².ŋə¹.ˈbud/
-       hazhod | /hə¹z.ˈhud/
-          žar | /ˈʒə¹r/
-  canatonçies | /dʒə².nə¹.tun.tʃe.ˈɦaʃ/
+suzies /sʉzeɦaʃ/ (v.) "they make them win [negative-attitude]"
+    su-Ø-Ø-z-i-Os-Ø
+    NEGATT-3-3-win-EP-CAUS-PRS.IND
+    negative-attitude 3P-causee 3P-causer present indicative causative form of zice "to win"
+
+masee /mə²saɦa/ (v.) "you(pl) laugh"
+    mB(s)-ee-Ø
+    2PL-laugh-PRS.IND
+    2PL-subject present indicative form of eece "to laugh"
+
+umħa /ɦʉmxə¹/ (n.)
+    umħa
+
+oespe /ɦuɦaspa/ (n.)
+    oes-pE
+    genitive form of oes
+
+ħantunçir /xə¹ntʉntʃeɾ/ (n.) "one who has a crush"
+    Ø-ħa¹nü-Ø-tBnçi-(F)r
+    3-like-PRS.IND-NPFV-AGNZ
+    agentive of the 3P-object present indicative form of ħantunçice ("to love [temporarily]"), itself the (irregular) imperfective form of ħa¹nüca¹ "to like"
+    the word for "to love [seriously]" is also derived from ħa¹nüca¹: it is the universal form, ħa¹nuǧo
+
+řoohus /ʒuɦuhʉs/ (n.)
+    řoohus
+
+aǧçir /ɦəːtʃeɾ/ (n.)
+    a¹ǧçi-(B)r
+    accusative form of aǧçi
+
+oo /ɦuɦoː/ (intr.) "oho!; aha!" [spelling is irregular]
+    interjection. from proto *oo /ɦoɦo/
+
+capças /dʒə²ptʃə²s/ (v.)
+    Ø-Ø-Ø-ca²pçı-Os-Ø
+    3-3-3-ca²pçı-CAUS-PRS.IND
+    3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
+
+manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
+    Ø-mB(s)-na²~(O)rna²-tF
+    3-2PL-see~FREQ-CAT.PST
+    3P-object 2PL-subject past categorical frequentative form of na²ca² "to see"
+
+caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
+    *-ga²n-gI-(B)r
+    NDEF-good-PL-ACC
+    indefinite lenition of the accusative plural form of ga²n "good thing"
+
+ganhabod /gə²ŋə¹but/ (n.)
+    ga²nha¹b-(B)d
+    dative form of ga²nha¹b
+
+hazhod /hə²zhut/ (n.)
+    ha²zho-(B)d
+    dative form of ha²zho
+
+žar /ʒə¹ɾ/ (n.) "for life"
+    ža¹-(B)r
+    life-DAT
+    dative form of ža "life"
+
+alternatively:
+
+žar /ʒə¹ɾ/ (n., poetic) "from life"
+    ža¹-(O)r
+    life-ABL
+    ablative form of ža "life"
+
+canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them good"
+    Ø-Ø-ca²na¹-Ø-tBnçi-Os
+    3-3-be_good-PRS.IND-NPFV-CAUS
+    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ca¹ "to be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and a¹ca¹ "to be"
 
 PHRASE: "Caňgir žar manarnate."
+         Caňgir             žar            manarnate.
+        /dʒə²ŋgeɾ           ʒə¹ɾ           mə²nə²ɾnə²ta/
+        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.ˈta]
+    (a²) *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
+         NDEF-good-PL-ACC   life-DAT/ABL   3-2PL-see~FREQ-CAT.PST
+         "you(pl) [definitely, frequently] saw some good things for/from life" (poetic register)

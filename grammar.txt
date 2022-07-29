@@ -3,25 +3,25 @@ grammar:
         nouns decline for the nominative, accusative, oblique, genitive, dative, locative, and instrumental cases.
         the suffixes are as follows:
         
-             case    |   suffix    | example declension of a²nha²q "enemy"
+             case    |   suffix    | example declension of a²nha²k "enemy"
         ------------------------------------------------------------------
-          nominative | noun-Ø      | a²nha²q "the enemy"
-          accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-             oblique | noun-mB     | a²nha²qma² "the enemy" (oblique)
-            genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
-              dative | noun-Bd     | a²nha²qa²d "to/for the enemy"
-            locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
-        instrumental | noun-OǧFnCk | a²nha²qa²ǧenik "with the enemy"
+          nominative | noun-Ø      | a²nha²k "the enemy"
+          accusative | noun-(B)r   | a²nha²ka²r "the enemy" (accusative)
+             oblique | noun-mB     | a²nha²kma² "the enemy" (oblique)
+            genitive | noun-pE     | a²nha²kpe "the enemy's" [more on this below]
+              dative | noun-(B)d   | a²nha²ka²d "to/for the enemy"
+            locative | noun-(s)AyF | a²nha²ka²ye "at the enemy"
+        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "with the enemy"
         
         in the poetic register nouns can be declined for the lative and ablative cases:
-             case    |   suffix    | example declension of a²nha²q "enemy"
+             case    |   suffix    | example declension of a²nha²k "enemy"
         ------------------------------------------------------------------
-              lative | noun-tF     | a²nha²qte "to the enemy"
-            ablative | noun-(O)r   | a²nha²qa²r "from the enemy"
+              lative | noun-tF     | a²nha²kte "to the enemy"
+            ablative | noun-(O)r   | a²nha²ka²r "from the enemy"
 
-        nouns can mark number with the plural suffix -gI
+        nouns can mark number with the plural suffix -gI. the plural suffix replaces word-final ǧ, making the vowel short.
         
-        indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
+        indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which can trigger a lenition change on the following consonant, as described in the phonological changes section:
             ga²ǧa² /goːɦə/ "[the] night"
             a² ca²ǧa² /ə² dʒoːɦə/ "a night"
         the indefinite marker may be elided in poetic registers, leaving just the lenition.
@@ -57,6 +57,7 @@ grammar:
             "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
         
         nouns can be turned into verbs that mean "to create [noun]" using the creative suffix -Oz
+        nouns can be turned into adjectives using the adjectivizing suffix -lC
     
     pronouns:
         some pronouns have lative and ablative forms in addition to the forms for the other cases regular nouns decline for.
@@ -69,6 +70,8 @@ grammar:
           nominative | sa²    | za²    | uǧ     | ugo    | e      | igi
         -------------------------------------------------------------------
           accusative | soǧ    | zuǧ    | da²n   | da²na² | er     | igir
+        -------------------------------------------------------------------
+             oblique | sım    | zım    | ma¹             | ema²   | igım
         -------------------------------------------------------------------
             genitive | su     | zu     | oǧ     | ogo    | ea²    | igı
         -------------------------------------------------------------------
@@ -107,21 +110,36 @@ grammar:
             eea²s       "for itself"
         
         the relative pronouns are reduced forms of the proximal demonstrative pronouns:
-                 case    | proximal dem. | relative pronoun
-            ------------------------------------------------------------------
-              nominative | eǧ            | e
-              accusative | ereǧ          | ere
-                 oblique | ea²eǧ         | a²e
-                genitive | eneyeǧ        | ene
-                  dative | teǧ           | te
-                locative | kieǧ          | ke
-            instrumental | eǧnikiǧ       | eňki
+            singular:
+                     case    | proximal dem. | relative pronoun
+                ------------------------------------------------
+                  nominative | eǧa²m         | em
+                  accusative | era²m         | ra²m
+                     oblique | ema²ǧa²m      | ema²m
+                    genitive | ea²ǧa²m       | a²m
+                      dative | ea²sa²m       | a²sa²m
+                    locative | eneya²m       | eyna²m
+                      lative | teǧa²m        | tem
+                    ablative | kieǧa²m       | keǧa²m
+                instrumental | eǧnikım       | eňkim
+            plural:
+                     case    | proximal dem. | relative pronoun
+                ------------------------------------------------
+                  nominative | igiǧa²m       | gim
+                  accusative | igira²m       | gira²m
+                     oblique | igımım        | imım
+                    genitive | igıǧa²m       | iga²m
+                      dative | igısa²m       | igsa²m
+                    locative | igyeǧa²m      | geǧa²m
+                      lative | teǧa²m        | tem
+                    ablative | kieǧa²m       | keǧa²m
+                instrumental | iǧnikım       | iňkim
         
         these relative pronouns don't mark relative clauses, but instead are used for the antecedent in the main clause. some examples of sentences with relative clauses:
-            sa        loǧor        sanala            e         naca       ve     a      canar        al
-           /sə²       loːɦuɾ       sə²nə²lə²         ɦa        nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
-           [ˈsə       loːˈɦuɾ      sənəˈlə           ˈɦa       nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
-            sa²       loǧ-(B)r     Ø-sO-na²-lB       e         na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            sa        loǧor        sanala            em        naca       ve     a      canar        al
+           /sə²       loːɦuɾ       sə²nə²lə²         ɦam       nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
+           [ˈsə       loːˈɦuɾ      sənəˈlə           ˈɦam      nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
+            sa²       loǧ-(B)r     Ø-sO-na²-lB       em        na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
             1SG.NOM   person-ACC   3-1-see-IND.PST   3SG.REL   see-NFIN   ADV    NDEF   *-good-ACC   3-3-be.IND.PST
             "I saw a person who looked good" (lit. "I a person them-I-saw they seeing-ly a good it-they-were")
             
@@ -139,7 +157,18 @@ grammar:
             3-1-see-IND.PST   NDEF   *-good-ACC   3-3-be.IND.PST
             "I saw something that was good" (lit. "them-I-saw a good it-they-were")
         
-        interrogative pronouns
+        there is a single interrogative pronoun "a²t". it declines like so:
+             case    |   inflection
+        ------------------------------------------------------------------
+          nominative | a²t      ex. "what"/"who"/etc.
+          accusative | ta²r     ex. "what"/"who"/etc. (accusative)
+             oblique | ta²m     ex. "what"/"who"/etc. (oblique)
+            genitive | tep      ex. "what's"/"whose"/etc.
+              dative | a²d      ex. "to what"/"to who"/etc.
+            locative | a²ye     ex. "where"
+              lative | ıta²     ex. "to where"
+            ablative | ısa²     ex. "from where"
+        instrumental | a²ň      ex. "with what"/"how"
         
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
@@ -153,7 +182,6 @@ grammar:
         lative postposition: lı
         ablative postposition: loda¹
         adverbial postposition: ve (usually unstressed)
-        
     
     adjectives:
         attributive adjectives are unmarked except for agreeing in number with the noun they modify using the plural suffix -gI.
@@ -163,15 +191,17 @@ grammar:
         verbs can be conjugated for person (of both subject and object), number (of subject), tense, aspect, mood, etc.
         there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, directionality, passive voice, etc.
         
-        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb]-Os.
+        some verb roots are a single consonant. these verb roots take an "epenthetic" -i -/eɦ/ that disappears when another suffix is present to take its place.
+        
+        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb]-Os (note that the suffix -Os overrides the previous vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb]-Os.
         the 3P prefix is Ø- usually but h- when in the position of subject (causer if causativized) and the object (causee if causativized) is 1P, 2SG, or 2PL.
         additionally, the 2nd non-zero personal prefix in the verb drops its vowel (unless succeeded by the 3P as h-).
         
-        so, from the root "zie":
-            ziece       "to win"
-            sezie       "I win"
-            dezie       "you win"
-            zie         "it wins"
+        so, from the root "z-":
+            zice        "to win"
+            sezi        "I win"
+            dezi        "you win"
+            zi          "it wins"
             ziesce      "to make win"
             deszies     "I make you win"
             sezies      "I make it win"
@@ -191,6 +221,7 @@ grammar:
             na²sca²         "to make win"
             da²sda²na²s     "you make me see you"
             da²sa²hna²s     "it makes me see you"
+        the "you"s here are all singular/informal.
         
         when not already marked using the 2SG/2PL personal distinction, verbs agree in number with the subject (or causee in causativized verbs) using the same plural suffix -gI
         
@@ -208,8 +239,8 @@ grammar:
                       |    past    |  present   |   future
         ------------------------------------------------------
            indicative | -lB        | -Ø         | -hF
-        ---------------------------|            |-------------
-          categorical | -tF        |            | -nBs
+        ------------------------------------------------------
+          categorical | -tF        | N/A        | -nBs
         ------------------------------------------------------
            imperative | N/A        | -yO        | -yOs
         ------------------------------------------------------
@@ -219,18 +250,19 @@ grammar:
         ------------------------------------------------------
              optative | -(F)lFn    | -(F)nF
         ------------------------------------------------------
-        contrafactual | -tF                     | -tFnB
+        contrafactual | -tF                     | -tFnBǧ
         ------------------------------------------------------
           conditional | -(O)l                   | -hO
         
-        aspects are marked separate and are more diverse, including:
-            - perfective: unmarked
+        aspects are marked separate, and include:
             - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
             - habitual: marked with -lO
             - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
             - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
         
         verbal affixes, in order of application from left to right:
+            - positive-attitude: gu- (denotes the speaker has a positive attitude towards the action)
+            - negative-attitude: su- (denotes the speaker has a negative attitude towards the action)
             - interest: kC- (denotes the speaker [and potentially also the listener] holding an interest or stake in the action)
             - aforementioned personal affixes
             - reflexive: zBl- (denotes an action done to oneself; valency-decreasing)
@@ -241,11 +273,13 @@ grammar:
             - passive voice: nB- (valency-decreasing)
             - negative: mC-
             - negative (imperative): çOk-
+            - aforementioned intransitive epenthetic -i
+            - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - aforementioned tense/mood suffixes
             - aforementioned aspect suffixes
             - emphatic: -(B)ħ
-            - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - non-finite: -cO
+            - agentive: -(F)r (turns a verb into a noun that means "thing that does [verb]". the verb will have its subject- or causer-position personal affix missing)
             - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
         
         the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
@@ -253,18 +287,18 @@ grammar:
                       |    past    |  present   |   future
         ------------------------------------------------------
            indicative | a¹l        | Ø          | a¹h
-        ---------------------------|            |-------------
-          categorical | a¹ta¹      |            | a¹nos
         ------------------------------------------------------
-           imperative | N/A        | a¹ya¹      | a¹ya¹s
+          categorical | a¹ta¹      | N/A        | a¹nos
+        ------------------------------------------------------
+           imperative | N/A        | a¹ya¹      | a¹ya¹ş
         ------------------------------------------------------
           subjunctive | a¹rü
         ------------------------------------------------------
-        interrogative | a¹ħa¹l     | a¹ħa¹      | a¹sa¹
+        interrogative | a¹ħa¹l     | a¹ħa¹      | a¹şa¹
         ------------------------------------------------------
              optative | a¹la¹n     | a¹na¹
         ------------------------------------------------------
-        contrafactual | a¹ta¹                   | ta¹no
+        contrafactual | a¹ta¹                   | ta¹noǧ
         ------------------------------------------------------
           conditional | a¹l                     | a¹h
     
@@ -283,7 +317,7 @@ grammar:
         
         nouns, adjectives, and non-finite verbs can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
         
-        the copula is null in the present indicative/categorical
+        the copula is null in the present indicative
         
         conditional sentences use the conjunction "to", e.g.:
             sanatı             to     sadagkoloħ

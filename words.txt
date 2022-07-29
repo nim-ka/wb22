@@ -1,0 +1,341 @@
+word list:
+    format: word (word annotated with vowel harmony superscripts) /phonemic transcription/
+    
+    a (a²) /ɦə²/
+        1. (art.) indefinite article. from proto *ay /hɑj/ "one"
+    
+    aca (a²ca²) /ɦə²dʒə²/
+        1. (v. trans.) copula; "to be". from proto *a /hɑ/ "id.". conjugations:
+                          |    past    |  present   |   future
+            ------------------------------------------------------
+               indicative | a¹l        | Ø          | a¹h
+            ------------------------------------------------------
+              categorical | a¹ta¹      | N/A        | a¹nos
+            ------------------------------------------------------
+               imperative | N/A        | a¹ya¹      | a¹ya¹ş
+            ------------------------------------------------------
+              subjunctive | a¹rü
+            ------------------------------------------------------
+            interrogative | a¹ħa¹l     | a¹ħa¹      | a¹şa¹
+            ------------------------------------------------------
+                 optative | a¹la¹n     | a¹na¹
+            ------------------------------------------------------
+            contrafactual | a¹ta¹                   | ta¹noǧ
+            ------------------------------------------------------
+              conditional | a¹l                     | a¹h
+    
+    anhak (a²nha²k) /ɦə²ŋə²x/
+        1. (n.) enemy. from proto *anhaq /hɑnxɑq/ "id."
+    
+    anül (a¹nül) /ɦə¹nøl/
+        1. (n.) nine. from proto *önül /hønyl/ "id."
+    
+    anülan (a¹nüla¹n) /ɦə¹nølə¹n/
+        1. (n.) ninety. from proto *önül /hønyl/ "nine" + *yön /jøn/ "ten"
+    
+    at (a²t) /ɦə²t/
+        1. (pron.) interrogative pronoun; "what", "who", etc. from proto *at /hɑt/ "id.". forms:
+                 case    |   inflection
+            ------------------------------
+              nominative | a²t
+            ------------------------------
+              accusative | ta²r
+            ------------------------------
+                 oblique | ta²m
+            ------------------------------
+                genitive | tep
+            ------------------------------
+                  dative | a²d
+            ------------------------------
+                locative | a²ye
+            ------------------------------
+                  lative | ıta²
+            ------------------------------
+                ablative | ısa²
+            ------------------------------
+            instrumental | a²ň
+        2. (n.) hand. from proto *at /hɑt/ "id."
+    
+    ay (a²y) /ɦə²j/
+        1. (n.) one. from proto *ay /hɑj/ "one"
+    
+    aylı (a²ylı) /ɦə²jlɨ/
+        1. (adj.) singular. adjectival form of ay /ɦə²j/ "one"
+    
+    azra (a²zra²) /ɦə²zɾə²/
+        1. (n.) one thousand. from proto *azra /hɑzɾɑ/ "id."
+    
+    baraz (ba²ra²z) /bə²ɾə²z/
+        1. (n.) one hundred thousand. from proto *baraz /bɑɾɑz/ "id."
+    
+    e (e) /ɦa/
+        1. (pron.) third person singular pronoun; "he", "she", "it", etc. from proto *e /he/ "id.". forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | e      | igi
+            -------------------------------
+              accusative | er     | igir
+            -------------------------------
+                 oblique | ema²   | igım
+            -------------------------------
+                genitive | ea²    | igı
+            -------------------------------
+                  dative | ea²s   | igıs
+            -------------------------------
+                locative | eney   | igye
+            -------------------------------
+                  lative | te
+            -------------------------------
+                ablative | kie
+            -------------------------------
+            instrumental | eǧnik  | iǧnik
+    
+    eece (eece) /ɦaɦadʒa/
+        1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
+    
+    em (em) /ɦam/
+        1. (pron.) singular relative pronoun; used to refer back to the antecedent. related to eǧam /ɦaːɦə²m/, the singular proximal demonstrative pronoun. forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | em     | gim
+            -------------------------------
+              accusative | ra²m   | gira²m
+            -------------------------------
+                 oblique | ema²m  | imım
+            -------------------------------
+                genitive | a²m    | iga²m
+            -------------------------------
+                  dative | a²sa²m | igsa²m
+            -------------------------------
+                locative | eyna²m | geǧa²m
+            -------------------------------
+                  lative | tem
+            -------------------------------
+                ablative | keǧa²m
+            -------------------------------
+            instrumental | eňkim  | iňkim
+    
+    gan (ga²n) /gə²n/
+        1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
+    
+    ganlı (ga²nlı) /gə²nlɨ/
+        1. (adj.) good. adjectival form of gan /gə²n/ "good thing"
+    
+    gaǧa (ga²ǧa²) /gə²ːɦə²/
+        1. (n.) night. from proto *gaǧa /gɑʁɑ/ "id."
+    
+    ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
+        1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization of (2.).
+        2. (v. trans.) imperfective form of "like"; to be liking. this conjugation is irregular
+    
+    ħanuǧo (ħa¹nuǧo) /xə¹nʉːɦu/
+        1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization of (2.).
+        2. (v. trans.) universal form of "like"; to always like and always have liked. this conjugation is irregular
+    
+    ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
+        1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
+    
+    i (i) /ɦe/
+        1. (conj.) and. from proto *i /hi/ "id."
+    
+    igi (igi) /ɦege/
+        1. (pron.) third person plural pronoun; "they". from proto *igi /higi/ "id.". forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | e      | igi
+            -------------------------------
+              accusative | er     | igir
+            -------------------------------
+                 oblique | ema²   | igım
+            -------------------------------
+                genitive | ea²    | igı
+            -------------------------------
+                  dative | ea²s   | igıs
+            -------------------------------
+                locative | eney   | igye
+            -------------------------------
+                  lative | te
+            -------------------------------
+                ablative | kie
+            -------------------------------
+            instrumental | eǧnik  | iǧnik
+    
+    ke (ke) /ka/
+        1. (n.) two; both. from proto *ke /ke/ "id."
+    
+    keli (keli) /kale/
+        1. (adj.) dual. adjectival form of ke /ka/ "two"
+    
+    kene (kene) /kana/
+        1. (n.) twenty. from proto *ke /ke/ "two" + *yön /jøn/ "ten"
+    
+    ko (ko) /ku/
+        1. (v. intrans.) to go. from proto *ko /ko/
+    
+    koħ (koħ) /kux/
+        1. (v. intrans.) to run. lexicalized emphatic form of ko /ku/ "go"
+    
+    lat (la²t) /lə²t/
+        1. (n.) six. from proto *lat /lɑt/ "id."
+    
+    laçan (la²ça²n) /lə²tʃə²n/
+        1. (n.) sixty. from proto *lat /lɑt/ "six" + *yön /jøn/ "ten"
+    
+    loda (loda¹) /ludə¹/
+        1. (postp.) ablative postposition; "from". from proto *lodö /lodø/ "id."
+    
+    loǧ (loǧ) /loː/
+        1. (n.) person. from proto *loǧ /loʁ/
+    
+    lı (lı) /lɨ/
+        1. (postp.) lative postposition; "to". from proto *lı /lɯ/ "id."
+    
+    na (na¹) /nə¹/
+        1. (n.) eight. from proto *nö /nø/ "id."
+    
+    naca (na²ca²) /nə²dʒə²/
+        1. (v. trans.) to see; to look at. from proto *na /nɑ/ "id."
+    
+    nana (na¹na¹) /nə¹nə¹/
+        1. (n.) eighty. from proto *nö /nø/ "eight" + *yön /jøn/ "ten"
+        
+    pis (pis) /peʃ/
+        1. (n.) five. from proto *pis /pis/ "id."
+    
+    pişen (pişen) /peʃan/
+        1. (n.) fifty. from proto *pis /pis/ "five" + *yön /jøn/ "ten"
+    
+    sa (sa²) /sə²/
+        1. (pron.) first person singular pronoun; "I", "me", etc. from proto *sa /sɑ/ "id.". forms:
+                         |       1P        
+                         |   sg   |   pl   
+            -------------------------------
+              nominative | sa²    | za²    
+            -------------------------------
+              accusative | soǧ    | zuǧ    
+            -------------------------------
+                 oblique | sım    | zım    
+            -------------------------------
+                genitive | su     | zu     
+            -------------------------------
+                  dative | şi     | ži     
+            -------------------------------
+                locative | sa²y   | zıy    
+            -------------------------------
+                  lative | ıs     | ız     
+            -------------------------------
+                ablative | a¹ş    | uz     
+            -------------------------------
+            instrumental | sıa²   | ženi   
+    
+    sat (sa²t) /sə²t/
+        1. (n.) seven. from proto *sat /sɑt/ "id."
+    
+    saçan (sa²ça²n) /sə²tʃə²n/
+        1. (n.) seventy. from proto *sat /sɑt/ "seven" + *yön /jøn/ "ten"
+    
+    şipri (şipri) /ʃepɾe/
+        1. (n.) zero. from proto *sifri /sifɾi/ "id.", from arabic ṣifr "empty, zero"
+    
+    şü (şü) /ʃø/
+        1. (n.) one hundred. from proto *sü /sy/ "id."
+    
+    ta (ta¹) /tə¹/
+        1. (n.) four. from proto *tö /tø/ "id."
+    
+    tana (ta¹na¹) /tə¹nə¹/
+        1. (n.) fourty. from proto *tö /tø/ "four" + *yön /jøn/ "ten"
+    
+    ti (ti) /te/
+        1. (n.) three. from proto *ti /ti/ "id."
+    
+    tine (tine) /tina/
+        1. (n.) thirty. from proto *ti /ti/ "three" + *yön /jøn/ "ten"
+    
+    to (to) /tu/
+        1. (conj.) then. from proto *to /to/ "id."
+    
+    ugo (ugo) /ɦʉgu/
+        1. (pron.) second person plural pronoun; "you (pl.)". from proto *ugo /hugo/ "id.". forms:
+                     |       2P        
+                     |   sg   |   pl   
+        --------------------------------
+          nominative | uǧ     | ugo    
+        --------------------------------
+          accusative | da²n   | da²na² 
+        --------------------------------
+             oblique | ma¹             
+        --------------------------------
+            genitive | oǧ     | ogo    
+        --------------------------------
+              dative | uos             
+        --------------------------------
+            locative | uy              
+        --------------------------------
+              lative | dıǧ    | dog    
+        --------------------------------
+            ablative | duǧ    | dogda¹ 
+        --------------------------------
+        instrumental | deni   | degin  
+    
+    uǧ (uǧ) /ɦuː/
+        1. (pron.) second person singular pronoun; "you (sg.)". from proto *uǧ /huʁ/ "id.". forms:
+                     |       2P        
+                     |   sg   |   pl   
+        --------------------------------
+          nominative | uǧ     | ugo    
+        --------------------------------
+          accusative | da²n   | da²na² 
+        --------------------------------
+             oblique | ma¹             
+        --------------------------------
+            genitive | oǧ     | ogo    
+        --------------------------------
+              dative | uos             
+        --------------------------------
+            locative | uy              
+        --------------------------------
+              lative | dıǧ    | dog    
+        --------------------------------
+            ablative | duǧ    | dogda¹ 
+        --------------------------------
+        instrumental | deni   | degin  
+    
+    ve (ve) /va/
+        1. (postp.) adverbial postposition. from proto *ve /ve/ "id."
+    
+    yan (ya¹n) /jə¹n/
+        1. (n.) ten. from proto *yön /jøn/ "id."
+    
+    yazra (ya²zra²) /jə²zɾə²/
+        1. (n.) ten thousand. from proto *yön /jøn/ "ten" + *azra /hɑzɾɑ/ "thousand"
+    
+    za (za²) /zə²/
+        1. (pron.) first person plural pronoun; "we", "us", etc. from proto *za /zɑ/ "id". forms:
+                         |       1P        
+                         |   sg   |   pl   
+            -------------------------------
+              nominative | sa²    | za²    
+            -------------------------------
+              accusative | soǧ    | zuǧ    
+            -------------------------------
+                 oblique | sım    | zım    
+            -------------------------------
+                genitive | su     | zu     
+            -------------------------------
+                  dative | şi     | ži     
+            -------------------------------
+                locative | sa²y   | zıy    
+            -------------------------------
+                  lative | ıs     | ız     
+            -------------------------------
+                ablative | a¹ş    | uz     
+            -------------------------------
+            instrumental | sıa²   | ženi   
+    
+    zice (zice) /ʒedʒa/
+        1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
+    
+    ža (ža¹) /ʒə¹/
+        1. (n.) life; existence. from proto *zö /zø/ "id."
+

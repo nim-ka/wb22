@@ -1,0 +1,35 @@
+alphabet:
+       letter  |  name
+    ---------------------
+            a  |  a²
+            b  |  be
+            c  |  ce
+            ç  |  çe
+            d  |  de
+            e  |  e
+            g  |  ge
+            ǧ  |  ge mıma²kca²lı ["not-making-sound-like g"]
+            h  |  he
+            ħ  |  ħe
+            ı  |  ı
+            i  |  i
+            k  |  ka²p
+            l  |  la²m
+            m  |  me
+            n  |  ne
+            ň  |  ňe
+            o  |  o
+            p  |  pe
+            q  |  qa²p [used for loan words]
+            r  |  er
+            ř  |  er želi ["ž-like r"]
+            s  |  sa²
+            ş  |  şe
+            t  |  te
+            u  |  u
+            ü  |  ü
+            v  |  ve
+            y  |  ye
+            z  |  ze
+            ž  |  že
+

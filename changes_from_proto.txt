@@ -10,8 +10,27 @@ several phonological changes then take place:
     -- this change is reflected in the orthography with ş and ž for /ʃ/ and /ʒ/, but most roots that end in s or z and most grammatical affixes that contain s or z remain written with s and z for two reasons:
     --- 1. they are not pronounced /ʃ/ and /ʒ/ when followed by something else if that causes the s/z to no longer be in coda position
     --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before/after the s/z. this doesn't apply to F vowels
-    - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect as described in the lenition section (resulting in the genesis of /ɲ/)
-    - /ɲ/ gets lost in favor of /niɦ/
+    - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect on certain following consonants as it reduces to /ɦɑ/:
+        ɦɑj m* "ay m*" ==>  ɦɑ m* "a m*"
+        ɦɑj n* "ay n*" ==>  ɦɑ ŋ* "a ň*"
+        ɦɑj p* "ay p*" ==>  ɦɑ b* "a b*"
+        ɦɑj b* "ay b*" ==>  ɦɑ b* "a b*"
+        ɦɑj t* "ay t*" ==>  ɦɑ s* "a s*"
+        ɦɑj d* "ay d*" ==>  ɦɑ z* "a z*"
+       ɦɑj tʃ* "ay ç*" ==>  ɦɑ ʃ* "a ş*"
+       ɦɑj dʒ* "ay c*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj k* "ay k*" ==> ɦɑ tʃ* "a ç*"
+        ɦɑj g* "ay g*" ==> ɦɑ dʒ* "a c*"
+        ɦɑj s* "ay s*" ==>  ɦɑ ʃ* "a ş*"
+        ɦɑj z* "ay z*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
+        ɦɑj ɰ* "ay ǧ*" ==>  ɦɑ j* "a y*"
+        ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
+        ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
+        ɦɑj l* "ay l*" ==> before front vowels: ɦɑ j* "a y*"
+                           before back vowels:  ɦɑ ɰ* "a ǧ*"
+        ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
+        ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
     - a significant vowel shift occurs:
     -- the back vowels get fronted and /ɑ/ and /o/ raise: /ɯ/ /u/ /ɑ/ /o/ => /ɨ/ /ʉ/ /ə²/ /u/
     -- before /ɰ/, the prior change does not happen and the back vowels instead merge in roundedness: /ɯ/ /u/ /ɑ/ /o/ => /u/ /u/ /o/ /o/
@@ -27,5 +46,5 @@ then some changes happen to the spelling:
     - the word-initial consonant changes from consonant mutation and /ɾ/ => /ʒ/ get mildly reformed in the orthography. consonant mutation is spelled phonetically and /ʒ/ from initial /ɾ/ gets written with ř
     - since <ö> and <a> have merged (transcribed as /ə¹/ and /ə²/ respectively; phonetically interchangeable but function differently for vowel harmony), people stop writing <ö> and start using <a> instead for /ə/ in all circumstances.
     -- for long /əː/ <öǧ> from historical /øɰ/, this starts being written as <aǧ>, which conflicts with long /oː/ from historical /ɑɰ/ or /oɰ/ which is written either <aǧ> or <oǧ>. so now you have /əː/ <aǧ>, /oː/ <aǧ>, and /oː/ <oǧ>
-    - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originated from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
+    - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originates from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
 

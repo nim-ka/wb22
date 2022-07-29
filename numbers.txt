@@ -1,0 +1,35 @@
+numbers:
+    the numbering system is a simple base-10 system. the numbers 0-10 are as follows:
+        - 0: şipri
+        - 1: a²y
+        - 2: ke
+        - 3: ti
+        - 4: ta¹
+        - 5: pis
+        - 6: la²t
+        - 7: sa²t
+        - 8: na¹
+        - 9: a¹nül
+        - 10: ya¹n
+    
+    the multiples of 10 up to 90 are formed by adding -On or -nO to the digits (depending on whether they end with a vowel):
+        - 20: kene
+        - 30: tine
+        - 40: ta¹na¹
+        - 50: pişen
+        - 60: la²ça²n
+        - 70: sa²ça²n
+        - 80: na¹na¹
+        - 90: a¹nüla¹n
+    
+    the powers of 10 have the following names:
+        - 100: şü
+        - 1000: a²zra²
+        - 10000: ya²zra²
+        - 100000: ba²ra²z
+    further powers of 10 are formed by multiplicative juxtaposition, e.g. 10000000 = 100 * 100000 => şü-ba²ra²z
+    
+    numbers are formed least-significant-first, first grouped into 2 groups of 2 digits then from there groups of 3 digits. e.g. 1234567891 => 91 + 7800 + 4560000 + 1230000000: "ay anülan na saçan şü lat pişen ta şü yazra ti kene şü şü-baraz" ("1 90 8 70 100 6 50 4 100 10000 3 20 100 100*100000")
+    
+    todo: ordinal fractional and multiplicative forms of numbers
+

@@ -1,7 +1,7 @@
 ⁰¹²³⁴⁵⁶⁷⁸⁹
 
 todo:
-    more postpositions idk
+    idk
 
 proto phonology:
     consonants:
@@ -45,8 +45,27 @@ several phonological changes then take place:
     -- this change is reflected in the orthography with ş and ž for /ʃ/ and /ʒ/, but most roots that end in s or z and most grammatical affixes that contain s or z remain written with s and z for two reasons:
     --- 1. they are not pronounced /ʃ/ and /ʒ/ when followed by something else if that causes the s/z to no longer be in coda position
     --- 2. (in affixes) they are only pronounced /ʃ/ and /ʒ/ when the vowel harmony of the affix generates a front vowel before/after the s/z. this doesn't apply to F vowels
-    - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect as described in the lenition section (resulting in the genesis of /ɲ/)
-    - /ɲ/ gets lost in favor of /niɦ/
+    - the word for "one" /ɦɑj/ when used as an indefinite marker before a noun causes a lenition effect on certain following consonants as it reduces to /ɦɑ/:
+        ɦɑj m* "ay m*" ==>  ɦɑ m* "a m*"
+        ɦɑj n* "ay n*" ==>  ɦɑ ŋ* "a ň*"
+        ɦɑj p* "ay p*" ==>  ɦɑ b* "a b*"
+        ɦɑj b* "ay b*" ==>  ɦɑ b* "a b*"
+        ɦɑj t* "ay t*" ==>  ɦɑ s* "a s*"
+        ɦɑj d* "ay d*" ==>  ɦɑ z* "a z*"
+       ɦɑj tʃ* "ay ç*" ==>  ɦɑ ʃ* "a ş*"
+       ɦɑj dʒ* "ay c*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj k* "ay k*" ==> ɦɑ tʃ* "a ç*"
+        ɦɑj g* "ay g*" ==> ɦɑ dʒ* "a c*"
+        ɦɑj s* "ay s*" ==>  ɦɑ ʃ* "a ş*"
+        ɦɑj z* "ay z*" ==>  ɦɑ ʒ* "a ž*"
+        ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
+        ɦɑj ɰ* "ay ǧ*" ==>  ɦɑ j* "a y*"
+        ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
+        ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
+        ɦɑj l* "ay l*" ==> before front vowels: ɦɑ j* "a y*"
+                           before back vowels:  ɦɑ ɰ* "a ǧ*"
+        ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
+        ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
     - a significant vowel shift occurs:
     -- the back vowels get fronted and /ɑ/ and /o/ raise: /ɯ/ /u/ /ɑ/ /o/ => /ɨ/ /ʉ/ /ə²/ /u/
     -- before /ɰ/, the prior change does not happen and the back vowels instead merge in roundedness: /ɯ/ /u/ /ɑ/ /o/ => /u/ /u/ /o/ /o/
@@ -62,33 +81,7 @@ then some changes happen to the spelling:
     - the word-initial consonant changes from consonant mutation and /ɾ/ => /ʒ/ get mildly reformed in the orthography. consonant mutation is spelled phonetically and /ʒ/ from initial /ɾ/ gets written with ř
     - since <ö> and <a> have merged (transcribed as /ə¹/ and /ə²/ respectively; phonetically interchangeable but function differently for vowel harmony), people stop writing <ö> and start using <a> instead for /ə/ in all circumstances.
     -- for long /əː/ <öǧ> from historical /øɰ/, this starts being written as <aǧ>, which conflicts with long /oː/ from historical /ɑɰ/ or /oɰ/ which is written either <aǧ> or <oǧ>. so now you have /əː/ <aǧ>, /oː/ <aǧ>, and /oː/ <oǧ>
-    - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originated from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
-
-lenition:
-    the word for 1, "ay" /ɦɑj/, when used as an indefinite marker before nouns begins to cause lenition on following consonants, as so:
-        ɦɑj m* "ay m*" ==>  ɦɑ m* "a m*"
-        ɦɑj n* "ay n*" ==>  ɦɑ ɲ* ==> ɦɑ niɦ* "a ni*"
-        ɦɑj ŋ* "ay ň*" ==>  ɦɑ n* "a n*"
-        ɦɑj p* "ay p*" ==>  ɦɑ b* "a b*"
-        ɦɑj b* "ay b*" ==>  ɦɑ b* "a b*"
-        ɦɑj t* "ay t*" ==>  ɦɑ s* "a s*"
-        ɦɑj d* "ay d*" ==>  ɦɑ z* "a z*"
-       ɦɑj tʃ* "ay ç*" ==>  ɦɑ ʃ* "a ş*"
-       ɦɑj dʒ* "ay c*" ==>  ɦɑ ʒ* "a ž*"
-        ɦɑj k* "ay k*" ==> ɦɑ tʃ* "a ç*"
-        ɦɑj g* "ay g*" ==> ɦɑ dʒ* "a c*"
-        ɦɑj v* "ay v*" ==>  ɦɑ v* "a v*"
-        ɦɑj s* "ay s*" ==>  ɦɑ ʃ* "a ş*"
-        ɦɑj z* "ay z*" ==>  ɦɑ ʒ* "a ž*"
-        ɦɑj ʃ* "ay ş*" ==>  ɦɑ ʃ* "a ş*"
-        ɦɑj ʒ* "ay ž*" ==>  ɦɑ ʒ* "a ž*"
-        ɦɑj x* "ay ħ*" ==>  ɦɑ j* "a y*"
-        ɦɑj h* "ay h*" ==>  ɦɑ h* "a h*"
-        ɦɑj ɦ* "ay *"  ==>  ɦɑ ɦ* "a *"
-        ɦɑj l* "ay l*" ==> before front vowels: ɦɑ j* "a y*"
-                           before back vowels:  ɦɑ ɰ* "a ǧ*" ==> ɦɑ ɦ* "a ǧ*"
-        ɦɑj j* "ay y*" ==>  ɦɑ j* "a y*"
-        ɦɑj ɾ* "ay r*" ==>  ɦɑ ʒ* "a ř*"
+    - <ň> starts being used for writing /ŋ/ instead of <n> in places where /ŋ/ originates from assimilation, not just from original phonemic distinctions. /ŋ/ from proto /nx/ remains written as <nh> though since the <h> is already there to denote the /ŋ/
 
 phonology:
     consonants:
@@ -99,9 +92,9 @@ phonology:
                 ɾ
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
-    word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
+    word-final plosives/affricates are devoiced. /k/ and /g/ are lenited to /x/ in coda position
     /l/ is realized as [ɫ] before back vowels and both /ə/s, and after those vowels in coda position
-    /ɦ/ is a very weak glottal transition
+    /ɦ/ is a weak glottal transition
 
     vowels:
       short:
@@ -183,7 +176,7 @@ vowel harmony:
     for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
     if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
     
-    in this section we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
+    in this document we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
     
     there are 2 forms of vowel harmony: the four-fold system and the two-fold system
     
@@ -214,9 +207,9 @@ vowel harmony:
                        o | o
          
         example: the non-finite suffix -cO:
-            suzie /sʉzeɦa/ + -cO => suziece /sʉzeɦadʒa/
+            suzi /sʉzeɦ/ + -cO => suzice /sʉzeɦdʒa/
             ca²pçı /dʒə²ptʃɨ/ + -cO => ca²pçıca² /dʒə²ptʃɨdʒə²/
-            ca²na²tonçie /dʒə²nə²tuntʃeɦa/ + -cO => ca²na²tonçiece /dʒə²nə²tuntʃeɦadʒa/
+            ca²na¹tonçi /dʒə²nə²tuntʃe/ + -cO => ca²na¹tonçice /dʒə²nə²tuntʃedʒa/
         
             target vowel | F vowel
             ----------------------
@@ -241,12 +234,6 @@ vowel harmony:
                       a¹ | o
                       a² | a², oǧ
                        o | o
-            
-        example: the suffix -BǧnBk:
-            ca²pçı /dʒə²ptʃɨ/ + -dFn + -BǧnBk => ca²pçıdiniǧnık /dʒə²ptʃɨdiniːnɨx/
-            zie /zeɦa/ + -BǧnBk => *zieeǧna²k => zieǧna²k /zeɦaːnə²x/
-            *ç + -BǧnBk => çuǧnuk /tʃuːnʉx/
-            *ç + -Os + -BǧnBk => ça²soǧnok /tʃə²soːnux/
 
     the full four-fold system table therefore looks like this:
     
@@ -347,25 +334,25 @@ grammar:
         nouns decline for the nominative, accusative, oblique, genitive, dative, locative, and instrumental cases.
         the suffixes are as follows:
         
-             case    |   suffix    | example declension of a²nha²q "enemy"
+             case    |   suffix    | example declension of a²nha²k "enemy"
         ------------------------------------------------------------------
-          nominative | noun-Ø      | a²nha²q "the enemy"
-          accusative | noun-(B)r   | a²nha²qa²r "the enemy" (accusative)
-             oblique | noun-mB     | a²nha²qma² "the enemy" (oblique)
-            genitive | noun-pE     | a²nha²qpe "the enemy's" [more on this below]
-              dative | noun-Bd     | a²nha²qa²d "to/for the enemy"
-            locative | noun-(s)AyF | a²nha²qa²ye "at the enemy"
-        instrumental | noun-OǧFnCk | a²nha²qa²ǧenik "with the enemy"
+          nominative | noun-Ø      | a²nha²k "the enemy"
+          accusative | noun-(B)r   | a²nha²ka²r "the enemy" (accusative)
+             oblique | noun-mB     | a²nha²kma² "the enemy" (oblique)
+            genitive | noun-pE     | a²nha²kpe "the enemy's" [more on this below]
+              dative | noun-(B)d   | a²nha²ka²d "to/for the enemy"
+            locative | noun-(s)AyF | a²nha²ka²ye "at the enemy"
+        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "with the enemy"
         
         in the poetic register nouns can be declined for the lative and ablative cases:
-             case    |   suffix    | example declension of a²nha²q "enemy"
+             case    |   suffix    | example declension of a²nha²k "enemy"
         ------------------------------------------------------------------
-              lative | noun-tF     | a²nha²qte "to the enemy"
-            ablative | noun-(O)r   | a²nha²qa²r "from the enemy"
+              lative | noun-tF     | a²nha²kte "to the enemy"
+            ablative | noun-(O)r   | a²nha²ka²r "from the enemy"
 
-        nouns can mark number with the plural suffix -gI
+        nouns can mark number with the plural suffix -gI. the plural suffix replaces word-final ǧ, making the vowel short.
         
-        indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which triggers a lenition change on the following consonant, as described in the lenition section:
+        indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which can trigger a lenition change on the following consonant, as described in the phonological changes section:
             ga²ǧa² /goːɦə/ "[the] night"
             a² ca²ǧa² /ə² dʒoːɦə/ "a night"
         the indefinite marker may be elided in poetic registers, leaving just the lenition.
@@ -401,6 +388,7 @@ grammar:
             "maker"? |     şF-noun |    şea²nha²q "the enemy-maker"
         
         nouns can be turned into verbs that mean "to create [noun]" using the creative suffix -Oz
+        nouns can be turned into adjectives using the adjectivizing suffix -lC
     
     pronouns:
         some pronouns have lative and ablative forms in addition to the forms for the other cases regular nouns decline for.
@@ -413,6 +401,8 @@ grammar:
           nominative | sa²    | za²    | uǧ     | ugo    | e      | igi
         -------------------------------------------------------------------
           accusative | soǧ    | zuǧ    | da²n   | da²na² | er     | igir
+        -------------------------------------------------------------------
+             oblique | sım    | zım    | ma¹             | ema²   | igım
         -------------------------------------------------------------------
             genitive | su     | zu     | oǧ     | ogo    | ea²    | igı
         -------------------------------------------------------------------
@@ -451,21 +441,36 @@ grammar:
             eea²s       "for itself"
         
         the relative pronouns are reduced forms of the proximal demonstrative pronouns:
-                 case    | proximal dem. | relative pronoun
-            ------------------------------------------------------------------
-              nominative | eǧ            | e
-              accusative | ereǧ          | ere
-                 oblique | ea²eǧ         | a²e
-                genitive | eneyeǧ        | ene
-                  dative | teǧ           | te
-                locative | kieǧ          | ke
-            instrumental | eǧnikiǧ       | eňki
+            singular:
+                     case    | proximal dem. | relative pronoun
+                ------------------------------------------------
+                  nominative | eǧa²m         | em
+                  accusative | era²m         | ra²m
+                     oblique | ema²ǧa²m      | ema²m
+                    genitive | ea²ǧa²m       | a²m
+                      dative | ea²sa²m       | a²sa²m
+                    locative | eneya²m       | eyna²m
+                      lative | teǧa²m        | tem
+                    ablative | kieǧa²m       | keǧa²m
+                instrumental | eǧnikım       | eňkim
+            plural:
+                     case    | proximal dem. | relative pronoun
+                ------------------------------------------------
+                  nominative | igiǧa²m       | gim
+                  accusative | igira²m       | gira²m
+                     oblique | igımım        | imım
+                    genitive | igıǧa²m       | iga²m
+                      dative | igısa²m       | igsa²m
+                    locative | igyeǧa²m      | geǧa²m
+                      lative | teǧa²m        | tem
+                    ablative | kieǧa²m       | keǧa²m
+                instrumental | iǧnikım       | iňkim
         
         these relative pronouns don't mark relative clauses, but instead are used for the antecedent in the main clause. some examples of sentences with relative clauses:
-            sa        loǧor        sanala            e         naca       ve     a      canar        al
-           /sə²       loːɦuɾ       sə²nə²lə²         ɦa        nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
-           [ˈsə       loːˈɦuɾ      sənəˈlə           ˈɦa       nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
-            sa²       loǧ-(B)r     Ø-sO-na²-lB       e         na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
+            sa        loǧor        sanala            em        naca       ve     a      canar        al
+           /sə²       loːɦuɾ       sə²nə²lə²         ɦam       nə²dʒə²    va     ɦə²    dʒə²nə²ɾ     ɦə¹l/
+           [ˈsə       loːˈɦuɾ      sənəˈlə           ˈɦam      nəˈdʒə     va     ɦə     dʒəˈnəɾ      ˈɦəl]
+            sa²       loǧ-(B)r     Ø-sO-na²-lB       em        na²-cO     ve     a²     *-ga²n-(B)r  Ø-Ø-a¹l
             1SG.NOM   person-ACC   3-1-see-IND.PST   3SG.REL   see-NFIN   ADV    NDEF   *-good-ACC   3-3-be.IND.PST
             "I saw a person who looked good" (lit. "I a person them-I-saw they seeing-ly a good it-they-were")
             
@@ -483,7 +488,18 @@ grammar:
             3-1-see-IND.PST   NDEF   *-good-ACC   3-3-be.IND.PST
             "I saw something that was good" (lit. "them-I-saw a good it-they-were")
         
-        interrogative pronouns
+        there is a single interrogative pronoun "a²t". it declines like so:
+             case    |   inflection
+        ------------------------------------------------------------------
+          nominative | a²t      ex. "what"/"who"/etc.
+          accusative | ta²r     ex. "what"/"who"/etc. (accusative)
+             oblique | ta²m     ex. "what"/"who"/etc. (oblique)
+            genitive | tep      ex. "what's"/"whose"/etc.
+              dative | a²d      ex. "to what"/"to who"/etc.
+            locative | a²ye     ex. "where"
+              lative | ıta²     ex. "to where"
+            ablative | ısa²     ex. "from where"
+        instrumental | a²ň      ex. "with what"/"how"
         
         most noun marker affixes can be applied to pronouns by use of the auxiliary noun "(ħ)a¹":
             sa² "I"
@@ -497,7 +513,6 @@ grammar:
         lative postposition: lı
         ablative postposition: loda¹
         adverbial postposition: ve (usually unstressed)
-        
     
     adjectives:
         attributive adjectives are unmarked except for agreeing in number with the noun they modify using the plural suffix -gI.
@@ -507,15 +522,17 @@ grammar:
         verbs can be conjugated for person (of both subject and object), number (of subject), tense, aspect, mood, etc.
         there are a number of verbal affixes that mark reflexivity, reciprocity, causativity, directionality, passive voice, etc.
         
-        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb]-C-Os (note that when -Os follows a vowel it replaces that vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb]-Os.
+        some verb roots are a single consonant. these verb roots take an "epenthetic" -i -/eɦ/ that disappears when another suffix is present to take its place.
+        
+        the personal prefixes are sO- for 1P, dO- for 2SG, mB(s)- for 2PL, and Ø-/(h)- for 3P. these apply to the verb in the order [person of object]-[person of subject]-[verb], except in the case of causatives formed from intransitive verbs, where it is somewhat "reversed": [person of causee]-[person of causer]-[verb]-Os (note that the suffix -Os overrides the previous vowel unless it is i). in causatives formed from transitive verbs, the verb looks like [person of object]-[person of causee]-[person of causer]-[verb]-Os.
         the 3P prefix is Ø- usually but h- when in the position of subject (causer if causativized) and the object (causee if causativized) is 1P, 2SG, or 2PL.
         additionally, the 2nd non-zero personal prefix in the verb drops its vowel (unless succeeded by the 3P as h-).
         
-        so, from the root "zie":
-            ziece       "to win"
-            sezie       "I win"
-            dezie       "you win"
-            zie         "it wins"
+        so, from the root "z-":
+            zice        "to win"
+            sezi        "I win"
+            dezi        "you win"
+            zi          "it wins"
             ziesce      "to make win"
             deszies     "I make you win"
             sezies      "I make it win"
@@ -535,6 +552,7 @@ grammar:
             na²sca²         "to make win"
             da²sda²na²s     "you make me see you"
             da²sa²hna²s     "it makes me see you"
+        the "you"s here are all singular/informal.
         
         when not already marked using the 2SG/2PL personal distinction, verbs agree in number with the subject (or causee in causativized verbs) using the same plural suffix -gI
         
@@ -552,8 +570,8 @@ grammar:
                       |    past    |  present   |   future
         ------------------------------------------------------
            indicative | -lB        | -Ø         | -hF
-        ---------------------------|            |-------------
-          categorical | -tF        |            | -nBs
+        ------------------------------------------------------
+          categorical | -tF        | N/A        | -nBs
         ------------------------------------------------------
            imperative | N/A        | -yO        | -yOs
         ------------------------------------------------------
@@ -563,18 +581,19 @@ grammar:
         ------------------------------------------------------
              optative | -(F)lFn    | -(F)nF
         ------------------------------------------------------
-        contrafactual | -tF                     | -tFnB
+        contrafactual | -tF                     | -tFnBǧ
         ------------------------------------------------------
           conditional | -(O)l                   | -hO
         
-        aspects are marked separate and are more diverse, including:
-            - perfective: unmarked
+        aspects are marked separate, and include:
             - imperfective (signifying an event's occurrence over a duration of time): marked with -tBnçi
             - habitual: marked with -lO
             - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
             - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
         
         verbal affixes, in order of application from left to right:
+            - positive-attitude: gu- (denotes the speaker has a positive attitude towards the action)
+            - negative-attitude: su- (denotes the speaker has a negative attitude towards the action)
             - interest: kC- (denotes the speaker [and potentially also the listener] holding an interest or stake in the action)
             - aforementioned personal affixes
             - reflexive: zBl- (denotes an action done to oneself; valency-decreasing)
@@ -585,11 +604,13 @@ grammar:
             - passive voice: nB- (valency-decreasing)
             - negative: mC-
             - negative (imperative): çOk-
-            - aforementioned tense/mood markers
-            - aforementioned aspect markers
-            - emphatic: -(B)ħ
+            - aforementioned intransitive epenthetic -i
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
+            - aforementioned tense/mood suffixes
+            - aforementioned aspect suffixes
+            - emphatic: -(B)ħ
             - non-finite: -cO
+            - agentive: -(F)r (turns a verb into a noun that means "thing that does [verb]". the verb will have its subject- or causer-position personal affix missing)
             - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
         
         the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
@@ -597,18 +618,18 @@ grammar:
                       |    past    |  present   |   future
         ------------------------------------------------------
            indicative | a¹l        | Ø          | a¹h
-        ---------------------------|            |-------------
-          categorical | a¹ta¹      |            | a¹nos
         ------------------------------------------------------
-           imperative | N/A        | a¹ya¹      | a¹ya¹s
+          categorical | a¹ta¹      | N/A        | a¹nos
+        ------------------------------------------------------
+           imperative | N/A        | a¹ya¹      | a¹ya¹ş
         ------------------------------------------------------
           subjunctive | a¹rü
         ------------------------------------------------------
-        interrogative | a¹ħa¹l     | a¹ħa¹      | a¹sa¹
+        interrogative | a¹ħa¹l     | a¹ħa¹      | a¹şa¹
         ------------------------------------------------------
              optative | a¹la¹n     | a¹na¹
         ------------------------------------------------------
-        contrafactual | a¹ta¹                   | ta¹no
+        contrafactual | a¹ta¹                   | ta¹noǧ
         ------------------------------------------------------
           conditional | a¹l                     | a¹h
     
@@ -627,28 +648,502 @@ grammar:
         
         nouns, adjectives, and non-finite verbs can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
         
-        the copula is null in the present indicative/categorical
+        the copula is null in the present indicative
         
         conditional sentences use the conjunction "to", e.g.:
-            sanatı             to     sayadagkoloħ
-            Ø-sO-na²-tF        to     sO-yF-dFg-ko-(O)l-(B)ħ
-            3-1-see-PST.CNTF   then   1-away-to_you-go-PST.COND-EMPH
+            sanatı             to     sadagkoloħ
+            Ø-sO-na²-tF        to     sO-dFg-ko-(O)l-(B)ħ
+            3-1-see-PST.CNTF   then   1-to_you-go-PST.COND-EMPH
             "if I saw it then I would've ran to you" (the emphatic particle turns the verb from having a sense of "coming" to having a sense of "running" or "coming strongly")
 
-       suzies | /sʉ.ze.ˈɦaʃ/
-        masee | /mə.sa.ˈɦa/
-         umħa | /ɦʉm.ˈxə/
-        oespe | /ɦu.ɦas.ˈpa/
-    ħantunçir | /xə²n.tʉn.ˈtʃer/
-       řoohus | /ʒu.ɦu.ˈhʉs/
-        aǧçir | /ɦəː.ˈtʃer/
-           oo | /ɦu.ˈɦoː/ (irregular spelling)
-       capças | /dʒə²p.ˈtʃə²s/
-    manarnate | /mə.nər.nə.ˈta/
-       caňgir | /dʒə²ŋ.ˈger/
-     ganhabod | /gə².ŋə¹.ˈbud/
-       hazhod | /hə¹z.ˈhud/
-          žar | /ˈʒə¹r/
-  canatonçies | /dʒə².nə¹.tun.tʃe.ˈɦaʃ/
+alphabet:
+       letter  |  name
+    ---------------------
+            a  |  a²
+            b  |  be
+            c  |  ce
+            ç  |  çe
+            d  |  de
+            e  |  e
+            g  |  ge
+            ǧ  |  ge mıma²kca²lı ["not-making-sound-like g"]
+            h  |  he
+            ħ  |  ħe
+            ı  |  ı
+            i  |  i
+            k  |  ka²p
+            l  |  la²m
+            m  |  me
+            n  |  ne
+            ň  |  ňe
+            o  |  o
+            p  |  pe
+            q  |  qa²p [used for loan words]
+            r  |  er
+            ř  |  er želi ["ž-like r"]
+            s  |  sa²
+            ş  |  şe
+            t  |  te
+            u  |  u
+            ü  |  ü
+            v  |  ve
+            y  |  ye
+            z  |  ze
+            ž  |  že
+
+numbers:
+    the numbering system is a simple base-10 system. the numbers 0-10 are as follows:
+        - 0: şipri
+        - 1: a²y
+        - 2: ke
+        - 3: ti
+        - 4: ta¹
+        - 5: pis
+        - 6: la²t
+        - 7: sa²t
+        - 8: na¹
+        - 9: a¹nül
+        - 10: ya¹n
+    
+    the multiples of 10 up to 90 are formed by adding -On or -nO to the digits (depending on whether they end with a vowel):
+        - 20: kene
+        - 30: tine
+        - 40: ta¹na¹
+        - 50: pişen
+        - 60: la²ça²n
+        - 70: sa²ça²n
+        - 80: na¹na¹
+        - 90: a¹nüla¹n
+    
+    the powers of 10 have the following names:
+        - 100: şü
+        - 1000: a²zra²
+        - 10000: ya²zra²
+        - 100000: ba²ra²z
+    further powers of 10 are formed by multiplicative juxtaposition, e.g. 10000000 = 100 * 100000 => şü-ba²ra²z
+    
+    numbers are formed least-significant-first, first grouped into 2 groups of 2 digits then from there groups of 3 digits. e.g. 1234567891 => 91 + 7800 + 4560000 + 1230000000: "ay anülan na saçan şü lat pişen ta şü yazra ti kene şü şü-baraz" ("1 90 8 70 100 6 50 4 100 10000 3 20 100 100*100000")
+    
+    todo: ordinal fractional and multiplicative forms of numbers
+
+word list:
+    format: word (word annotated with vowel harmony superscripts) /phonemic transcription/
+    
+    a (a²) /ɦə²/
+        1. (art.) indefinite article. from proto *ay /hɑj/ "one"
+    
+    aca (a²ca²) /ɦə²dʒə²/
+        1. (v. trans.) copula; "to be". from proto *a /hɑ/ "id.". conjugations:
+                          |    past    |  present   |   future
+            ------------------------------------------------------
+               indicative | a¹l        | Ø          | a¹h
+            ------------------------------------------------------
+              categorical | a¹ta¹      | N/A        | a¹nos
+            ------------------------------------------------------
+               imperative | N/A        | a¹ya¹      | a¹ya¹ş
+            ------------------------------------------------------
+              subjunctive | a¹rü
+            ------------------------------------------------------
+            interrogative | a¹ħa¹l     | a¹ħa¹      | a¹şa¹
+            ------------------------------------------------------
+                 optative | a¹la¹n     | a¹na¹
+            ------------------------------------------------------
+            contrafactual | a¹ta¹                   | ta¹noǧ
+            ------------------------------------------------------
+              conditional | a¹l                     | a¹h
+    
+    anhak (a²nha²k) /ɦə²ŋə²x/
+        1. (n.) enemy. from proto *anhaq /hɑnxɑq/ "id."
+    
+    anül (a¹nül) /ɦə¹nøl/
+        1. (n.) nine. from proto *önül /hønyl/ "id."
+    
+    anülan (a¹nüla¹n) /ɦə¹nølə¹n/
+        1. (n.) ninety. from proto *önül /hønyl/ "nine" + *yön /jøn/ "ten"
+    
+    at (a²t) /ɦə²t/
+        1. (pron.) interrogative pronoun; "what", "who", etc. from proto *at /hɑt/ "id.". forms:
+                 case    |   inflection
+            ------------------------------
+              nominative | a²t
+            ------------------------------
+              accusative | ta²r
+            ------------------------------
+                 oblique | ta²m
+            ------------------------------
+                genitive | tep
+            ------------------------------
+                  dative | a²d
+            ------------------------------
+                locative | a²ye
+            ------------------------------
+                  lative | ıta²
+            ------------------------------
+                ablative | ısa²
+            ------------------------------
+            instrumental | a²ň
+        2. (n.) hand. from proto *at /hɑt/ "id."
+    
+    ay (a²y) /ɦə²j/
+        1. (n.) one. from proto *ay /hɑj/ "one"
+    
+    aylı (a²ylı) /ɦə²jlɨ/
+        1. (adj.) singular. adjectival form of ay /ɦə²j/ "one"
+    
+    azra (a²zra²) /ɦə²zɾə²/
+        1. (n.) one thousand. from proto *azra /hɑzɾɑ/ "id."
+    
+    baraz (ba²ra²z) /bə²ɾə²z/
+        1. (n.) one hundred thousand. from proto *baraz /bɑɾɑz/ "id."
+    
+    e (e) /ɦa/
+        1. (pron.) third person singular pronoun; "he", "she", "it", etc. from proto *e /he/ "id.". forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | e      | igi
+            -------------------------------
+              accusative | er     | igir
+            -------------------------------
+                 oblique | ema²   | igım
+            -------------------------------
+                genitive | ea²    | igı
+            -------------------------------
+                  dative | ea²s   | igıs
+            -------------------------------
+                locative | eney   | igye
+            -------------------------------
+                  lative | te
+            -------------------------------
+                ablative | kie
+            -------------------------------
+            instrumental | eǧnik  | iǧnik
+    
+    eece (eece) /ɦaɦadʒa/
+        1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
+    
+    em (em) /ɦam/
+        1. (pron.) singular relative pronoun; used to refer back to the antecedent. related to eǧam /ɦaːɦə²m/, the singular proximal demonstrative pronoun. forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | em     | gim
+            -------------------------------
+              accusative | ra²m   | gira²m
+            -------------------------------
+                 oblique | ema²m  | imım
+            -------------------------------
+                genitive | a²m    | iga²m
+            -------------------------------
+                  dative | a²sa²m | igsa²m
+            -------------------------------
+                locative | eyna²m | geǧa²m
+            -------------------------------
+                  lative | tem
+            -------------------------------
+                ablative | keǧa²m
+            -------------------------------
+            instrumental | eňkim  | iňkim
+    
+    gan (ga²n) /gə²n/
+        1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
+    
+    ganlı (ga²nlı) /gə²nlɨ/
+        1. (adj.) good. adjectival form of gan /gə²n/ "good thing"
+    
+    gaǧa (ga²ǧa²) /gə²ːɦə²/
+        1. (n.) night. from proto *gaǧa /gɑʁɑ/ "id."
+    
+    ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
+        1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization of (2.).
+        2. (v. trans.) imperfective form of "like"; to be liking. this conjugation is irregular
+    
+    ħanuǧo (ħa¹nuǧo) /xə¹nʉːɦu/
+        1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization of (2.).
+        2. (v. trans.) universal form of "like"; to always like and always have liked. this conjugation is irregular
+    
+    ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
+        1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
+    
+    i (i) /ɦe/
+        1. (conj.) and. from proto *i /hi/ "id."
+    
+    igi (igi) /ɦege/
+        1. (pron.) third person plural pronoun; "they". from proto *igi /higi/ "id.". forms:
+                         |   sg   |   pl
+            -------------------------------
+              nominative | e      | igi
+            -------------------------------
+              accusative | er     | igir
+            -------------------------------
+                 oblique | ema²   | igım
+            -------------------------------
+                genitive | ea²    | igı
+            -------------------------------
+                  dative | ea²s   | igıs
+            -------------------------------
+                locative | eney   | igye
+            -------------------------------
+                  lative | te
+            -------------------------------
+                ablative | kie
+            -------------------------------
+            instrumental | eǧnik  | iǧnik
+    
+    ke (ke) /ka/
+        1. (n.) two; both. from proto *ke /ke/ "id."
+    
+    keli (keli) /kale/
+        1. (adj.) dual. adjectival form of ke /ka/ "two"
+    
+    kene (kene) /kana/
+        1. (n.) twenty. from proto *ke /ke/ "two" + *yön /jøn/ "ten"
+    
+    ko (ko) /ku/
+        1. (v. intrans.) to go. from proto *ko /ko/
+    
+    koħ (koħ) /kux/
+        1. (v. intrans.) to run. lexicalized emphatic form of ko /ku/ "go"
+    
+    lat (la²t) /lə²t/
+        1. (n.) six. from proto *lat /lɑt/ "id."
+    
+    laçan (la²ça²n) /lə²tʃə²n/
+        1. (n.) sixty. from proto *lat /lɑt/ "six" + *yön /jøn/ "ten"
+    
+    loda (loda¹) /ludə¹/
+        1. (postp.) ablative postposition; "from". from proto *lodö /lodø/ "id."
+    
+    loǧ (loǧ) /loː/
+        1. (n.) person. from proto *loǧ /loʁ/
+    
+    lı (lı) /lɨ/
+        1. (postp.) lative postposition; "to". from proto *lı /lɯ/ "id."
+    
+    na (na¹) /nə¹/
+        1. (n.) eight. from proto *nö /nø/ "id."
+    
+    naca (na²ca²) /nə²dʒə²/
+        1. (v. trans.) to see; to look at. from proto *na /nɑ/ "id."
+    
+    nana (na¹na¹) /nə¹nə¹/
+        1. (n.) eighty. from proto *nö /nø/ "eight" + *yön /jøn/ "ten"
+        
+    pis (pis) /peʃ/
+        1. (n.) five. from proto *pis /pis/ "id."
+    
+    pişen (pişen) /peʃan/
+        1. (n.) fifty. from proto *pis /pis/ "five" + *yön /jøn/ "ten"
+    
+    sa (sa²) /sə²/
+        1. (pron.) first person singular pronoun; "I", "me", etc. from proto *sa /sɑ/ "id.". forms:
+                         |       1P        
+                         |   sg   |   pl   
+            -------------------------------
+              nominative | sa²    | za²    
+            -------------------------------
+              accusative | soǧ    | zuǧ    
+            -------------------------------
+                 oblique | sım    | zım    
+            -------------------------------
+                genitive | su     | zu     
+            -------------------------------
+                  dative | şi     | ži     
+            -------------------------------
+                locative | sa²y   | zıy    
+            -------------------------------
+                  lative | ıs     | ız     
+            -------------------------------
+                ablative | a¹ş    | uz     
+            -------------------------------
+            instrumental | sıa²   | ženi   
+    
+    sat (sa²t) /sə²t/
+        1. (n.) seven. from proto *sat /sɑt/ "id."
+    
+    saçan (sa²ça²n) /sə²tʃə²n/
+        1. (n.) seventy. from proto *sat /sɑt/ "seven" + *yön /jøn/ "ten"
+    
+    şipri (şipri) /ʃepɾe/
+        1. (n.) zero. from proto *sifri /sifɾi/ "id.", from arabic ṣifr "empty, zero"
+    
+    şü (şü) /ʃø/
+        1. (n.) one hundred. from proto *sü /sy/ "id."
+    
+    ta (ta¹) /tə¹/
+        1. (n.) four. from proto *tö /tø/ "id."
+    
+    tana (ta¹na¹) /tə¹nə¹/
+        1. (n.) fourty. from proto *tö /tø/ "four" + *yön /jøn/ "ten"
+    
+    ti (ti) /te/
+        1. (n.) three. from proto *ti /ti/ "id."
+    
+    tine (tine) /tina/
+        1. (n.) thirty. from proto *ti /ti/ "three" + *yön /jøn/ "ten"
+    
+    to (to) /tu/
+        1. (conj.) then. from proto *to /to/ "id."
+    
+    ugo (ugo) /ɦʉgu/
+        1. (pron.) second person plural pronoun; "you (pl.)". from proto *ugo /hugo/ "id.". forms:
+                     |       2P        
+                     |   sg   |   pl   
+        --------------------------------
+          nominative | uǧ     | ugo    
+        --------------------------------
+          accusative | da²n   | da²na² 
+        --------------------------------
+             oblique | ma¹             
+        --------------------------------
+            genitive | oǧ     | ogo    
+        --------------------------------
+              dative | uos             
+        --------------------------------
+            locative | uy              
+        --------------------------------
+              lative | dıǧ    | dog    
+        --------------------------------
+            ablative | duǧ    | dogda¹ 
+        --------------------------------
+        instrumental | deni   | degin  
+    
+    uǧ (uǧ) /ɦuː/
+        1. (pron.) second person singular pronoun; "you (sg.)". from proto *uǧ /huʁ/ "id.". forms:
+                     |       2P        
+                     |   sg   |   pl   
+        --------------------------------
+          nominative | uǧ     | ugo    
+        --------------------------------
+          accusative | da²n   | da²na² 
+        --------------------------------
+             oblique | ma¹             
+        --------------------------------
+            genitive | oǧ     | ogo    
+        --------------------------------
+              dative | uos             
+        --------------------------------
+            locative | uy              
+        --------------------------------
+              lative | dıǧ    | dog    
+        --------------------------------
+            ablative | duǧ    | dogda¹ 
+        --------------------------------
+        instrumental | deni   | degin  
+    
+    ve (ve) /va/
+        1. (postp.) adverbial postposition. from proto *ve /ve/ "id."
+    
+    yan (ya¹n) /jə¹n/
+        1. (n.) ten. from proto *yön /jøn/ "id."
+    
+    yazra (ya²zra²) /jə²zɾə²/
+        1. (n.) ten thousand. from proto *yön /jøn/ "ten" + *azra /hɑzɾɑ/ "thousand"
+    
+    za (za²) /zə²/
+        1. (pron.) first person plural pronoun; "we", "us", etc. from proto *za /zɑ/ "id". forms:
+                         |       1P        
+                         |   sg   |   pl   
+            -------------------------------
+              nominative | sa²    | za²    
+            -------------------------------
+              accusative | soǧ    | zuǧ    
+            -------------------------------
+                 oblique | sım    | zım    
+            -------------------------------
+                genitive | su     | zu     
+            -------------------------------
+                  dative | şi     | ži     
+            -------------------------------
+                locative | sa²y   | zıy    
+            -------------------------------
+                  lative | ıs     | ız     
+            -------------------------------
+                ablative | a¹ş    | uz     
+            -------------------------------
+            instrumental | sıa²   | ženi   
+    
+    zice (zice) /ʒedʒa/
+        1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
+    
+    ža (ža¹) /ʒə¹/
+        1. (n.) life; existence. from proto *zö /zø/ "id."
+
+suzies /sʉzeɦaʃ/ (v.) "they make them win [negative-attitude]"
+    su-Ø-Ø-z-i-Os-Ø
+    NEGATT-3-3-win-EP-CAUS-PRS.IND
+    negative-attitude 3P-causee 3P-causer present indicative causative form of zice "to win"
+
+masee /mə²saɦa/ (v.) "you(pl) laugh"
+    mB(s)-ee-Ø
+    2PL-laugh-PRS.IND
+    2PL-subject present indicative form of eece "to laugh"
+
+umħa /ɦʉmxə¹/ (n.)
+    umħa
+
+oespe /ɦuɦaspa/ (n.)
+    oes-pE
+    genitive form of oes
+
+ħantunçir /xə¹ntʉntʃeɾ/ (n.) "one who has a crush"
+    Ø-ħa¹nü-Ø-tBnçi-(F)r
+    3-like-PRS.IND-NPFV-AGNZ
+    agentive of the 3P-object present indicative form of ħantunçice ("to love [temporarily]"), itself the (irregular) imperfective form of ħa¹nüca¹ "to like"
+    the word for "to love [seriously]" is also derived from ħa¹nüca¹: it is the universal form, ħa¹nuǧo
+
+řoohus /ʒuɦuhʉs/ (n.)
+    řoohus
+
+aǧçir /ɦəːtʃeɾ/ (n.)
+    a¹ǧçi-(B)r
+    accusative form of aǧçi
+
+oo /ɦuɦoː/ (intr.) "oho!; aha!" [spelling is irregular]
+    interjection. from proto *oo /ɦoɦo/
+
+capças /dʒə²ptʃə²s/ (v.)
+    Ø-Ø-Ø-ca²pçı-Os-Ø
+    3-3-3-ca²pçı-CAUS-PRS.IND
+    3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
+
+manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
+    Ø-mB(s)-na²~(O)rna²-tF
+    3-2PL-see~FREQ-CAT.PST
+    3P-object 2PL-subject past categorical frequentative form of na²ca² "to see"
+
+caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
+    *-ga²n-gI-(B)r
+    NDEF-good-PL-ACC
+    indefinite lenition of the accusative plural form of ga²n "good thing"
+
+ganhabod /gə²ŋə¹but/ (n.)
+    ga²nha¹b-(B)d
+    dative form of ga²nha¹b
+
+hazhod /hə²zhut/ (n.)
+    ha²zho-(B)d
+    dative form of ha²zho
+
+žar /ʒə¹ɾ/ (n.) "for life"
+    ža¹-(B)r
+    life-DAT
+    dative form of ža "life"
+
+alternatively:
+
+žar /ʒə¹ɾ/ (n., poetic) "from life"
+    ža¹-(O)r
+    life-ABL
+    ablative form of ža "life"
+
+canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them good"
+    Ø-Ø-ca²na¹-Ø-tBnçi-Os
+    3-3-be_good-PRS.IND-NPFV-CAUS
+    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ca¹ "to be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and a¹ca¹ "to be"
 
 PHRASE: "Caňgir žar manarnate."
+         Caňgir             žar            manarnate.
+        /dʒə²ŋgeɾ           ʒə¹ɾ           mə²nə²ɾnə²ta/
+        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.ˈta]
+    (a²) *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
+         NDEF-good-PL-ACC   life-DAT/ABL   3-2PL-see~FREQ-CAT.PST
+         "you(pl) [definitely, frequently] saw some good things for/from life" (poetic register)
