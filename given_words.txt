@@ -1,63 +1,122 @@
-suzies /sʉzeɦaʃ/ (v.) "they make them win [negative-attitude]"
+suzies /sʉʒeɦaʃ/ (v.) "they make them win [negative-attitude]"
     su-Ø-Ø-z-i-Os-Ø
     NEGATT-3-3-win-EP-CAUS-PRS.IND
-    negative-attitude 3P-causee 3P-causer present indicative causative form of zice "to win"
+    negative-attitude 3P-causee 3P-causer present indicative causative form of zi "win"
+    relevant dictionary entry:
+        zice (zice) /ʒedʒa/
+            1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
 
 masee /mə²saɦa/ (v.) "you(pl) laugh"
     mB(s)-ee-Ø
     2PL-laugh-PRS.IND
-    2PL-subject present indicative form of eece "to laugh"
+    2PL-subject present indicative form of ee "laugh"
+    relevant dictionary entry:
+        eece (eece) /ɦaɦadʒa/
+            1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
 
-umħa /ɦʉmxə¹/ (n.)
+umħa /ɦʉmxə²/ (n.) "fool"
     umħa
+    "fool", loaned from arabic ḥumq
+    relevant dictionary entry:
+        umħa (umħa²) /ɦʉmxə²/
+            1. (n.) fool. from proto /humχɑ/, loaned from arabic ḥamqā/ḥumq "fool(s)"
 
-oespe /ɦuɦaspa/ (n.)
+oespe /ɦuɦaʃpa/ (n.) "obsession's"
     oes-pE
-    genitive form of oes
+    obsession-GEN
+    genitive form of oes "obsession", loaned from persian hawas, from arabic hawas
+    relevant dictionary entry:    
+        oes (oes) /ɦuɦaʃpa/
+            1. (n). obsession; lust; desire. from persian hawas, from arabic hawas
 
 ħantunçir /xə¹ntʉntʃeɾ/ (n.) "one who has a crush"
     Ø-ħa¹nü-Ø-tBnçi-(F)r
     3-like-PRS.IND-NPFV-AGNZ
-    agentive of the 3P-object present indicative form of ħantunçice ("to love [temporarily]"), itself the (irregular) imperfective form of ħa¹nüca¹ "to like"
-    the word for "to love [seriously]" is also derived from ħa¹nüca¹: it is the universal form, ħa¹nuǧo
+    agentive of the 3P-object present indicative form of ħantunçi ("love [temporarily]"), itself the (irregular) imperfective form of ħa¹nü "like"
+    the word for "to love [seriously]" is also derived from ħa¹nü: it is the universal form, ħa¹nuǧo
+    relevant dictionary entries:
+        ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
+            1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization/contraction of ħanütunçi /xə¹nøtʉntʃe/ "to be liking", the imperfective form of "like"
+        ħanuǧoco (ħa¹nuǧo) /xə¹nʉːɦudʒu/
+            1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization/contraction of ħanüuǧo /xə¹nøɦʉːɦu/ "~to always like and always have liked", the universal form of "like"
+        ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
+            1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
 
-řoohus /ʒuɦuhʉs/ (n.)
+řoohus /ʒuɦuhʉs/ (n.) "fire"
     řoohus
+    "fire"
+    relevant dictionary entry:
+        řoohus (řoohus) /ʒuɦuhʉs/
+            1. (n.) fire. from proto *roohus /rohoxus/ "id."
 
-aǧçir /ɦəːtʃeɾ/ (n.)
-    a¹ǧçi-(B)r
-    accusative form of aǧçi
+aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
+    a²ǧçi-(B)r
+    religion-ACC
+    accusative form of aǧçi "religion"
+    relevant dictionary entry:
+        aǧçi (a²ǧçi) /ɦoːtʃe/
+            1. (n.) religion. from proto *aǧçi /hɑːtʃi/
 
-oo /ɦuɦoː/ (intr.) "oho!; aha!" [spelling is irregular]
-    interjection. from proto *oo /ɦoɦo/
+oo /ɦuɦoː/ (irregular spelling) (intj.) "oho!; aha!"
+    oo
+    interjection. from proto *oo /hoho/
+    relevant dictionary entry:
+        oo (oo) /ɦuɦoː/ (irregular spelling; phonetic respelling ooǧ)
+            1. (intj.) "oho!"; "aha!". interjection. from proto *oo /hoho/
 
-capças /dʒə²ptʃə²s/ (v.)
+capças /dʒə²ptʃə²s/ (v.) "they make them eat it"
     Ø-Ø-Ø-ca²pçı-Os-Ø
     3-3-3-ca²pçı-CAUS-PRS.IND
     3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
+    relevant dictionary entry:
+        capçıca (ca²pçıca²) /dʒə²ptʃə²dʒə²/
+            1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/
 
 manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
     Ø-mB(s)-na²~(O)rna²-tF
     3-2PL-see~FREQ-CAT.PST
-    3P-object 2PL-subject past categorical frequentative form of na²ca² "to see"
+    3P-object 2PL-subject past categorical frequentative form of na² "see"
+    relevant dictionary entry:
+        naca (na²ca²) /nə²dʒə²/
+            1. (v. trans.) to see; to look at. from proto *na /nɑ/ "id."
 
 caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
     *-ga²n-gI-(B)r
     NDEF-good-PL-ACC
     indefinite lenition of the accusative plural form of ga²n "good thing"
+    relevant dictionary entry:
+        gan (ga²n) /gə²n/
+            1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
 
-ganhabod /gə²ŋə¹but/ (n.)
+ganhabod /gə²ŋə¹but/ (n.) "for the pet"
     ga²nha¹b-(B)d
-    dative form of ga²nha¹b
+    pet-DAT
+    dative form of ga²nha¹b, compound noun of ga²n "good" and ha¹b "animal"
+    relevant dictionary entries:    
+        gan (ga²n) /gə²n/
+            1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
+        hab (ha¹b) /hə¹p/
+            1. (n.) animal. from proto *hab /xɑb/ "id."
+        ganhab (ga²nha¹b) /gə²ŋə¹p/
+            1. (n.) a pet. from gan /gə²n/ "good thing" and hab /ha¹b/ "animal"
 
-hazhod /hə²zhut/ (n.)
-    ha²zho-(B)d
-    dative form of ha²zho
+hazhod /hə¹zhut/ (n.) "for opium"
+    ha¹z-hB-(B)d
+    sleep-RESPONS-DAT
+    dative form of ha¹zho "opium", the responsibilitive of ha¹z "sleep"
+    relevant dictionary entries:
+        hazca (ha¹zca¹) /hə¹ʒdʒə¹/
+            1. (v. intrans.) to sleep. from proto *höz /xøz/
+        hazho (ha¹zho) /hə¹ʒhu/
+            1. (n.) opium. from the responsibilitive of haz "sleep"; literally "thing that causes sleep"
 
 žar /ʒə¹ɾ/ (n.) "for life"
     ža¹-(B)r
     life-DAT
     dative form of ža "life"
+    relevant dictionary entry:
+        ža (ža¹) /ʒə¹/
+            1. (n.) life; existence. from proto *zö /zø/ "id."
 
 alternatively:
 
@@ -65,16 +124,22 @@ alternatively:
     ža¹-(O)r
     life-ABL
     ablative form of ža "life"
+    relevant dictionary entry:
+        ža (ža¹) /ʒə¹/
+            1. (n.) life; existence. from proto *zö /zø/ "id."
 
-canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them good"
+canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them be good"
     Ø-Ø-ca²na¹-Ø-tBnçi-Os
     3-3-be_good-PRS.IND-NPFV-CAUS
-    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ca¹ "to be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and a¹ca¹ "to be"
+    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ "be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and the copula a¹
+    the causative being placed after the TAM affixes places more emphasis on the causation of the action (~"they are *making* them be good") than on the action itself
+    relevant dictionary entry:
+        1. (v. intrans.) to be good. from (the indefinite lenition of) gan /gə²n/ "good thing" and the copula a /ə¹/ "be"
 
 PHRASE: "Caňgir žar manarnate."
          Caňgir             žar            manarnate.
         /dʒə²ŋgeɾ           ʒə¹ɾ           mə²nə²ɾnə²ta/
-        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.ˈta]
+        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.tḁ]
     (a²) *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
          NDEF-good-PL-ACC   life-DAT/ABL   3-2PL-see~FREQ-CAT.PST
          "you(pl) [definitely, frequently] saw some good things for/from life" (poetic register)

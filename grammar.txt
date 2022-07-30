@@ -11,7 +11,7 @@ grammar:
             genitive | noun-pE     | a²nha²kpe "the enemy's" [more on this below]
               dative | noun-(B)d   | a²nha²ka²d "to/for the enemy"
             locative | noun-(s)AyF | a²nha²ka²ye "at the enemy"
-        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "with the enemy"
+        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "using the enemy"
         
         in the poetic register nouns can be declined for the lative and ablative cases:
              case    |   suffix    | example declension of a²nha²k "enemy"
@@ -30,11 +30,11 @@ grammar:
             ga²ǧa²-pe   ža¹
             night-GEN   life
             "the life of the night"
-           
+            
             ga²ǧa²      ža¹-nı
             night       life-POSSD
             "the night's life [alienable]"
-           
+            
             ga²ǧa²-pe   ža¹-nı
             night-GEN   life-POSSD
             "the night's life [inalienable]"
@@ -48,6 +48,7 @@ grammar:
             ža¹-      e-ga²n
             life      EZ-good
             "the life of good" / "the life which is good"
+        ezafe is written with two hyphens around the F-, e.g. ža-e-gaǧa
         
         there are a few prefixes that can go on nouns:
              name    |   prefix    | example declension of a²nha²q "enemy"
@@ -179,8 +180,10 @@ grammar:
             şa¹ħa¹-su "that which makes me"
     
     postpositions:
-        lative postposition: lı
-        ablative postposition: loda¹
+        lative postposition: lı "to"
+        ablative postposition: loda¹ "from"
+        inessive postposition: men "in"
+        semblative postposition: keb "like"
         adverbial postposition: ve (usually unstressed)
     
     adjectives:
@@ -228,7 +231,7 @@ grammar:
         the tenses are past, present, and future.
         verbs conjugate for tense and mood. moods:
             indicative - the speaker is stating a fact
-            categorical - the speaker is confident that the event has happened/is happening/will happen
+            categorical - the speaker is confident that the event has happened/will happen
             imperative - the speaker is ordering that the event happens
             subjunctive - used in relative clauses for actions that are not factual
             interrogative - the speaker is asking whether the event has happened/is happening/will happen
@@ -277,16 +280,18 @@ grammar:
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - aforementioned tense/mood suffixes
             - aforementioned aspect suffixes
+            - [causative: -Os] [the causative suffix may be placed here instead, which places emphasis on the causation of the action as opposed to on the action itself]
             - emphatic: -(B)ħ
             - non-finite: -cO
             - agentive: -(F)r (turns a verb into a noun that means "thing that does [verb]". the verb will have its subject- or causer-position personal affix missing)
+            - responsibilitive: -hB (turns a verb into a noun that means "thing that causes [verb] to happen" or "thing that is responsible for [verb] happening". similar to agentive suffix)
             - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
         
         the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
         
                       |    past    |  present   |   future
         ------------------------------------------------------
-           indicative | a¹l        | Ø          | a¹h
+           indicative | a¹l        | (a¹)       | a¹h
         ------------------------------------------------------
           categorical | a¹ta¹      | N/A        | a¹nos
         ------------------------------------------------------
@@ -301,6 +306,8 @@ grammar:
         contrafactual | a¹ta¹                   | ta¹noǧ
         ------------------------------------------------------
           conditional | a¹l                     | a¹h
+        
+        the copula may be omitted in the present indicative.
     
     syntax:
         the language is primarily head-final and has free word order (though SOV is the default).
@@ -317,11 +324,14 @@ grammar:
         
         nouns, adjectives, and non-finite verbs can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
         
-        the copula is null in the present indicative
+        the copula may be omitted in the present indicative
         
         conditional sentences use the conjunction "to", e.g.:
             sanatı             to     sadagkoloħ
             Ø-sO-na²-tF        to     sO-dFg-ko-(O)l-(B)ħ
             3-1-see-PST.CNTF   then   1-to_you-go-PST.COND-EMPH
             "if I saw it then I would've ran to you" (the emphatic particle turns the verb from having a sense of "coming" to having a sense of "running" or "coming strongly")
+        
+        there is an illative conjunction "kep", homophonous with the semblative postposition.
+        there is an adversative/alternative conjunction "leke"
 

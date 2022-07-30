@@ -92,7 +92,7 @@ phonology:
                 ɾ
     
     /n/, /t/, /d/, /l/, and /ɾ/ are denti-alveolar
-    word-final plosives/affricates are devoiced. /k/ and /g/ are lenited to /x/ in coda position
+    word-final plosives are devoiced. /k/ and /g/ are lenited to /x/ in coda position
     /l/ is realized as [ɫ] before back vowels and both /ə/s, and after those vowels in coda position
     /ɦ/ is a weak glottal transition
 
@@ -115,7 +115,7 @@ phonology:
     /e/, /ø/, /ɨ/, /ʉ/, /a/, and /oː/ are near cardinal
     /u/ (and /uː/) are back and slightly lower than cardinal; [u̞]
     
-    phrase-final vowels are often devoiced
+    phrase-final vowels (open syllables only) are often devoiced
 
 phonotactics-y stuff:
     - word-final stress
@@ -172,8 +172,9 @@ vowel harmony:
          OPEN   aː        əː                  oː
     
     vowel harmony applies to grammatical prefixes and suffixes
-    for prefixes, all the vowels of the prefix all harmonize with the following vowel after the prefix
-    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
+    for prefixes, the last vowel of the prefix harmonizes with the following vowel after the prefix, and the previous vowels of the prefix harmonize with the vowel that follows them
+    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the following vowels of the suffix harmonize with the vowel before them
+    this system results in the vowels in affixes rotating through vowel space
     if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
     
     in this document we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)
@@ -342,7 +343,7 @@ grammar:
             genitive | noun-pE     | a²nha²kpe "the enemy's" [more on this below]
               dative | noun-(B)d   | a²nha²ka²d "to/for the enemy"
             locative | noun-(s)AyF | a²nha²ka²ye "at the enemy"
-        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "with the enemy"
+        instrumental | noun-OǧFnCk | a²nha²ka²ǧenik "using the enemy"
         
         in the poetic register nouns can be declined for the lative and ablative cases:
              case    |   suffix    | example declension of a²nha²k "enemy"
@@ -361,11 +362,11 @@ grammar:
             ga²ǧa²-pe   ža¹
             night-GEN   life
             "the life of the night"
-           
+            
             ga²ǧa²      ža¹-nı
             night       life-POSSD
             "the night's life [alienable]"
-           
+            
             ga²ǧa²-pe   ža¹-nı
             night-GEN   life-POSSD
             "the night's life [inalienable]"
@@ -379,6 +380,7 @@ grammar:
             ža¹-      e-ga²n
             life      EZ-good
             "the life of good" / "the life which is good"
+        ezafe is written with two hyphens around the F-, e.g. ža-e-gaǧa
         
         there are a few prefixes that can go on nouns:
              name    |   prefix    | example declension of a²nha²q "enemy"
@@ -510,8 +512,10 @@ grammar:
             şa¹ħa¹-su "that which makes me"
     
     postpositions:
-        lative postposition: lı
-        ablative postposition: loda¹
+        lative postposition: lı "to"
+        ablative postposition: loda¹ "from"
+        inessive postposition: men "in"
+        semblative postposition: keb "like"
         adverbial postposition: ve (usually unstressed)
     
     adjectives:
@@ -559,7 +563,7 @@ grammar:
         the tenses are past, present, and future.
         verbs conjugate for tense and mood. moods:
             indicative - the speaker is stating a fact
-            categorical - the speaker is confident that the event has happened/is happening/will happen
+            categorical - the speaker is confident that the event has happened/will happen
             imperative - the speaker is ordering that the event happens
             subjunctive - used in relative clauses for actions that are not factual
             interrogative - the speaker is asking whether the event has happened/is happening/will happen
@@ -608,16 +612,18 @@ grammar:
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)
             - aforementioned tense/mood suffixes
             - aforementioned aspect suffixes
+            - [causative: -Os] [the causative suffix may be placed here instead, which places emphasis on the causation of the action as opposed to on the action itself]
             - emphatic: -(B)ħ
             - non-finite: -cO
             - agentive: -(F)r (turns a verb into a noun that means "thing that does [verb]". the verb will have its subject- or causer-position personal affix missing)
+            - responsibilitive: -hB (turns a verb into a noun that means "thing that causes [verb] to happen" or "thing that is responsible for [verb] happening". similar to agentive suffix)
             - conjunction: -C (denotes multiple verbs with the same subject and object; if multiple verbs are in a sentence all of them will have the conjunction suffix)
         
         the tense/mood conjugations of the copula a¹ca¹ "to be" are somewhat irregular:
         
                       |    past    |  present   |   future
         ------------------------------------------------------
-           indicative | a¹l        | Ø          | a¹h
+           indicative | a¹l        | (a¹)       | a¹h
         ------------------------------------------------------
           categorical | a¹ta¹      | N/A        | a¹nos
         ------------------------------------------------------
@@ -632,6 +638,8 @@ grammar:
         contrafactual | a¹ta¹                   | ta¹noǧ
         ------------------------------------------------------
           conditional | a¹l                     | a¹h
+        
+        the copula may be omitted in the present indicative.
     
     syntax:
         the language is primarily head-final and has free word order (though SOV is the default).
@@ -648,13 +656,16 @@ grammar:
         
         nouns, adjectives, and non-finite verbs can be made to modify verbs using the adverbial postposition "ve". such adverbial constructs can be placed anywhere in the sentence; there is no default location. nouns can also be made to have adverbial function by placing them in the oblique case, in which case they must come before the verb.
         
-        the copula is null in the present indicative
+        the copula may be omitted in the present indicative
         
         conditional sentences use the conjunction "to", e.g.:
             sanatı             to     sadagkoloħ
             Ø-sO-na²-tF        to     sO-dFg-ko-(O)l-(B)ħ
             3-1-see-PST.CNTF   then   1-to_you-go-PST.COND-EMPH
             "if I saw it then I would've ran to you" (the emphatic particle turns the verb from having a sense of "coming" to having a sense of "running" or "coming strongly")
+        
+        there is an illative conjunction "kep", homophonous with the semblative postposition.
+        there is an adversative/alternative conjunction "leke"
 
 alphabet:
        letter  |  name
@@ -688,7 +699,7 @@ alphabet:
             ü  |  ü
             v  |  ve
             y  |  ye
-            z  |  ze
+            z  |  za²
             ž  |  že
 
 numbers:
@@ -728,15 +739,23 @@ numbers:
 
 word list:
     format: word (word annotated with vowel harmony superscripts) /phonemic transcription/
+    verbs are given in their non-finite form (suffixed with -cO)
+    
+    a (a¹) /ɦə¹/
+        1. (v. trans.) be; see aca
     
     a (a²) /ɦə²/
         1. (art.) indefinite article. from proto *ay /hɑj/ "one"
+        2.
+            a. (part.) (colloquial) yes. from proto *a /hɑ/ "id."
+            b. (intj.) (colloquial) yeah, okay; understood. from proto *a /hɑ/ "id."
+            c. (intj.) (colloquial) huh? hmm? from proto *a /hɑ/ "id."
     
-    aca (a²ca²) /ɦə²dʒə²/
-        1. (v. trans.) copula; "to be". from proto *a /hɑ/ "id.". conjugations:
+    aca (a¹ca¹) /ɦə¹dʒə¹/
+        1. (v. trans.) copula; "to be". from proto *ö /hø/ "id.". conjugations:
                           |    past    |  present   |   future
             ------------------------------------------------------
-               indicative | a¹l        | Ø          | a¹h
+               indicative | a¹l        | (a¹)       | a¹h
             ------------------------------------------------------
               categorical | a¹ta¹      | N/A        | a¹nos
             ------------------------------------------------------
@@ -751,6 +770,12 @@ word list:
             contrafactual | a¹ta¹                   | ta¹noǧ
             ------------------------------------------------------
               conditional | a¹l                     | a¹h
+    
+    aǧçi (a²ǧçi) /ɦoːtʃe/
+        1. (n.) religion. from proto *aǧçi /hɑːtʃi/ "id."
+    
+    alah (a²la²h) /ɦə²loːɦ/ (irregular spelling; phonetic respelling alaǧ)
+        1. (n.) god. from arabic allah
     
     anhak (a²nha²k) /ɦə²ŋə²x/
         1. (n.) enemy. from proto *anhaq /hɑnxɑq/ "id."
@@ -793,8 +818,34 @@ word list:
     azra (a²zra²) /ɦə²zɾə²/
         1. (n.) one thousand. from proto *azra /hɑzɾɑ/ "id."
     
+    banca (ba²nca²) /bə²ndʒə²/
+        1. (v. trans.) to make. from proto *ban /bɑn/ "id."; see elce, yapca
+    
     baraz (ba²ra²z) /bə²ɾə²z/
         1. (n.) one hundred thousand. from proto *baraz /bɑɾɑz/ "id."
+    
+    berce (berce) /bardʒa/
+        1. (v. trans.) to give. from proto *ber /ber/ "id."
+            - in reflexive form "zalberce" this is lexicalized to "to transact; to trade; to barter; to buy; to sell"
+            - in emphatic form "beraħca" this is lexicalized to "to gift"
+    
+    bilce (bilce) /beldʒa/
+        1. (v. trans.) to know; to understand. from proto *bil /bil/
+    
+    cana (ca²na¹) /dʒə²nə¹/
+        1. (v. intrans.) to be good. from (the indefinite lenition of) gan /gə²n/ "good thing" and the copula a /ə¹/ "be"
+    
+    capçıca (ca²pçıca²) /dʒə²ptʃə²dʒə²/
+        1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/ "id."
+    
+    dah (da²h) /də²h/
+        1. (n.) beauty; a beauty, something beautiful. from proto *dah /dɑx/ "id."
+    
+    dil (dil) /del/
+        1. (n.) heart; soul. from proto *dil /dil/ "id.", from persian dil "id."
+        2. (n.) resolve; internal strength; courage. see (1.)
+        3. (n.) want; need; desire; emotion. see (1.)
+        4. (n.) mind; thought. see (1.)
     
     e (e) /ɦa/
         1. (pron.) third person singular pronoun; "he", "she", "it", etc. from proto *e /he/ "id.". forms:
@@ -821,6 +872,12 @@ word list:
     eece (eece) /ɦaɦadʒa/
         1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
     
+    elce (elce) /ɦaldʒa/
+        1. (v. trans.) (poetic) to do; to make. from proto *el /hel/ "id."; see banca, yapca
+    
+    etce (etce) /ɦatdʒa/
+        1. (v. trans.) to say; to tell. from proto *et /het/ "id."; see paǧca
+    
     em (em) /ɦam/
         1. (pron.) singular relative pronoun; used to refer back to the antecedent. related to eǧam /ɦaːɦə²m/, the singular proximal demonstrative pronoun. forms:
                          |   sg   |   pl
@@ -846,19 +903,29 @@ word list:
     gan (ga²n) /gə²n/
         1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
     
+    ganhab (ga²nha¹b) /gə²ŋə¹p/
+        1. (n.) a pet. from gan /gə²n/ "good thing" and hab /ha¹b/ "animal"
+    
     ganlı (ga²nlı) /gə²nlɨ/
         1. (adj.) good. adjectival form of gan /gə²n/ "good thing"
     
     gaǧa (ga²ǧa²) /gə²ːɦə²/
         1. (n.) night. from proto *gaǧa /gɑʁɑ/ "id."
     
-    ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
-        1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization of (2.).
-        2. (v. trans.) imperfective form of "like"; to be liking. this conjugation is irregular
+    hab (ha¹b) /hə¹p/
+        1. (n.) animal. from proto *hab /xɑb/ "id."
     
-    ħanuǧo (ħa¹nuǧo) /xə¹nʉːɦu/
-        1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization of (2.).
-        2. (v. trans.) universal form of "like"; to always like and always have liked. this conjugation is irregular
+    hazca (ha¹zca¹) /hə¹ʒdʒə¹/
+        1. (v. intrans.) to sleep. from proto *höz /xøz/ "id."
+    
+    hazho (ha¹zho) /hə¹ʒhu/
+        1. (n.) opium. from the responsibilitive of haz "sleep"; literally "thing that causes sleep"
+    
+    ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
+        1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization/contraction of ħanütunçi /xə¹nøtʉntʃe/ "to be liking", the imperfective form of "like"
+    
+    ħanuǧoco (ħa¹nuǧo) /xə¹nʉːɦudʒu/
+        1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization/contraction of ħanüuǧo /xə¹nøɦʉːɦu/ "~to always like and always have liked", the universal form of "like"
     
     ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
         1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
@@ -888,8 +955,20 @@ word list:
             -------------------------------
             instrumental | eǧnik  | iǧnik
     
+    leke (leke) /laka/
+        1. (conj.) but; or, nor. from proto *leke /leke/ "id."
+    
+    lice (lice) /ledʒa/
+        1. (v. trans.) to get; to take; to receive. from proto *l- /l/ "id."
+    
     ke (ke) /ka/
         1. (n.) two; both. from proto *ke /ke/ "id."
+    
+    keb (keb) /kap/
+        1. (postp.) semblative postposition; "like", "as". from proto *keb /keb/ "id."
+    
+    kep (kep) /kap/
+        1. (conj.) so. from proto *kep /kep/ "id."
     
     keli (keli) /kale/
         1. (adj.) dual. adjectival form of ke /ka/ "two"
@@ -897,11 +976,16 @@ word list:
     kene (kene) /kana/
         1. (n.) twenty. from proto *ke /ke/ "two" + *yön /jøn/ "ten"
     
-    ko (ko) /ku/
-        1. (v. intrans.) to go. from proto *ko /ko/
+    kırca (kırca²) /kɨɾdʒə²/
+        1. (v. trans.) to break; to shatter. from proto *kır /kɯɾ/ "id."
+        2. (v. trans.) to hurt (emotionally); to devastate (emotionally). see (1.)
     
-    koħ (koħ) /kux/
-        1. (v. intrans.) to run. lexicalized emphatic form of ko /ku/ "go"
+    koco (koco) /kudʒu/
+        1. (v. intrans.) to go. from proto *ko /ko/ "id."
+            - in emphatic form "koħco" this is lexicalized to "to run"
+    
+    kodco (kodco) /kuddʒu/
+        1. (v. trans.) to put; to place. from proto *kod /kod/ "id."
     
     lat (la²t) /lə²t/
         1. (n.) six. from proto *lat /lɑt/ "id."
@@ -913,10 +997,16 @@ word list:
         1. (postp.) ablative postposition; "from". from proto *lodö /lodø/ "id."
     
     loǧ (loǧ) /loː/
-        1. (n.) person. from proto *loǧ /loʁ/
+        1. (n.) person. from proto *loǧ /loʁ/ "id."
     
     lı (lı) /lɨ/
         1. (postp.) lative postposition; "to". from proto *lı /lɯ/ "id."
+    
+    makca (ma²kca²) /mə²kdʒə²/
+        1. (v. intrans.) to make a sound. from proto *mak /mɑk/ "id."
+    
+    men (men) /man/
+        1. (postp.) inessive postposition; "in". from proto *men /men/ "id."
     
     na (na¹) /nə¹/
         1. (n.) eight. from proto *nö /nø/ "id."
@@ -926,12 +1016,35 @@ word list:
     
     nana (na¹na¹) /nə¹nə¹/
         1. (n.) eighty. from proto *nö /nø/ "eight" + *yön /jøn/ "ten"
-        
+    
+    oes (oes) /ɦuɦaʃ/
+        1. (n.) obsession; lust; desire. from persian hawas, from arabic hawas
+    
+    oo (oo) /ɦuɦoː/ (irregular spelling; phonetic respelling ooǧ)
+        1. (intj.) "oho!"; "aha!". interjection. from proto *oo /hoho/ "id."
+    
+    paǧca (pa²ǧdʒə²) /poːdʒə²/
+        1. (v. trans.) to speak; to opine. from proto *paǧca /pɑʁdʒɑ/ "id."; see etce
+    
+    peres (per) /paɾaʃ/
+        1. (postp.) part. from proto *peres /peɾes/ "id."
+    
+    pes (pes) /paʃ/
+        1.
+            a. (n.) one's vicinity. from proto *pes /pes/ "id."
+            b. (n.) one's company; one's possession. metaphorical extension of (1.)
+    
     pis (pis) /peʃ/
         1. (n.) five. from proto *pis /pis/ "id."
     
     pişen (pişen) /peʃan/
         1. (n.) fifty. from proto *pis /pis/ "five" + *yön /jøn/ "ten"
+    
+    řoohus (řoohus) /ʒuɦuhʉs/
+        1. (n.) fire. from proto *roohus /ɾohoxus/ "id."
+    
+    řuy (řuy) /ʒʉj/
+        1. (n.) dream; a vision. from proto *ruy /ɾuj/ "id.", from arabic ru'ya
     
     sa (sa²) /sə²/
         1. (pron.) first person singular pronoun; "I", "me", etc. from proto *sa /sɑ/ "id.". forms:
@@ -962,6 +1075,18 @@ word list:
     saçan (sa²ça²n) /sə²tʃə²n/
         1. (n.) seventy. from proto *sat /sɑt/ "seven" + *yön /jøn/ "ten"
     
+    saǧ (sa²ǧ) /soː/
+        1. (n.) right (direction). from proto *saǧ /sɑʁ/ "id."
+            - homophonous with the first person singular accusative pronoun
+    
+    sol (sol) /sul/
+        1. (n.) left (direction). from proto *sol /sol/ "id."
+    
+    sorco (sorco) /suɾdʒu/
+        1. (v. trans.) to ask; to request. from proto *sorco /soɾdʒo/ "id."
+            - in emphatic form "soroħco" this is lexicalized to "to demand"
+            - in reflexive form "zolsorco" this is lexicalized to "to think"
+    
     şipri (şipri) /ʃepɾe/
         1. (n.) zero. from proto *sifri /sifɾi/ "id.", from arabic ṣifr "empty, zero"
     
@@ -977,6 +1102,15 @@ word list:
     ti (ti) /te/
         1. (n.) three. from proto *ti /ti/ "id."
     
+    tik (tik) /tex/
+        1. (n.) edible plant; fruit, vegetable. from proto *tik /tik/ "id."
+    
+    takla (ta²kla²) /tə²klə²/
+        1. (n.) inedible plant; poison. from proto *takla /tɑklɑ/ "id."
+    
+    til (til) /tel/
+        1. (n.) language. from proto *til /til/ "id."
+    
     tine (tine) /tina/
         1. (n.) thirty. from proto *ti /ti/ "three" + *yön /jøn/ "ten"
     
@@ -984,7 +1118,7 @@ word list:
         1. (conj.) then. from proto *to /to/ "id."
     
     ugo (ugo) /ɦʉgu/
-        1. (pron.) second person plural pronoun; "you (pl.)". from proto *ugo /hugo/ "id.". forms:
+        1. (pron.) second person plural/formal pronoun; "you (pl.)". from proto *ugo /hugo/ "id.". forms:
                      |       2P        
                      |   sg   |   pl   
         --------------------------------
@@ -1007,7 +1141,7 @@ word list:
         instrumental | deni   | degin  
     
     uǧ (uǧ) /ɦuː/
-        1. (pron.) second person singular pronoun; "you (sg.)". from proto *uǧ /huʁ/ "id.". forms:
+        1. (pron.) second person singular/informal pronoun; "you (sg.)". from proto *uǧ /huʁ/ "id.". forms:
                      |       2P        
                      |   sg   |   pl   
         --------------------------------
@@ -1029,14 +1163,36 @@ word list:
         --------------------------------
         instrumental | deni   | degin  
     
+    umħa (umħa²) /ɦʉmxə²/
+        1. (n.) fool. from proto *umħa /humχɑ/, loaned from arabic ḥamqā/ḥumq "fool(s)"
+    
+    va (va²) /və²/
+        1. (conj.) (poetic) and. from proto *va /vɑ/, loaned from persian/arabic va/wa "id."
+    
     ve (ve) /va/
         1. (postp.) adverbial postposition. from proto *ve /ve/ "id."
+    
+    ved (ved) /vat/
+        1. (part.) yes. from proto *ved /ved/ "id."
+        2. (v. intrans.) agree; see vedce
+    
+    vedce (vedce) /vaddʒa/
+        1. (v. intrans.) to agree. from proto *ved /ved/ "id."
     
     yan (ya¹n) /jə¹n/
         1. (n.) ten. from proto *yön /jøn/ "id."
     
+    yapca (ya²pca²) /jə²pdʒə²/
+        1. (v. trans.) to do. from proto *yap /jɑp/ "make, do"; see banca, elce
+    
     yazra (ya²zra²) /jə²zɾə²/
         1. (n.) ten thousand. from proto *yön /jøn/ "ten" + *azra /hɑzɾɑ/ "thousand"
+    
+    yok (yok) /jux/
+        1. (intj.) no. from proto *yok /jok/ "is not"
+    
+    yokco (yokco) /jukdʒu/
+        1. (v. intrans.) is not; does not exist. from proto *yok /jok/ "id."
     
     za (za²) /zə²/
         1. (pron.) first person plural pronoun; "we", "us", etc. from proto *za /zɑ/ "id". forms:
@@ -1062,71 +1218,130 @@ word list:
             instrumental | sıa²   | ženi   
     
     zice (zice) /ʒedʒa/
-        1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
+        1. (v. intrans.) to win; to struggle with a positive outcome. from proto *z- /z/ "id."
     
     ža (ža¹) /ʒə¹/
         1. (n.) life; existence. from proto *zö /zø/ "id."
 
-suzies /sʉzeɦaʃ/ (v.) "they make them win [negative-attitude]"
+suzies /sʉʒeɦaʃ/ (v.) "they make them win [negative-attitude]"
     su-Ø-Ø-z-i-Os-Ø
     NEGATT-3-3-win-EP-CAUS-PRS.IND
-    negative-attitude 3P-causee 3P-causer present indicative causative form of zice "to win"
+    negative-attitude 3P-causee 3P-causer present indicative causative form of zi "win"
+    relevant dictionary entry:
+        zice (zice) /ʒedʒa/
+            1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
 
 masee /mə²saɦa/ (v.) "you(pl) laugh"
     mB(s)-ee-Ø
     2PL-laugh-PRS.IND
-    2PL-subject present indicative form of eece "to laugh"
+    2PL-subject present indicative form of ee "laugh"
+    relevant dictionary entry:
+        eece (eece) /ɦaɦadʒa/
+            1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
 
-umħa /ɦʉmxə¹/ (n.)
+umħa /ɦʉmxə²/ (n.) "fool"
     umħa
+    "fool", loaned from arabic ḥumq
+    relevant dictionary entry:
+        umħa (umħa²) /ɦʉmxə²/
+            1. (n.) fool. from proto /humχɑ/, loaned from arabic ḥamqā/ḥumq "fool(s)"
 
-oespe /ɦuɦaspa/ (n.)
+oespe /ɦuɦaʃpa/ (n.) "obsession's"
     oes-pE
-    genitive form of oes
+    obsession-GEN
+    genitive form of oes "obsession", loaned from persian hawas, from arabic hawas
+    relevant dictionary entry:    
+        oes (oes) /ɦuɦaʃpa/
+            1. (n). obsession; lust; desire. from persian hawas, from arabic hawas
 
 ħantunçir /xə¹ntʉntʃeɾ/ (n.) "one who has a crush"
     Ø-ħa¹nü-Ø-tBnçi-(F)r
     3-like-PRS.IND-NPFV-AGNZ
-    agentive of the 3P-object present indicative form of ħantunçice ("to love [temporarily]"), itself the (irregular) imperfective form of ħa¹nüca¹ "to like"
-    the word for "to love [seriously]" is also derived from ħa¹nüca¹: it is the universal form, ħa¹nuǧo
+    agentive of the 3P-object present indicative form of ħantunçi ("love [temporarily]"), itself the (irregular) imperfective form of ħa¹nü "like"
+    the word for "to love [seriously]" is also derived from ħa¹nü: it is the universal form, ħa¹nuǧo
+    relevant dictionary entries:
+        ħantunçice (ħa¹ntunçice) /xə¹ntʉntʃedʒa/
+            1. (v. trans.) to love (temporarily); to have a crush on. metaphorical lexicalization/contraction of ħanütunçi /xə¹nøtʉntʃe/ "to be liking", the imperfective form of "like"
+        ħanuǧoco (ħa¹nuǧo) /xə¹nʉːɦudʒu/
+            1. (v. trans.) to love (seriously); to be in a serious relationship with. metaphorical lexicalization/contraction of ħanüuǧo /xə¹nøɦʉːɦu/ "~to always like and always have liked", the universal form of "like"
+        ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
+            1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
 
-řoohus /ʒuɦuhʉs/ (n.)
+řoohus /ʒuɦuhʉs/ (n.) "fire"
     řoohus
+    "fire"
+    relevant dictionary entry:
+        řoohus (řoohus) /ʒuɦuhʉs/
+            1. (n.) fire. from proto *roohus /rohoxus/ "id."
 
-aǧçir /ɦəːtʃeɾ/ (n.)
-    a¹ǧçi-(B)r
-    accusative form of aǧçi
+aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
+    a²ǧçi-(B)r
+    religion-ACC
+    accusative form of aǧçi "religion"
+    relevant dictionary entry:
+        aǧçi (a²ǧçi) /ɦoːtʃe/
+            1. (n.) religion. from proto *aǧçi /hɑːtʃi/
 
-oo /ɦuɦoː/ (intr.) "oho!; aha!" [spelling is irregular]
-    interjection. from proto *oo /ɦoɦo/
+oo /ɦuɦoː/ (irregular spelling) (intj.) "oho!; aha!"
+    oo
+    interjection. from proto *oo /hoho/
+    relevant dictionary entry:
+        oo (oo) /ɦuɦoː/ (irregular spelling; phonetic respelling ooǧ)
+            1. (intj.) "oho!"; "aha!". interjection. from proto *oo /hoho/
 
-capças /dʒə²ptʃə²s/ (v.)
+capças /dʒə²ptʃə²s/ (v.) "they make them eat it"
     Ø-Ø-Ø-ca²pçı-Os-Ø
     3-3-3-ca²pçı-CAUS-PRS.IND
     3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
+    relevant dictionary entry:
+        capçıca (ca²pçıca²) /dʒə²ptʃə²dʒə²/
+            1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/
 
 manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
     Ø-mB(s)-na²~(O)rna²-tF
     3-2PL-see~FREQ-CAT.PST
-    3P-object 2PL-subject past categorical frequentative form of na²ca² "to see"
+    3P-object 2PL-subject past categorical frequentative form of na² "see"
+    relevant dictionary entry:
+        naca (na²ca²) /nə²dʒə²/
+            1. (v. trans.) to see; to look at. from proto *na /nɑ/ "id."
 
 caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
     *-ga²n-gI-(B)r
     NDEF-good-PL-ACC
     indefinite lenition of the accusative plural form of ga²n "good thing"
+    relevant dictionary entry:
+        gan (ga²n) /gə²n/
+            1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
 
-ganhabod /gə²ŋə¹but/ (n.)
+ganhabod /gə²ŋə¹but/ (n.) "for the pet"
     ga²nha¹b-(B)d
-    dative form of ga²nha¹b
+    pet-DAT
+    dative form of ga²nha¹b, compound noun of ga²n "good" and ha¹b "animal"
+    relevant dictionary entries:    
+        gan (ga²n) /gə²n/
+            1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
+        hab (ha¹b) /hə¹p/
+            1. (n.) animal. from proto *hab /xɑb/ "id."
+        ganhab (ga²nha¹b) /gə²ŋə¹p/
+            1. (n.) a pet. from gan /gə²n/ "good thing" and hab /ha¹b/ "animal"
 
-hazhod /hə²zhut/ (n.)
-    ha²zho-(B)d
-    dative form of ha²zho
+hazhod /hə¹zhut/ (n.) "for opium"
+    ha¹z-hB-(B)d
+    sleep-RESPONS-DAT
+    dative form of ha¹zho "opium", the responsibilitive of ha¹z "sleep"
+    relevant dictionary entries:
+        hazca (ha¹zca¹) /hə¹ʒdʒə¹/
+            1. (v. intrans.) to sleep. from proto *höz /xøz/
+        hazho (ha¹zho) /hə¹ʒhu/
+            1. (n.) opium. from the responsibilitive of haz "sleep"; literally "thing that causes sleep"
 
 žar /ʒə¹ɾ/ (n.) "for life"
     ža¹-(B)r
     life-DAT
     dative form of ža "life"
+    relevant dictionary entry:
+        ža (ža¹) /ʒə¹/
+            1. (n.) life; existence. from proto *zö /zø/ "id."
 
 alternatively:
 
@@ -1134,16 +1349,22 @@ alternatively:
     ža¹-(O)r
     life-ABL
     ablative form of ža "life"
+    relevant dictionary entry:
+        ža (ža¹) /ʒə¹/
+            1. (n.) life; existence. from proto *zö /zø/ "id."
 
-canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them good"
+canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them be good"
     Ø-Ø-ca²na¹-Ø-tBnçi-Os
     3-3-be_good-PRS.IND-NPFV-CAUS
-    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ca¹ "to be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and a¹ca¹ "to be"
+    3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ "be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and the copula a¹
+    the causative being placed after the TAM affixes places more emphasis on the causation of the action (~"they are *making* them be good") than on the action itself
+    relevant dictionary entry:
+        1. (v. intrans.) to be good. from (the indefinite lenition of) gan /gə²n/ "good thing" and the copula a /ə¹/ "be"
 
 PHRASE: "Caňgir žar manarnate."
          Caňgir             žar            manarnate.
         /dʒə²ŋgeɾ           ʒə¹ɾ           mə²nə²ɾnə²ta/
-        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.ˈta]
+        [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.tḁ]
     (a²) *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
          NDEF-good-PL-ACC   life-DAT/ABL   3-2PL-see~FREQ-CAT.PST
          "you(pl) [definitely, frequently] saw some good things for/from life" (poetic register)

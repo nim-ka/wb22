@@ -13,8 +13,9 @@ vowel harmony:
          OPEN   aː        əː                  oː
     
     vowel harmony applies to grammatical prefixes and suffixes
-    for prefixes, all the vowels of the prefix all harmonize with the following vowel after the prefix
-    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the subsequent vowels of the suffix rotate a certain direction through vowel space. this will be explained more later
+    for prefixes, the last vowel of the prefix harmonizes with the following vowel after the prefix, and the previous vowels of the prefix harmonize with the vowel that follows them
+    for suffixes, the first vowel of the suffix harmonizes with the precededing vowel before the suffix, and the following vowels of the suffix harmonize with the vowel before them
+    this system results in the vowels in affixes rotating through vowel space
     if an affix is being applied to a root that doesn't have a vowel (some roots are just a single consonant), each vowel harmony type has a cardinal form to use in that case.
     
     in this document we will be using a¹ and a² in the orthography to distinguish /ə¹/ and /ə²/ (and similarly a¹ǧ and a²ǧ for /əː/ and the a² variant of /oː/)

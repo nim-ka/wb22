@@ -30,6 +30,6 @@ alphabet:
             ü  |  ü
             v  |  ve
             y  |  ye
-            z  |  ze
+            z  |  za²
             ž  |  že
 
