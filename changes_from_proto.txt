@@ -14,7 +14,7 @@ several phonological changes then take place:
         ɦɑj m* "ay m*" ==>  ɦɑ m* "a m*"
         ɦɑj n* "ay n*" ==>  ɦɑ ŋ* "a ň*"
         ɦɑj p* "ay p*" ==>  ɦɑ b* "a b*"
-        ɦɑj b* "ay b*" ==>  ɦɑ b* "a b*"
+        ɦɑj b* "ay b*" ==>  ɦɑ v* "a v*"
         ɦɑj t* "ay t*" ==>  ɦɑ s* "a s*"
         ɦɑj d* "ay d*" ==>  ɦɑ z* "a z*"
        ɦɑj tʃ* "ay ç*" ==>  ɦɑ ʃ* "a ş*"

@@ -19,7 +19,7 @@ grammar:
               lative | noun-tF     | a²nha²kte "to the enemy"
             ablative | noun-(O)r   | a²nha²ka²r "from the enemy"
 
-        nouns can mark number with the plural suffix -gI. the plural suffix replaces word-final ǧ, making the vowel short.
+        nouns can mark number with the plural suffix -gI. the plural suffix replaces word-final ǧ, making the vowel short. in the poetic register, number marking is optional.
         
         indefiniteness can be marked with the indefinite marking particle "a²" (derived from the word for 1, "a²y"), which can trigger a lenition change on the following consonant, as described in the phonological changes section:
             ga²ǧa² /goːɦə/ "[the] night"
@@ -178,6 +178,8 @@ grammar:
         the ezafe construct and the "maker" prefix require the genitive case:
             ža¹-a¹-ħa¹-su "the life which is mine"
             şa¹ħa¹-su "that which makes me"
+        
+        most pronouns can be used as determiners by placing them before a noun to modify. they must agree in case with the noun.
     
     postpositions:
         lative postposition: lı "to"
@@ -243,7 +245,7 @@ grammar:
         ------------------------------------------------------
            indicative | -lB        | -Ø         | -hF
         ------------------------------------------------------
-          categorical | -tF        | N/A        | -nBs
+          categorical | -tF        | N/A        | -nCs
         ------------------------------------------------------
            imperative | N/A        | -yO        | -yOs
         ------------------------------------------------------
@@ -263,7 +265,7 @@ grammar:
             - universal (signifying that the event always happens, or that something is true everywhere or true always): marked with -BǧO
             - frequentative: marked with reduplication; the verb root is modified by adding -(O)r and then adding the first syllable of the verb root, minus any coda consonant (e.g. zie => zierzi)
         
-        verbal affixes, in order of application from left to right:
+        verbal affixes, in rough order of application from left to right:
             - positive-attitude: gu- (denotes the speaker has a positive attitude towards the action)
             - negative-attitude: su- (denotes the speaker has a negative attitude towards the action)
             - interest: kC- (denotes the speaker [and potentially also the listener] holding an interest or stake in the action)
@@ -274,7 +276,7 @@ grammar:
             - speaker-facing: gC- (denotes movement towards the speaker or towards both the speaker and the listener)
             - listener-facing: dCg- (denotes movement towards the listener but not towards the speaker)
             - passive voice: nB- (valency-decreasing)
-            - negative: mC-
+            - negative: mCk-
             - negative (imperative): çOk-
             - aforementioned intransitive epenthetic -i
             - causative: -Os (when following a vowel, it replaces that vowel unless it is i)

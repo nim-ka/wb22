@@ -1,10 +1,12 @@
-suzies /sʉʒeɦaʃ/ (v.) "they make them win [negative-attitude]"
+----- GIVEN WORDS -----
+
+suzies /sʉʒeɦaʃ/ (v.) "they make them win [and I don't like it]"
     su-Ø-Ø-z-i-Os-Ø
     NEGATT-3-3-win-EP-CAUS-PRS.IND
     negative-attitude 3P-causee 3P-causer present indicative causative form of zi "win"
     relevant dictionary entry:
         zice (zice) /ʒedʒa/
-            1. (v. intrans.) to win; to struggle with a positive outcome. from proto *zi /zi/ "id."
+            1. (v. intrans.) to win; to struggle with a positive outcome. root z-; from proto *z- /z/ "id."
 
 masee /mə²saɦa/ (v.) "you(pl) laugh"
     mB(s)-ee-Ø
@@ -47,7 +49,7 @@ oespe /ɦuɦaʃpa/ (n.) "obsession's"
     "fire"
     relevant dictionary entry:
         řoohus (řoohus) /ʒuɦuhʉs/
-            1. (n.) fire. from proto *roohus /rohoxus/ "id."
+            1. (n.) fire. from proto *roohus /ɾohoxus/ "id."
 
 aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
     a²ǧçi-(B)r
@@ -55,7 +57,7 @@ aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
     accusative form of aǧçi "religion"
     relevant dictionary entry:
         aǧçi (a²ǧçi) /ɦoːtʃe/
-            1. (n.) religion. from proto *aǧçi /hɑːtʃi/
+            1. (n.) religion. from proto *aǧçi /hɑːtʃi/ "id."
 
 oo /ɦuɦoː/ (irregular spelling) (intj.) "oho!; aha!"
     oo
@@ -70,7 +72,7 @@ capças /dʒə²ptʃə²s/ (v.) "they make them eat it"
     3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
     relevant dictionary entry:
         capçıca (ca²pçıca²) /dʒə²ptʃə²dʒə²/
-            1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/
+            1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/ "id."
 
 manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
     Ø-mB(s)-na²~(O)rna²-tF
@@ -100,7 +102,7 @@ ganhabod /gə²ŋə¹but/ (n.) "for the pet"
         ganhab (ga²nha¹b) /gə²ŋə¹p/
             1. (n.) a pet. from gan /gə²n/ "good thing" and hab /ha¹b/ "animal"
 
-hazhod /hə¹zhut/ (n.) "for opium"
+hazhod /hə¹ʒhut/ (n.) "for opium"
     ha¹z-hB-(B)d
     sleep-RESPONS-DAT
     dative form of ha¹zho "opium", the responsibilitive of ha¹z "sleep"
@@ -112,8 +114,8 @@ hazhod /hə¹zhut/ (n.) "for opium"
 
 žar /ʒə¹ɾ/ (n.) "for life"
     ža¹-(B)r
-    life-DAT
-    dative form of ža "life"
+    life-ACC
+    accusative form of ža "life"
     relevant dictionary entry:
         ža (ža¹) /ʒə¹/
             1. (n.) life; existence. from proto *zö /zø/ "id."
@@ -134,12 +136,60 @@ canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them be good"
     3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ "be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and the copula a¹
     the causative being placed after the TAM affixes places more emphasis on the causation of the action (~"they are *making* them be good") than on the action itself
     relevant dictionary entry:
-        1. (v. intrans.) to be good. from (the indefinite lenition of) gan /gə²n/ "good thing" and the copula a /ə¹/ "be"
+        cana (ca²na¹) /dʒə²nə¹/
+            1. (v. intrans.) to be good. from (the indefinite lenition of) gan /gə²n/ "good thing" and the copula a /ə¹/ "be"
 
 PHRASE: "Caňgir žar manarnate."
          Caňgir             žar            manarnate.
         /dʒə²ŋgeɾ           ʒə¹ɾ           mə²nə²ɾnə²ta/
         [dʒəŋ.ˈgeɾ          ˈʒəɾ           mə.nəɾ.nə.tḁ]
     (a²) *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
-         NDEF-good-PL-ACC   life-DAT/ABL   3-2PL-see~FREQ-CAT.PST
-         "you(pl) [definitely, frequently] saw some good things for/from life" (poetic register)
+         NDEF-good-PL-ACC   life-ABL       3-2PL-see~FREQ-CAT.PST
+         "you(pl/formal) [definitely, frequently] saw some good things from life" (poetic register)
+
+i wrote a poem! translation liberal
+
+    Caňgir žar manarnate.           You've seen many good things from life.
+    [dʒəŋˈgeɾ ˈʒəɾ mənəɾnəˈta]
+    Mımikbilce sukımadaste.         You let yourself forget them, and I'm worried.
+    [mɨmexbelˈdʒa sʉkɨmədəsˈta]
+    Bur-a-ža mıhmıknatas.           Life's trials made you unable to see them.
+    [bʉɾ-ə-ˈʒə mɨhmɨxnəˈtəs]
+    Burtü zalmaçekberyeħ.           Don't give yourself away to them.
+    [bʉɾˈtø zəɫmətʃaxbaɾˈjax]
+    Oǧ dilni naçakıryaħ.            Don't let your soul be broken.
+    [ˈɦoː delˈne nətʃəkɨɾˈjəx]
+    Buror kımaçokoyoħ;              Don't run away from them;
+    [bʉˈɾur kɨmətʃukuˈjux]
+    Vor dice ve dugkonosuħ.         They will be able to run to you too.
+    [ˈvuɾ deˈdʒa va dʉxkunusˈʉx]
+    
+    Cangir             žar            manarnate.
+    *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
+    NDEF-good-PL-ACC   life-ABL       3-2PL-see~FREQ-CAT.PST
+    "you [definitely, frequently] saw some good things from life"
+    
+    Mımikbilce                sukımadaste.
+    Ø-mB(s)-mCk-bil-cO-Ø      su-kC-Ø-mB(s)-d-Os-tF
+    3-2PL-NEG-know-NFIN-NOM   NEGATT-HOR-3-2PL-able-CAUS-CAT.PST
+    "your not knowing of them, you [definitely] allowed it to happen [speaker has a negative attitude towards the event, and specifies their interest/stake in the event]"
+    
+    Bur-a-ža          mıhmıknatas.
+    bur-F-ža¹         Ø-mB(s)-h-mCk-na²-tF-Os
+    bad-EZ-life-NOM   3-2PL-3-NEG-see-CAT.PST-CAUS
+    "the bad things of life have [definitely] caused you not to see them [the good things mentioned earlier]"
+    
+    Oǧ        dilni         naçakıryaħ.
+    oǧ        dil-nC        Ø-nB-çOk-kır-yO-(B)ħ
+    2SG.GEN   heart-POSSD   3-PASS-IMP.NEG-break-PRS.IMP-EMPH
+    "[emphatically] do not be broken, your[informal] heart" (the word dil here as loaned from persian has a range of meanings, ranging from "heart" to "soul" to "mind" to "resolve" to "courage". the word for "to break" here also has the secondary meaning of "to emotionally devastate". also, the possession here in "your heart" is inalienable.)
+    
+    Buror     kımaçokoyoħ;
+    bur-(O)r  kC-mB(s)-çOk-ko-yO-(B)ħ
+    bad-ABL   HOR-2PL-IMP.NEG-go-PRS.IMP-EMPH
+    "do not run[go strongly] from the bad things [speaker specifies their stake in the event]"
+    
+    Vor    dice        ve    dugkonusuħ.
+    vor    di-cO       ve    Ø-dCg-ko-nCs-(B)ħ
+    also   able-NFIN   ADV   3-to_you-go-CAT.FUT-EMPH
+    "they too will be able to run[go strongly] to you"

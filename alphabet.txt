@@ -8,7 +8,7 @@ alphabet:
             d  |  de
             e  |  e
             g  |  ge
-            ǧ  |  ge mıma²kca²lı ["not-making-sound-like g"]
+            ǧ  |  ge mıkma²kca²lı ["not-making-sound-like g"]
             h  |  he
             ħ  |  ħe
             ı  |  ı
@@ -20,7 +20,7 @@ alphabet:
             ň  |  ňe
             o  |  o
             p  |  pe
-            q  |  qa²p [used for loan words]
+            q  |  qa²p [used for some loan words]
             r  |  er
             ř  |  er želi ["ž-like r"]
             s  |  sa²
