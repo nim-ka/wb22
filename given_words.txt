@@ -1,6 +1,6 @@
 ----- GIVEN WORDS -----
 
-suzies /sʉʒeɦaʃ/ (v.) "they make them win [and I don't like it]"
+suzies /sʉʒeɦaʃ/ [sʉʒeˈɦaʃ] (v.) "they make them win [and I don't like it]"
     su-Ø-Ø-z-i-Os-Ø
     NEGATT-3-3-win-EP-CAUS-PRS.IND
     negative-attitude 3P-causee 3P-causer present indicative causative form of zi "win"
@@ -8,7 +8,7 @@ suzies /sʉʒeɦaʃ/ (v.) "they make them win [and I don't like it]"
         zice (zice) /ʒedʒa/
             1. (v. intrans.) to win; to struggle with a positive outcome. root z-; from proto *z- /z/ "id."
 
-masee /mə²saɦa/ (v.) "you(pl) laugh"
+masee /mə²saɦa/ [məsaˈɦa] (v.) "you(pl) laugh"
     mB(s)-ee-Ø
     2PL-laugh-PRS.IND
     2PL-subject present indicative form of ee "laugh"
@@ -16,14 +16,14 @@ masee /mə²saɦa/ (v.) "you(pl) laugh"
         eece (eece) /ɦaɦadʒa/
             1. (v. intrans.) to laugh. from proto *ee /hehe/ "id.", of onomatopoeic origin
 
-umħa /ɦʉmxə²/ (n.) "fool"
+umħa /ɦʉmxə²/ [ɦʉmˈxə] (n.) "fool"
     umħa
     "fool", loaned from arabic ḥumq
     relevant dictionary entry:
         umħa (umħa²) /ɦʉmxə²/
             1. (n.) fool. from proto /humχɑ/, loaned from arabic ḥamqā/ḥumq "fool(s)"
 
-oespe /ɦuɦaʃpa/ (n.) "obsession's"
+oespe /ɦuɦaʃpa/ [ɦuɦaʃˈpa] (n.) "obsession's"
     oes-pE
     obsession-GEN
     genitive form of oes "obsession", loaned from persian hawas, from arabic hawas
@@ -31,7 +31,7 @@ oespe /ɦuɦaʃpa/ (n.) "obsession's"
         oes (oes) /ɦuɦaʃpa/
             1. (n). obsession; lust; desire. from persian hawas, from arabic hawas
 
-ħantunçir /xə¹ntʉntʃeɾ/ (n.) "one who has a crush"
+ħantunçir /xə¹ntʉntʃeɾ/ [xəntʉnˈtʃeɾ] (n.) "one who has a crush"
     Ø-ħa¹nü-Ø-tBnçi-(F)r
     3-like-PRS.IND-NPFV-AGNZ
     agentive of the 3P-object present indicative form of ħantunçi ("love [temporarily]"), itself the (irregular) imperfective form of ħa¹nü "like"
@@ -44,14 +44,14 @@ oespe /ɦuɦaʃpa/ (n.) "obsession's"
         ħanüca (ħa¹nüca¹) /xə¹nødʒə¹/
             1. (v. trans.) to like. from proto *ħönü /χøny/ "id."
 
-řoohus /ʒuɦuhʉs/ (n.) "fire"
+řoohus /ʒuɦuhʉs/ [ʒuɦuˈhʉs] (n.) "fire"
     řoohus
     "fire"
     relevant dictionary entry:
         řoohus (řoohus) /ʒuɦuhʉs/
             1. (n.) fire. from proto *roohus /ɾohoxus/ "id."
 
-aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
+aǧçir /ɦoːtʃeɾ/ [ɦoːˈtʃeɾ] (n.) "religion" (accusative)
     a²ǧçi-(B)r
     religion-ACC
     accusative form of aǧçi "religion"
@@ -59,14 +59,14 @@ aǧçir /ɦoːtʃeɾ/ (n.) "religion" (accusative)
         aǧçi (a²ǧçi) /ɦoːtʃe/
             1. (n.) religion. from proto *aǧçi /hɑːtʃi/ "id."
 
-oo /ɦuɦoː/ (irregular spelling) (intj.) "oho!; aha!"
+oo /ɦuɦoː/ [ɦuˈɦoː] (irregular spelling) (intj.) "oho!; aha!"
     oo
     interjection. from proto *oo /hoho/
     relevant dictionary entry:
         oo (oo) /ɦuɦoː/ (irregular spelling; phonetic respelling ooǧ)
             1. (intj.) "oho!"; "aha!". interjection. from proto *oo /hoho/
 
-capças /dʒə²ptʃə²s/ (v.) "they make them eat it"
+capças /dʒə²ptʃə²s/ [dʒəpˈtʃəs] (v.) "they make them eat it"
     Ø-Ø-Ø-ca²pçı-Os-Ø
     3-3-3-ca²pçı-CAUS-PRS.IND
     3P-object 3P-causee 3P-causer present indicative causative form of ca²pçı
@@ -74,7 +74,7 @@ capças /dʒə²ptʃə²s/ (v.) "they make them eat it"
         capçıca (ca²pçıca²) /dʒə²ptʃə²dʒə²/
             1. (v. trans.) to eat. from proto *cafçı /dʒɑftʃɯ/ "id."
 
-manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
+manarnate /mə²nə²ɾnə²ta/ [mənəɾnəˈta] (v.) "you(pl) saw them [definitely, frequently]"
     Ø-mB(s)-na²~(O)rna²-tF
     3-2PL-see~FREQ-CAT.PST
     3P-object 2PL-subject past categorical frequentative form of na² "see"
@@ -82,7 +82,7 @@ manarnate /mə²nə²ɾnə²ta/ (v.) "you(pl) saw them [definitely, frequently]"
         naca (na²ca²) /nə²dʒə²/
             1. (v. trans.) to see; to look at. from proto *na /nɑ/ "id."
 
-caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
+caňgir /dʒə²ŋgeɾ/ [dʒəŋˈgeɾ] (n.) "some good things"
     *-ga²n-gI-(B)r
     NDEF-good-PL-ACC
     indefinite lenition of the accusative plural form of ga²n "good thing"
@@ -90,7 +90,7 @@ caňgir /dʒə²ŋgeɾ/ (n.) "some good things"
         gan (ga²n) /gə²n/
             1. (n.) something that is good; a good thing. from proto *gan /gɑn/ "id."
 
-ganhabod /gə²ŋə¹but/ (n.) "for the pet"
+ganhabod /gə²ŋə¹but/ [gəŋəˈbut] (n.) "for the pet"
     ga²nha¹b-(B)d
     pet-DAT
     dative form of ga²nha¹b, compound noun of ga²n "good" and ha¹b "animal"
@@ -102,7 +102,7 @@ ganhabod /gə²ŋə¹but/ (n.) "for the pet"
         ganhab (ga²nha¹b) /gə²ŋə¹p/
             1. (n.) a pet. from gan /gə²n/ "good thing" and hab /ha¹b/ "animal"
 
-hazhod /hə¹ʒhut/ (n.) "for opium"
+hazhod /hə¹ʒhut/ [həʒˈhut] (n.) "for opium"
     ha¹z-hB-(B)d
     sleep-RESPONS-DAT
     dative form of ha¹zho "opium", the responsibilitive of ha¹z "sleep"
@@ -112,7 +112,7 @@ hazhod /hə¹ʒhut/ (n.) "for opium"
         hazho (ha¹zho) /hə¹ʒhu/
             1. (n.) opium. from the responsibilitive of haz "sleep"; literally "thing that causes sleep"
 
-žar /ʒə¹ɾ/ (n.) "for life"
+žar /ʒə¹ɾ/ [ʒəɾ] (n.) "for life"
     ža¹-(B)r
     life-ACC
     accusative form of ža "life"
@@ -122,7 +122,7 @@ hazhod /hə¹ʒhut/ (n.) "for opium"
 
 alternatively:
 
-žar /ʒə¹ɾ/ (n., poetic) "from life"
+žar /ʒə¹ɾ/ [ʒəɾ] (n., poetic) "from life"
     ža¹-(O)r
     life-ABL
     ablative form of ža "life"
@@ -130,7 +130,7 @@ alternatively:
         ža (ža¹) /ʒə¹/
             1. (n.) life; existence. from proto *zö /zø/ "id."
 
-canatonçies /dʒə²nə¹tuntʃeɦaʃ/ (v.) "they are making them be good"
+canatonçies /dʒənətuntʃeˈɦaʃ/ [dʒə²nə¹tuntʃeɦaʃ] (v.) "they are making them be good"
     Ø-Ø-ca²na¹-Ø-tBnçi-Os
     3-3-be_good-PRS.IND-NPFV-CAUS
     3P-causee 3P-causer present indicative imperfective causative form of ca²na¹ "be good", itself a compound from ca²n, the indefinite lenition of ga²n "good thing", and the copula a¹
@@ -162,7 +162,7 @@ i wrote a poem! translation liberal
     Buror kımaçokoyoħ;              Don't run away from them;
     [bʉˈɾur kɨmətʃukuˈjux]
     Vor dice ve dugkonosuħ.         They will be able to run to you too.
-    [ˈvuɾ deˈdʒa va dʉxkunusˈʉx]
+    [ˈvuɾ deɦˈdʒa va dʉxkunusˈʉx]
     
     Cangir             žar            manarnate.
     *-ga²n-gI-(B)r     ža¹-(O)r       Ø-mB(s)-na²~(O)rna²-tF
@@ -193,3 +193,41 @@ i wrote a poem! translation liberal
     vor    di-cO       ve    Ø-dCg-ko-nCs-(B)ħ
     also   able-NFIN   ADV   3-to_you-go-CAT.FUT-EMPH
     "they too will be able to run[go strongly] to you"
+
+the north wind and the sun: (this translation was annoying because i didnt have enough time to make as many words as i wanted lol)
+    
+    Ava Duk i Dıǧa igı küçmunu zapaǧlatançi; am vakaye a ǧoǧ kokolo, nogaror řul gice ve.
+    [ɦəˈvə ˈdʉx ɦe dɨːˈɦə ɦeˈgɨ køtʃmʉˈnʉ zəpoːɫətənˈtʃe ɦəm vəkəˈya ɦə ˈɦuː kukuˈɫu nugəˈɾuɾ ˈʒʉɫ geɦˈdʒa va]
+    Vedla; mikgirieser aval kie igı cavabad aħır loda küçur bod kinis.
+    [vadˈɫə mexgeɦɾeɦaˈʃaɾ ɦəvˈəɫ keˈɦa ɦeˈgɨ dʒəvəˈbət ɦəˈxɨɾ ɫuˈdə køˈtʃʉɾ ˈbut keɦˈneʃ]
+    Ava Duk avar küçmu tüm berlaħ, leke küç bod ve berteħ to küç bod ve loǧ nogaror gal; kep Ava Duk beraħcar çilı.
+    [ɦəˈvə ˈdʉx ɦəˈvəɾ køtʃˈmʉ ˈtøm baɾˈɫəx laka køˈtʃ ˈbut va baɾˈtax tu ˈkøtʃ ˈbut va ˈɫuː nugəˈɾuɾ ˈgəɫ kap ɦəˈvə ˈdʉx baɾəxˈdʒəɾ tʃeɦˈlɨ]
+    Kep Dıǧa pasar řul ve berla, kep eǧ vakaye loǧ gicer çilı.
+    [kap dɨːˈɦə pəˈsəɾ ˈʒʉl va baɾˈɫə kap ˈɦaː vəkəˈya ˈɫuː geɦˈdʒaɾ tʃeɦˈɫɨ]
+    Kep Dıǧa küçur bod kiri, Ava Duk ram cavabar naberles.
+    [kap dɨːˈɦə køˈtʃʉɾ ˈbut keˈɾe ɦəˈvə ˈdʉx ˈɾəm dʒəvəˈbəɾ nəbaɾˈlaʃ]
+    
+    Ava      Duk   i   Dıǧa     igı     küçmunu            zapaǧlatançi;               am          vakaye     a    ǧoǧ         kokolo,              nogaror            řul  gice          ve.
+    Ava-Ø    Duk   i   Dıǧa-Ø   igı     küç-mB-nC          Ø-zO-paǧ-lB-tBnçi           am          vak-(s)AyF a    *-loǧ-Ø     Ø-kO-ko-lB           nB-g-(F)r-(B)r     řul  Ø-Ø-gi-cO     ve.
+    Wind-NOM North and Sun-NOM  3PL.GEN strength-OBL-POSSD 3-RECP-discuss-PST.IND-NPFV 3SG.REL.GEN moment-LOC NDEF -person-NOM 3-to_them-go-PST.IND PASS-hold-AGNZ-ACC warm 3-3-hold-NFIN ADV
+    "The North Wind and the Sun were discussing about their strength; at that moment a person came towards them wearing warm clothing[lit. that which is worn]."
+    
+    Vedla;          mikgirieser                      aval  kie   igı     cavabad    aħır loda küçur        bod  kinis.
+    Ø-ved-lB        Ø-Ø-Ø-mCk-gi-rC-Os-(F)r-Ø        aval  kie   igı     cavab-(B)d aħır loda küç-(B)r     bod  Ø-Ø-ki-nCs
+    3-agree-PST.IND 3-3-3-NEG-hold-SJV-CAUS-AGNZ-NOM first 3.ABL 3PL.GEN answer-DAT last ABL  strength-ACC more 3-3-have-FUT.CAT
+    "They agreed; the one who causes him to stop wearing it first out of them two, to their discussion they will have more strength than the other."
+    
+    Ava      Duk   avar     küçmu        tüm berlaħ,               leke küç      bod  ve  berteħ            to   küç      bod  ve  loǧ        nogaror              gal;              kep Ava      Duk   beraħcar               çilı.
+    Ava-Ø    Duk   ava-(B)r küç-mB       tüm Ø-Ø-ber-lB-(B)ħ       leke küç      bod  ve  Ø-Ø-ber-tF-(B)ħ   to   küç      bod  ve  loǧ-Ø      nB-g-(F)r-(B)r       Ø-Ø-g-(O)l        kep Ava-Ø    Duk   Ø-Ø-ber-(B)ħ-cO-(B)r   Ø-Ø-çi-lB.
+    Wind-NOM North wind-ACC strength-OBL all 3-3-give-PST.IND-EMPH but  strength more ADV 3-3-give-PST.CNTF then strength more ADV person-NOM PASS-hold-AGNZ-(ACC) 3-3-hold-PST.COND so  Wind-NOM North 3-3-give-EMPH-NFIN-ACC 3-3-finish-PST.IND
+    "The North Wind blew[lit. gave (emphatically)] wind with all the strength, but if it blew more strongly then the person would hold the clothing more strongly; so the North Wind finished blowing."
+    
+    Kep Dıǧa    pasar     řul  ve  berla,           kep eǧ           vakaye       loǧ        gicer             çilı.
+    Kep Dıǧa-Ø  pas-(B)r  řul  ve  Ø-Ø-ber-lB       kep eǧ           vak-(s)AyF   loǧ-Ø      Ø-Ø-gi-cO-(B)r    Ø-Ø-çi-lB
+    so  Sun-NOM light-ACC warm ADV 3-3-give-PST.IND so  3SG.DEM.DIST moment-LOC   person-NOM 3-3-hold-NFIN-ACC 3-3-finish-PST.IND
+    "So the Sun gave light warmly, so at that moment the person stopped wearing [their clothing]."
+    
+    Kep Dıǧa küçur bod kiri, Ava Duk ram cavabar naberles.
+    Kep Dıǧa-Ø küç-(B)r bod Ø-Ø-ki-rC Ava-Ø Duk ram cavab-(B)r nB-ber-lB-Os
+    so Sun-NOM strength-ACC more have-SJV Wind-NOM North 3SG.REL.ACC answer-ACC PASS-give-PST.IND-CAUS
+    "So that the Sun had more strength, the North Wind was made to acknowledge[lit. give this answer]."

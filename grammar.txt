@@ -275,6 +275,7 @@ grammar:
             - speaker-away: yC- (denotes movement away from the speaker)
             - speaker-facing: gC- (denotes movement towards the speaker or towards both the speaker and the listener)
             - listener-facing: dCg- (denotes movement towards the listener but not towards the speaker)
+            - third-person-facing: kO- (denotes movement towards a third person)
             - passive voice: nB- (valency-decreasing)
             - negative: mCk-
             - negative (imperative): çOk-

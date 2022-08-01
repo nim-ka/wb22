@@ -40,7 +40,8 @@ word list:
         2. (adj.) serious; important. see (1.)
     
     aħır (a²ħır) /ɦə²xɨɾ/
-        1. (adj.) last; final. from proto *aħır /hɑχɯɾ/ "id.", from arabic ākhir
+        1. (adj.) last; final; other. from proto *aħır /hɑχɯɾ/ "id.", from arabic ākhir
+        2. (n.) the last; the other. see (1.)
     
     alah (a²la²h) /ɦə²loːɦ/ (irregular spelling; phonetic respelling alaǧ)
         1. (n.) God. from arabic allah
@@ -95,6 +96,7 @@ word list:
     
     aval (a²va²l) /ɦə²və²l/
         1. (adj.) first; initial. from proto *aval /hɑvɑl/ "id.", from arabic awwal
+        2. (n.) the first. see (1.)
     
     ay (a²y) /ɦə²j/
         1. (n.) one. from proto *ay /hɑj/ "one"
@@ -147,7 +149,7 @@ word list:
     bod (bod) /but/
         1.
             a. (adj.) many; a large amount. from proto *bod /bod/ "id."
-            b. (adj.) a lot of. see (1a.)
+            b. (adj.) a lot of; more. see (1a.)
     
     bur (bur) /bʉɾ/
         1. (n.) something that is bad; a bad thing. from proto *bur /buɾ/ "id."
@@ -174,11 +176,15 @@ word list:
         1. (n.) answer; reply. from persian javāb
         2. (n.) speech; communication. see (1.)
     
-    cice (cice) /dʒedʒa/
+    cice (cice) /dʒeɦdʒa/
         1. (v. trans.) to work. root c-; from proto *c- /dʒ/ "id."
     
     çarap (ça¹ra¹p) /tʃə¹ɾə¹p/
         1. (n.) direction; path; way. from proto *çöröf /tʃøɾøf/ "id."
+    
+    çice (çice) /tʃeɦdʒa/
+        1. (v. trans.) to exit. root ç-; from proto *ç- /tʃ/ "id."
+        2. (v. trans.) to finish. see (1.)
     
     daǧ (da²ǧ) /doː/
         1. (n.) mountain. from proto *daǧ /dɑʁ/ "id."
@@ -191,9 +197,9 @@ word list:
     
     dıǧa (dıǧa²) /duːɦə²/
         1. (n.) the sun. from proto *dıǧa /dɯʁɑ/ "id."
-        1. (n.) day; daytime. see (1.)
+        2. (n.) day; daytime. see (1.)
     
-    dice (dice) /dedʒa/
+    dice (dice) /deɦdʒa/
         1. (v. trans.) (of an action) to be able to occur; to be possible. root d-; from proto *d- /d/ "id."
     
     dil (dil) /del/
@@ -204,12 +210,12 @@ word list:
     
     dok (dok) /dux/
         1.
-            a. (adj.) below; down. from proto *dok /dok/ "id."
+            a. (adj.) below; down; north. from proto *dok /dok/ "id."
             b. (n.) the bottom side; the area below. see (1a.)
     
     doros (doros) /duɾus/
         1. (adj.) right; correct. from persian dorost. see ganlı, mostaqim, se
-        1. (adj.) honest. see (1.)
+        2. (adj.) honest. see (1.)
     
     duco (duco) /dʉɦdʒu/
         1. (v. trans.) to feel; to experience; to sense. from proto *du /duh/ "id."
@@ -285,9 +291,16 @@ word list:
     ganlı (ga²nlı) /gə²nlɨ/
         1. (adj.) good; right. adjectival form of gan /gə²n/ "good thing". see doros, mostaqim, se
     
+    gice (gice) /geɦdʒa/
+        1. (v. trans.) to hold; to wear. root g-; from proto *g- /g/ "id."
+    
     gince (gince) /gendʒa/
         1. (v. trans.) to birth. from proto *gince /gindʒe/ "id."
             - used in the passive voice for "to be born"
+    
+    girce (girce) /geɾdʒa/
+        1. (v. trans.) to enter. from proto *girce /giɾdʒe/ "id."
+        2. (v. trans.) to begin. see (1.)
     
     godman (godma¹n) /gudmə¹n/
         1. (n.) year. from proto *godman /godmøn/ "id."
@@ -355,6 +368,9 @@ word list:
     ila (ila²) /ɦela²/
         1. (n.) thought; idea; intention. from proto *ila /hilɑ/ "id."
     
+    iqtidar (iqtida²r) /ɦexteda²ɾ/
+        1. (n.) (formal, poetic) power; strength; force. from arabic iqtidār
+    
     is (is) /ɦeʃ/
         1. (adj.) similar; same. from proto *is /hes/ "id."
     
@@ -377,7 +393,7 @@ word list:
         1. (v. trans.) to break; to shatter. from proto *kır /kɯɾ/ "id."
         2. (v. trans.) to hurt (emotionally); to devastate (emotionally). see (1.)
     
-    kice (keyce) /kajdʒa/
+    kice (kice) /keɦdʒa/
         1. (v. trans.) to (inalienably) possess something. root k-; from proto *k- /k/ "id."
             - alienable possession uses the construction "to be in the vicinity of" instead
     
@@ -403,6 +419,9 @@ word list:
     koy (koy) /kuj/
         1. (adj.) black; dark. from proto *koy /koj/ "id."
     
+    küç (küç) /køtʃ/
+        1. (n.) strength; power; force; might. from proto *küç /kytʃ/ "id."
+    
     lal (la²l) /lə²l/
         1. (adj.) red. from proto *lal /lɑl/ "id."
     
@@ -418,7 +437,7 @@ word list:
     lı (lı) /lɨ/
         1. (postp.) lative postposition; "to". from proto *lı /lɯ/ "id."
     
-    lice (lice) /ledʒa/
+    lice (lice) /leɦdʒa/
         1. (v. trans.) to get; to take; to receive. root l-; from proto *l- /l/ "id."
     
     loda (loda¹) /ludə¹/
@@ -448,7 +467,7 @@ word list:
     
     moşkil (moşkil) /muʃkel/
         1. (adj.) hard; difficult; overcomplicated. from arabic muşkil
-        1. (n.) problem. see (1.)
+        2. (n.) problem. see (1.)
     
     na (na¹) /nə¹/
         1. (n.) eight. from proto *nö /nø/ "id."
@@ -497,7 +516,7 @@ word list:
         1. (n.) child. from proto *paç /pɑtʃ/ "id."
     
     paǧca (pa²ǧdʒə²) /poːdʒə²/
-        1. (v. trans.) to speak; to opine. from proto *paǧca /pɑʁdʒɑ/ "id."; see etce
+        1. (v. intrans.) to talk; to speak; to discuss; to opine. from proto *paǧca /pɑʁdʒɑ/ "id."; see etce
     
     parak (pa²ra²k) /pə²ɾə²x/
         1. (adj.) different. from proto *faraq /fɑɾɑq/ "id.", from arabic farq
@@ -523,14 +542,18 @@ word list:
     pişen (pişen) /peʃan/
         1. (n.) fifty. from proto *pis /pis/ "five" + *yön /jøn/ "ten"
     
-    řice (řice) /ʒedʒa/
-        1. (v. intrans.) to stay; to remain. root ř-; from proto *r- /ɾ/ "id."
+    řice (řice) /ʒeɦdʒa/
+        1. (v. intrans.) to stay; to remain. root r-; from proto *r- /ɾ/ "id."
     
     řoohus (řoohus) /ʒuɦuhʉs/
         1. (n.) fire. from proto *roohus /ɾohoxus/ "id."
     
     řu (řu) /ʒʉɦ/
         1. (n.) soul; spirit; life essence. from proto *ru /ɾuh/, from arabic rūḥ
+    
+    řul (řul) /ʒʉl/
+        1. (n.) heat. from the adjectival form of proto *ru /ɾuh/
+        2. (adj.) warm; hot. see (1.)
     
     řuy (řuy) /ʒʉj/
         1. (n.) dream; a vision. from proto *ruy /ɾuj/ "id.", from arabic ru'ya
@@ -570,7 +593,7 @@ word list:
     
     saǧ (sa²ǧ) /soː/
         1.
-            a. (adj.) right (direction). from proto *saǧ /sɑʁ/ "id."
+            a. (adj.) right (direction); west. from proto *saǧ /sɑʁ/ "id."
                 - homophonous with the first person singular accusative pronoun
             b. (n.) the right side. see (1a.)
     
@@ -581,9 +604,13 @@ word list:
     soǧ (soǧ) /soː/
         1. (n.) water; drink. from proto *soǧ /soʁ/ "id."
     
+    soǧlu (soǧlu) /soːlʉ/
+        1. (adj.) cool; cold. lexicalized adjectival form of soǧ
+        2. (adj.) wet; liquid. see (1.)
+    
     sol (sol) /sul/
         1.
-            a. (adj.) left (direction). from proto *sol /sol/ "id."
+            a. (adj.) left (direction); east. from proto *sol /sol/ "id."
             b. (n.) the left side. see (1a.)
     
     sorco (sorco) /suɾdʒu/
@@ -633,7 +660,10 @@ word list:
         1. (n.) thirty. from proto *ti /ti/ "three" + *yön /jøn/ "ten"
     
     to (to) /tu/
-        1. (conj.) then. from proto *to /to/ "id."
+        1. (conj.) if ... then. from proto *to /to/ "id."
+    
+    tüm (tüm) /tøm/
+        1. (adj.) all of; entire; complete. from proto *tüm /tym/ "id."
     
     ugo (ugo) /ɦʉgu/
         1. (pron.) second person plural/formal pronoun; "you (pl.)". from proto *ugo /hugo/ "id.". forms:
@@ -711,7 +741,7 @@ word list:
     vedce (vedce) /vaddʒa/
         1. (v. intrans.) to agree. from proto *ved /ved/ "id."
     
-    vice (vice) /vedʒa/
+    vice (vice) /veɦdʒa/
         1. (v. trans.) to want. root v-; from proto *v- /v/ "id."
     
     vor (vor) /vuɾ/
@@ -732,7 +762,7 @@ word list:
     yok (yok) /jux/
         1. (intj.) no. from proto *yok /jok/ "is not"
         2.
-            a. (adj.) above; up. from proto *yok /jok/ "id."
+            a. (adj.) above; up; south. from proto *yok /jok/ "id."
             b. (n.) the top side; the area above. see (2a.)
     
     yokco (yokco) /juxdʒu/
@@ -764,7 +794,7 @@ word list:
     zaman (za²ma²n) /zə²mə²n/
         1. (n.) time (in a broad sense); era. from proto *zaman /zɑmɑn/ "id.", from persian zamān
     
-    zice (zice) /ʒedʒa/
+    zice (zice) /ʒeɦdʒa/
         1. (v. intrans.) to win; to struggle with a positive outcome. root z-; from proto *z- /z/ "id."
     
     ža (ža¹) /ʒə¹/
