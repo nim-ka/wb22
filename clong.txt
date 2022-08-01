@@ -1657,7 +1657,7 @@ hazhod /hə¹ʒhut/ [həʒˈhut] (n.) "for opium"
         hazho (ha¹zho) /hə¹ʒhu/
             1. (n.) opium. from the responsibilitive of haz "sleep"; literally "thing that causes sleep"
 
-žar /ʒə¹ɾ/ [ʒəɾ] (n.) "for life"
+žar /ʒə¹ɾ/ [ʒəɾ] (n.) "life" (accusative)
     ža¹-(B)r
     life-ACC
     accusative form of ža "life"
@@ -1742,13 +1742,13 @@ i wrote a poem! translation liberal
 the north wind and the sun: (this translation was annoying because i didnt have enough time to make as many words as i wanted lol)
     
     Ava Duk i Dıǧa igı küçmunu zapaǧlatançi; am vakaye a ǧoǧ kokolo, nogaror řul gice ve.
-    [ɦəˈvə ˈdʉx ɦe dɨːˈɦə ɦeˈgɨ køtʃmʉˈnʉ zəpoːɫətənˈtʃe ɦəm vəkəˈya ɦə ˈɦuː kukuˈɫu nugəˈɾuɾ ˈʒʉɫ geɦˈdʒa va]
+    [ɦəˈvə ˈdʉx ɦe dɨːˈɦə ɦeˈgɨ køtʃmʉˈnʉ zəpoːɫətənˈtʃe ɦəm vəkəˈja ɦə ˈɦuː kukuˈɫu nugəˈɾuɾ ˈʒʉɫ geɦˈdʒa va]
     Vedla; mikgirieser aval kie igı cavabad aħır loda küçur bod kinis.
     [vadˈɫə mexgeɦɾeɦaˈʃaɾ ɦəvˈəɫ keˈɦa ɦeˈgɨ dʒəvəˈbət ɦəˈxɨɾ ɫuˈdə køˈtʃʉɾ ˈbut keɦˈneʃ]
     Ava Duk avar küçmu tüm berlaħ, leke küç bod ve berteħ to küç bod ve loǧ nogaror gal; kep Ava Duk beraħcar çilı.
     [ɦəˈvə ˈdʉx ɦəˈvəɾ køtʃˈmʉ ˈtøm baɾˈɫəx laka køˈtʃ ˈbut va baɾˈtax tu ˈkøtʃ ˈbut va ˈɫuː nugəˈɾuɾ ˈgəɫ kap ɦəˈvə ˈdʉx baɾəxˈdʒəɾ tʃeɦˈlɨ]
     Kep Dıǧa pasar řul ve berla, kep eǧ vakaye loǧ gicer çilı.
-    [kap dɨːˈɦə pəˈsəɾ ˈʒʉl va baɾˈɫə kap ˈɦaː vəkəˈya ˈɫuː geɦˈdʒaɾ tʃeɦˈɫɨ]
+    [kap dɨːˈɦə pəˈsəɾ ˈʒʉl va baɾˈɫə kap ˈɦaː vəkəˈja ˈɫuː geɦˈdʒaɾ tʃeɦˈɫɨ]
     Kep Dıǧa küçur bod kiri, Ava Duk ram cavabar naberles.
     [kap dɨːˈɦə køˈtʃʉɾ ˈbut keˈɾe ɦəˈvə ˈdʉx ˈɾəm dʒəvəˈbəɾ nəbaɾˈlaʃ]
     
